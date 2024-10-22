@@ -1,0 +1,283 @@
+ 1.  Una breve introducción a ggplot2
+     http://verso.mat.uam.es/~joser.berrendero/R/introggplot2.html
+
+ 2.  Función ggplot() de ggplot2
+     https://rpubs.com/daniballari/ggplot
+
+ 3.  Create Elegant Data Visualisations Using the Grammar of ...
+     https://ggplot2.tidyverse.org/
+
+ 4.  Capitulo 6 ggplot2 | Curso R base
+     https://bookdown.org/paradinas_iosu/CursoR/ggplot2.html
+
+ 5.  Módulo 4. Gráficos avanzados con ggplot - RUA
+     https://rua.ua.es/dspace/bitstream/10045/69767/1/Modulo_4_-_Graficos_avanzados_con_ggplot2.pdf
+
+ 6.  Create a new ggplot
+     https://ggplot2.tidyverse.org/reference/ggplot.html
+
+ 7.  6 Visualización de datos usando ggplot2
+     http://www.castrolab.org/teaching/data_analysis/visualizacion-de-datos-usando-ggplot2.html
+
+ 8.  Graficación con Ggplot2
+     https://rpubs.com/paraneda/ggplot
+
+ 9.  ggplot2-cheatsheet-2.1 Spanish
+     https://diegokoz.github.io/intro_ds/fuentes/ggplot2-cheatsheet-2.1-Spanish.pdf
+
+ 10. 3 Visualización de datos
+     https://es.r4ds.hadley.nz/03-visualize.html
+
+ 11. Capítulo 7 ggplot2 | Introducción a la ciencia de datos
+     http://rafalab.dfci.harvard.edu/dslibro/ggplot2.html
+
+ 12. Capítulo 3 Ggplot y dplyr | Data Science con R
+     https://bookdown.org/dparedesi/data-science-con-r/ggplot-y-dplyr.html
+
+ 13. El arte de {ggplot2} bien contado Estilo
+     https://elartedeldato.com/ggplot2/estilo
+
+ 14. Data visualization with ggplot2
+     https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html
+
+ 15. Entendiendo ggplot2
+     http://gauss.inf.um.es:8080/tabular-ggplot/
+
+ 16. Ejes
+     https://elartedeldato.com/ggplot2/ejes
+
+ 17. Data visualization with ggplot2 :: Cheat Sheet
+     https://rstudio.github.io/cheatsheets/html/data-visualization.html
+
+ 18. Elaboracion de graficos con ggplot2
+     https://cibcm.ucr.ac.cr/wp-content/uploads/2021/11/Graficos_dia1.html
+
+ 19. ¿Cómo Añadir una Recta de Regresión a un ggplot?
+     https://thomasadventure.blog/es/posts/ggplot-recta-de-regresion/
+
+ 20. (PDF) Ggplot: gráficos de alta calidad
+     https://www.researchgate.net/publication/323202960_Ggplot_graficos_de_alta_calidad
+
+ 21. CRAN: Package ggplot2
+     https://cran.r-project.org/package=ggplot2
+
+ 22. Gráficos con el paquete ggplot2
+     https://r-charts.com/es/ggplot2/
+
+ 23. Data visualization with R and ggplot2
+     https://r-graph-gallery.com/ggplot2-package.html
+
+ 24. Visualizar con ggplot2 - Data and Politics
+     https://www.jordimas.cat/courses/dataanalysis_es/tema2/analisis_datos_es_visualizar_ggplot2/
+
+ 25. Cursos en línea para aprender ggplot
+     https://www.datakwery.com/es/tools/ggplot/
+
+ 26. Introducción a ggplot2
+     https://www.odiolaestadistica.com/estadistica-r/apendice/ggplot-1/
+
+ 27. ggplot function
+     https://www.rdocumentation.org/packages/ggplot2/versions/0.9.0/topics/ggplot
+
+ 28. ggplot | dlegorreta - WordPress.com
+     https://dlegorreta.wordpress.com/tag/ggplot/
+
+ 29. Uso de la librería “ggplot” en Python y R
+     https://www.cursosgis.com/uso-de-la-libreria-ggplot-en-python-y-r/
+
+ 30. Introduction to ggplot
+     https://physiology.med.cornell.edu/people/banfelder/qbio/lecture_notes/intro2ggplot.html
+
+ 31. Visualización de datos con ggplot2 : : GUÍA RÁPIDA - GitHub
+     https://raw.githubusercontent.com/rstudio/cheatsheets/main/translations/spanish/data-visualization_es.pdf
+
+ 32. Temas en ggplot2
+     https://r-charts.com/es/ggplot2/temas/
+
+ 33. geom_line() - Gráficos de líneas
+     https://soka.gitlab.io/blog/post/2019-04-01-r-ggplot2-grafico-lineas/
+
+ 34. Capítulo 5 Representación gráfica básica con ggplot
+     https://analisisydecision.es/estadistica-data-scientist/basicos-ggplot.html
+
+ 35. consulta de ggplot
+     https://es.stackoverflow.com/questions/475099/consulta-de-ggplot
+
+ 36. ggplot2 barplots : Quick start guide - Data Visualization
+     http://www.sthda.com/english/wiki/ggplot2-barplots-quick-start-guide-r-software-and-data-visualization
+
+ 37. ggplot
+     https://pypi.org/project/ggplot/
+
+ 38. plotnine 0.13.6 – A Grammar of Graphics for Python
+     https://plotnine.org/
+
+ 39. ggplot2
+     https://en.wikipedia.org/wiki/Ggplot2
+
+ 40. Diferencia entre qplot y ggplot | Download Scientific Diagram
+     https://www.researchgate.net/figure/Figura-1-Diferencia-entre-qplot-y-ggplot_fig1_323202960
+
+ 41. Visualizaciones básicas con ggplot - Eduardo León Bologna
+     https://ebologna.rbind.io/post/visualizaciones-basicas-con-ggplot2/
+
+ 42. ggplot style sheet
+     https://matplotlib.org/stable/gallery/style_sheets/ggplot.html
+
+ 43. Agregar varias líneas en un ggplot
+     https://es.stackoverflow.com/questions/608529/agregar-varias-l%C3%ADneas-en-un-ggplot
+
+ 44. ggplot2 line plot : Quick start guide - Data Visualization
+     http://www.sthda.com/english/wiki/ggplot2-line-plot-quick-start-guide-r-software-and-data-visualization
+
+ 45. ggplot | Domino Data Science Dictionary
+     https://domino.ai/data-science-dictionary/ggplot
+
+ 46. Cual es la diferencia entre usar solo qplot() y ggplot()? ...
+     https://platzi.com/discusiones/1445-fundamentos-r/152611-cual-es-la-diferencia-entre-usar-solo-qplot-y-ggplot-la-personalizacion/
+
+ 47. Ggplot: gráficos de alta calidad
+     https://ideas.repec.org/p/col/000131/010165.html
+
+ 48. GGPlot Examples Best Reference
+     https://www.datanovia.com/en/blog/ggplot-examples-best-reference/
+
+ 49. ggplot 2.0.0
+     https://posit.co/blog/ggplot2-2-0-0/
+
+ 50. Capacitación en el paquete ggplot - Cibcm
+     https://cibcm.ucr.ac.cr/capacitaciones/capacitacion-en-el-paquete-ggplot/
+
+ 51. Tema2 ggplot 2 - Apuntes de R - TEMA 2. Gráficos ggplot2. ...
+     https://www.studocu.com/es-mx/document/universidad-nacional-autonoma-de-mexico/introduccion-a-la-economia/tema2-ggplot-2-apuntes-de-r/32468559
+
+ 52. ggplot2 Graphs
+     https://www.statmethods.net/advgraphs/ggplot2.html
+
+ 53. Visualización de datos con ggplot
+     http://www.ine.gob.cl/ine-educa/clases-r/capsulas-basicas/visualizacion-de-datos-con-ggplot
+
+ 54. The Basics of ggplot2
+     https://environmentalcomputing.net/graphics/ggplot/ggplot-basics/
+
+ 55. yhat/ggpy: ggplot port for python
+     https://github.com/yhat/ggpy
+
+ 56. ggplot2: Elegant Graphics for Data Analysis (3e)
+     https://ggplot2-book.org/
+
+ 57. 3 Data visualisation - R for Data Science - Hadley Wickham
+     https://r4ds.had.co.nz/data-visualisation.html
+
+ 58. Data Visualization with ggplot2 : : CHEAT SHEET
+     https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf
+
+ 59. Chapter 8 ggplot2 | Introduction to Data Science
+     https://rafalab.dfci.harvard.edu/dsbook/ggplot2.html
+
+ 60. ggplot : Everything you need to know about the R data ...
+     https://datascientest.com/en/ggplot-everything-you-need-to-know-about-the-r-data-visualization-library
+
+ 61. ggplot GUI
+     https://shiny.gmw.rug.nl/ggplotgui/
+
+ 62. How to Make a ggplot2 Histogram in R
+     https://www.datacamp.com/tutorial/make-histogram-ggplot2
+
+ 63. 30 ggplot basics
+     https://epirhandbook.com/new_pages/ggplot_basics.html
+
+ 64. 1. Data Visualization with ggplot2 - R for Data Science [Book]
+     https://www.oreilly.com/library/view/r-for-data/9781491910382/ch01.html
+
+ 65. Visualize two vectors using a scatterplot
+     https://posit.cloud/learn/recipes/visualize/VisualizeA1A
+
+ 66. How to Make Stunning Histograms in R: A Complete Guide ...
+     https://www.appsilon.com/post/ggplot2-histograms
+
+ 67. Ggplot
+     https://www.camartinezbu.com/tags/ggplot/
+
+ 68. Plot Time Series with ggplot2 in R | NSF NEON
+     https://www.neonscience.org/resources/learning-hub/tutorials/dc-time-series-plot-ggplot-r
+
+ 69. Práctica 4. Estadística Descriptiva con R
+     https://estadistica-dma.ulpgc.es/estadFCM/html/Practica4-Desarrollo.html
+
+ 70. Create a new ggplot in ggplot2
+     https://rdrr.io/cran/ggplot2/man/ggplot.html
+
+ 71. Plotly ggplot2 Open Source Graphing Library
+     https://plotly.com/ggplot2/
+
+ 72. The Evolution of a ggplot (Ep. 1)
+     https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/
+
+ 73. CRAN - Package ggplot
+     https://cran.r-project.org/package=ggplot
+
+ 74. Key components of ggplot()
+     https://biostats.w.uib.no/key-components/
+
+ 75. Data Visualization: from qplot() to ggplot()
+     http://www.science.smith.edu/~rgarcia/sds201-S18/labs/data_visualization.html
+
+ 76. CRAN: Package loon.ggplot
+     https://cran.rstudio.com/web/packages/loon.ggplot/index.html
+
+ 77. 12 ggplot extensions for snazzier R graphics
+     https://www.infoworld.com/article/2336125/12-ggplot-extensions-for-snazzier-r-graphics.html
+
+ 78. Using ggplot in Python: Visualizing Data With plotnine
+     https://realpython.com/ggplot-python/
+
+ 79. How to pass custom function arguments into ggplot aes
+     https://forum.posit.co/t/how-to-pass-custom-function-arguments-into-ggplot-aes/161985
+
+ 80. Best ggplot visualizations
+     https://nextjournal.com/jk/best-ggplot
+
+ 81. 4.2 Anatomy of ggplot explained | R for Health Data Science
+     https://argoshare.is.ed.ac.uk/healthyr_book/chap04-gganatomy.html
+
+ 82. Basic barplot with ggplot2
+     https://r-graph-gallery.com/218-basic-barplots-with-ggplot2.html
+
+ 83. Paquete ggplot - Potencia y facilidad para generar gráficos ...
+     https://es.slideshare.net/slideshow/ggplot/5562355
+
+ 84. Ggplot: gráficos de alta calidad Julio César Alonso ...
+     https://www.icesi.edu.co/departamentos/images/departamentos/FCAE/economia/apuntesEconomia/alonso_ggplot_graficos_2012.pdf
+
+ 85. ggplot2 Facets in R using facet_wrap, facet_grid, & ...
+     https://www.datacamp.com/tutorial/facets-ggplot-r
+
+ 86. Elegant Graphics for Data Analysis (3e) - 2 First steps
+     https://ggplot2-book.org/getting-started
+
+ 87. 12 Extensions to ggplot2 for More Powerful R Visualizations
+     https://mode.com/blog/r-ggplot-extension-packages/
+
+ 88. GGPlot AES: How to Assign Aesthetics in GGPlot2
+     https://www.datanovia.com/en/blog/ggplot-aes-how-to-assign-aesthetics-in-ggplot2/
+
+ 89. A ggplot2 Tutorial for Beautiful Plotting in R
+     https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
+
+ 90. A Comprehensive Guide on ggplot2 in R
+     https://www.analyticsvidhya.com/blog/2022/03/a-comprehensive-guide-on-ggplot2-in-r/
+
+ 91. How to make any plot in ggplot2?
+     http://r-statistics.co/ggplot2-Tutorial-With-R.html
+
+ 92. Helper function for adding a ggplot — ggplot_image
+     https://gt.rstudio.com/reference/ggplot_image.html
+
+ 93. Introduction to ggplot
+     https://physiology.med.cornell.edu/people/banfelder/qbio/resources_2021/2021_intro2ggplot.html
+
+ 94. Incluir subplot en mapa con ggplot
+     https://analisisydecision.es/incluir-subplot-en-mapa-con-ggplot/
+
+googler (? for help): googler (? for help): 

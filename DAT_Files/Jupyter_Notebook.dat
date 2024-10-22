@@ -1,0 +1,294 @@
+ 1.  Project Jupyter | Home
+     https://jupyter.org/
+     The Jupyter Notebook is a web-based interactive computing platform. The notebook combines live code, equations, narrative text,
+     visualizations, ...
+
+ 2.  Jupyter Notebook: qué es y cómo se usa
+     https://ebac.mx/blog/jupyter-notebook
+
+ 3.  Proyecto Jupyter - Wikipedia, la enciclopedia libre
+     https://es.wikipedia.org/wiki/Proyecto_Jupyter
+
+ 4.  Cómo utilizar Jupyter Notebooks: La guía definitiva
+     https://www.datacamp.com/es/tutorial/tutorial-jupyter-notebook
+
+ 5.  Jupyter Notebook - Editor de Python para Data Science
+     https://www.themachinelearners.com/jupyter-notebook/
+
+ 6.  Online Jupyter Notebooks
+     https://cocalc.com/features/jupyter-notebook
+
+ 7.  Primeros pasos en Jupyter Notebook con Python
+     https://medium.com/@diego.coder/primeros-pasos-en-jupyter-notebook-con-python-bff43c73621
+
+ 8.  Jupyter Notebook Documentation — Jupyter Notebook 7.2.1 ...
+     https://jupyter-notebook.readthedocs.io/
+
+ 9.  Jupyter Notebook: documentos web para análisis de datos ...
+     https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/jupyter-notebook/
+
+ 10. Jupyter Interactive Notebook
+     https://github.com/jupyter/notebook
+
+ 11. Ejecución de cuadernos de Jupyter en el área de trabajo
+     https://learn.microsoft.com/es-es/azure/machine-learning/how-to-run-jupyter-notebooks?view=azureml-api-2
+
+ 12. Resolución de problemas con Jupyter Notebook
+     https://www.coursera.support/s/article/360004995312-Solve-problems-with-Jupyter-Notebooks?language=es
+
+ 13. Jupyter Notebook — OSGeoLive 16.0 Documentation
+     https://live.osgeo.org/es/overview/jupyter_overview.html
+
+ 14. Conectar Jupyter Notebook al servicio de consultas
+     https://experienceleague.adobe.com/es/docs/experience-platform/query/clients/jupyter-notebook
+
+ 15. Ejemplos de Jupyter Notebook
+     https://www.ibm.com/docs/es/cognos-analytics/11.1.0?topic=samples-jupyter-notebook
+
+ 16. How to Use Jupyter Notebook in 2024: A Beginner's Tutorial
+     https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+ 17. Manual de uso de Jupyter Notebook para aplicaciones ...
+     https://eprints.ucm.es/48304/
+
+ 18. Instalación de Jupyter Notebook
+     http://programacion.espol.edu.ec/%23/gu%C3%ADas-de-instalaci%C3%B3n/instalaci%C3%B3n-de-jupyter-notebook/
+
+ 19. Tutorial de Python con Jupyter Notebook
+     https://facundoq.github.io/courses/aa2018/res/02_python.html
+
+ 20. Cómo instalar Anaconda y jupyter notebook para ciencia ...
+     https://mappinggis.com/2022/10/como-instalar-anaconda-y-jupyter-notebook-para-ciencia-de-datos-y-gis/
+
+ 21. Jupyter Notebook 7.2.1 documentation
+     https://jupyter-notebook.readthedocs.io/en/stable/notebook.html
+
+ 22. Project Jupyter
+     https://en.wikipedia.org/wiki/Project_Jupyter
+
+ 23. Google Colab
+     https://colab.google/
+
+ 24. Instala y ejecuta un notebook de Jupyter en un clúster ...
+     https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook?hl=es-419
+
+ 25. Primeros pasos con Jupyter Notebook
+     https://adictosaltrabajo.com/2018/01/18/primeros-pasos-con-jupyter-notebook/
+
+ 26. Descubre Jupyter Notebook: imprescindible para ciencia ...
+     https://aprenderbigdata.com/jupyter-notebook/
+
+ 27. Working with Jupyter Notebooks in Visual Studio Code
+     https://code.visualstudio.com/docs/datascience/jupyter-notebooks
+
+ 28. Cómo usar Jupyter Notebook
+     https://www.tokioschool.com/noticias/como-usar-jupyter-notebook/
+
+ 29. Configurar un laboratorio de ciencia de datos con Python y ...
+     https://learn.microsoft.com/es-es/azure/lab-services/class-type-jupyter-notebook
+
+ 30. Jupyter vs JupyterLab: ¿En qué se diferencian?
+     https://www.campusmvp.es/recursos/post/jupyter-vs-jupyterlab-en-que-se-diferencian.aspx
+
+ 31. Cómo instalar Jupyter Notebook, ejecutarla y conectarse a ...
+     https://www.digitalocean.com/community/tutorials/como-instalar-jupyter-notebook-ejecutarla-y-conectarse-a-ella-en-un-servidor-remoto-es
+
+ 32. ¿Conoces Jupyter Notebook? - CEUPE
+     https://www.ceupe.mx/blog/conoces-jupyter-notebook.html
+
+ 33. What is Jupyter Notebook?
+     https://domino.ai/data-science-dictionary/jupyter-notebook
+
+ 34. Google Colab
+     https://colab.research.google.com/
+
+ 35. Jupyter Notebook: descubre de qué se trata - DevCamp
+     https://devcamp.es/descubre-en-que-consiste-jupyter-notebook-con-devcamp/
+
+ 36. Requisitos de hardware para Jupyter Notebook Server
+     https://www.ibm.com/docs/es/cognos-analytics/11.1.0?topic=server-hardware-requirements-jupyter-notebook
+
+ 37. Tutorial de Jupyter Notebook - Programa en Python
+     https://www.programaenpython.com/miscelanea/tutorial-de-jupyter-notebook/
+
+ 38. The Jupyter Notebook
+     https://ipython.org/notebook.html
+
+ 39. Cómo programar con Python y R en el mismo Jupyter ...
+     https://anderfernandez.com/blog/programar-con-python-y-r-en-el-mismo-jupyter-notebook/
+
+ 40. Tutorial de Markdown en Jupyter Notebook
+     https://www.datacamp.com/es/tutorial/markdown-in-jupyter-notebook
+
+ 41. Guía Rápida de Jupyter Notebook
+     http://live.osgeo.org/es/quickstart/jupyter_quickstart.html
+
+ 42. Jupyter notebook support | PyCharm Documentation
+     https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html
+
+ 43. Using Jupyter Notebook
+     https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/
+
+ 44. Jupyter Notebook files
+     https://jupyterbook.org/file-types/notebooks.html
+
+ 45. Como es que consigo volver comentarios a varias lineas ...
+     https://platzi.com/discusiones/1725-algebra-lineal/72960-como-es-que-consigo-volver-comentarios-a-varias-lineas-en-jupyter-notebook/
+
+ 46. Jupyter Notebook Guide
+     https://www.databricks.com/glossary/jupyter-notebook
+
+ 47. How To Use Jupyter Notebooks
+     https://www.codecademy.com/article/how-to-use-jupyter-notebooks
+
+ 48. jupyter notebook no me permite acceder a mis carpetas
+     https://es.stackoverflow.com/questions/322962/jupyter-notebook-no-me-permite-acceder-a-mis-carpetas
+
+ 49. Jupyter Notebook
+     https://www.scilab.org/jupyter-notebook
+
+ 50. Herramientas Low-code: Jupyter Notebook
+     https://es.linkedin.com/pulse/herramientas-low-code-jupyter-notebook-marchena
+
+ 51. Jupyter
+     https://interactivechaos.com/es/manual/tutorial-de-python/jupyter
+
+ 52. Jupyter Notebook
+     https://www.aprendemachinelearning.com/tag/jupyter-notebook/
+
+ 53. What Is Jupyter Notebook?
+     https://builtin.com/software-engineering-perspectives/jupyter-notebook
+
+ 54. Cómo configurar Jupyter Notebook con Python 3 en ...
+     https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-18-04-es
+
+ 55. Jupyter Notebook files
+     https://docs.gitlab.com/ee/user/project/repository/files/jupyter_notebooks/
+
+ 56. Jupyter Notebook: An Introduction
+     https://realpython.com/jupyter-notebook-introduction/
+
+ 57. Jupyter Notebook 101
+     https://www.kaggle.com/code/jhoward/jupyter-notebook-101
+
+ 58. Introducción a Jupyter Notebook
+     https://aprendeia.com/introduccion-a-jupyter-notebook/
+
+ 59. Setup Jupyter Notebook for R | Devportal
+     https://developers.lseg.com/en/article-catalog/article/setup-jupyter-notebook-r
+
+ 60. Tutorial: Hello, Quarto
+     https://quarto.org/docs/get-started/hello/
+
+ 61. ARDC Jupyter Notebook Service
+     https://ardc.edu.au/services/ardc-nectar-research-cloud/ardc-jupyter-notebook-service/
+
+ 62. Practical Data Analysis Using Jupyter Notebook: Learn how to ...
+     https://books.google.com.mx/books?id=tqTsDwAAQBAJ&pg=PA35&lpg=PA35&dq=Jupyter+Notebook&source=bl&ots=3yCbkw4C_R&sig=ACfU3U0geCFAM9lqkMuqBl82X2VTFTi0kw&hl=es-419&sa=X&ved=2ahUKEwjE9PWv8saHAxUYLtAFHWSALqwQ6AF6BAg7EAM
+     Marc
+     Wintjen
+
+ 63. How to Install Jupyter Notebook on Windows?
+     https://www.geeksforgeeks.org/install-jupyter-notebook-in-windows/
+
+ 64. Jupyter Notebook with Stata
+     https://www.stata.com/features/overview/jupyter-notebooks/
+
+ 65. Set Up Jupyter Notebook for Training Course
+     https://www.star.nesdis.noaa.gov/atmospheric-composition-training/software_jupyter_notebook_set-up.php
+
+ 66. Binder
+     https://mybinder.org/v2/gh/jupyter-xeus/xeus-cling/stable?filepath=notebooks/xcpp.ipynb
+
+ 67. Carnets - Jupyter on the App Store
+     https://apps.apple.com/us/app/carnets-jupyter/id1450994949
+
+ 68. Using the Jupyter Notebook environment
+     https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/
+
+ 69. Presentaciones usando Jupyter Notebook.
+     https://medium.com/@alejatorresm/presentaciones-usando-jupyter-notebook-6cb20434fbe9
+
+ 70. Jupyter Notebooks
+     https://docs.posit.co/connect/user/jupyter-notebook/
+
+ 71. Jupyter and the future of IPython — IPython
+     https://ipython.org/
+
+ 72. Jupyter notebook tutorial in Python
+     https://plotly.com/python/ipython-notebook-tutorial/
+
+ 73. Jupyter - Visual Studio Marketplace
+     https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
+
+ 74. Creating a New Jupyter Notebook - SystemLink
+     https://www.ni.com/docs/en-US/bundle/systemlink/page/creating-a-new-jupyter-notebook.html
+
+ 75. Built with Jupyter Book
+     https://jupyterbook.org/
+
+ 76. Los mejores cursos de Jupyter Notebook en línea
+     https://www.udemy.com/topic/jupyter-notebook/?persist_locale&locale=es_ES
+
+ 77. Track Jupyter Notebooks - Weights & Biases Documentation
+     https://docs.wandb.ai/guides/track/jupyter
+
+ 78. Jupyter Notebook
+     https://saturncloud.io/glossary/jupyter-notebook/
+
+ 79. Run Jupyter Notebooks
+     https://developer.nvidia.com/run-jupyter-notebooks
+
+ 80. Solve problems with Jupyter Notebooks
+     https://www.coursera.support/s/article/360004995312-Solve-problems-with-Jupyter-Notebooks
+
+ 81. ¿Cómo puedo ver la ayuda de Jupyter notebook?
+     https://es.stackoverflow.com/questions/246357/c%C3%B3mo-puedo-ver-la-ayuda-de-jupyter-notebook
+
+ 82. Jupyter Notebook
+     https://docs.kepler.gl/docs/keplergl-jupyter
+
+ 83. jupyter/datascience-notebook - Docker Image
+     https://hub.docker.com/r/jupyter/datascience-notebook/
+
+ 84. 10 Jupyter Notebook Alternatives & Competitors in 2024
+     https://clickup.com/blog/jupyter-alternatives/
+
+ 85. Releases · jupyter/notebook
+     https://github.com/jupyter/notebook/releases
+
+ 86. Why Jupyter is data scientists' computational notebook of ...
+     https://www.nature.com/articles/d41586-018-07196-1
+
+ 87. Python and Jupyter Notebook | Scientific Computing and Data
+     https://labs.icahn.mssm.edu/minervalab/documentation/python-and-jupyter-notebook/
+
+ 88. Introduction to Jupyter Notebook
+     https://pythonnumericalmethods.berkeley.edu/notebooks/chapter01.04-Introduction-to-Jupyter-Notebook.html
+
+ 89. Jupyter Notebook Viewer
+     https://chrome.google.com/webstore/detail/jupyter-notebook-viewer/ocabfdicbcamoonfhalkdojedklfcjmf?hl=es&gl=AR
+
+ 90. Un modelo de clase invertida basado en el uso de Jupyter ...
+     https://biblioteca2.uc3m.es/docencia20/2021/03/22/aplicando-el-modelo-de-clase-invertida-para-dinamizar-las-clases/
+
+ 91. Multi-Cloud Automation with Ansible: Automate, orchestrate, ...
+     https://books.google.com.mx/books?id=3CjqEAAAQBAJ&pg=PT266&lpg=PT266&dq=Jupyter+Notebook&source=bl&ots=k9NV7Eim6_&sig=ACfU3U06lC3-QsPChI3ZTYNOCrd-cCJqqQ&hl=es-419&sa=X&ved=2ahUKEwjE9PWv8saHAxUYLtAFHWSALqwQ6AF6BAg5EAM
+     Pankaj
+     Sabharwal
+
+ 92. Jupyter Notebook Basics - Anaconda Learning
+     https://learning.anaconda.cloud/jupyter-notebook-basics
+
+ 93. Systems Medicine: Integrative, Qualitative and Computational ...
+     https://books.google.com.mx/books?id=suneDwAAQBAJ&pg=RA1-PA441&lpg=RA1-PA441&dq=Jupyter+Notebook&source=bl&ots=iH09BH3Iyt&sig=ACfU3U1nVTZaMU1yVLE7YmxmNaG7ZPS7gA&hl=es-419&sa=X&ved=2ahUKEwjE9PWv8saHAxUYLtAFHWSALqwQ6AF6BAg6EAM
+     202
+     0
+
+ 94. Jupyter Notebook Users Manual.ipynb - Bryn Mawr College
+     https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb
+
+ 95. Download Anaconda Distribution
+     https://www.anaconda.com/download
+
+googler (? for help): googler (? for help): 

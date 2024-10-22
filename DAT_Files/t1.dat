@@ -1,0 +1,59 @@
+https://docs.google.com/document/d/1HFZByfAflyjWn5AQBlUXFh7sKt3nYpeA0Nts1hx-eaU/edit?usp=drive_link
+
+https://www.sfu.ca/phys/347/
+
+sudo apt install translate-shell
+
+
+https://manpages.ubuntu.com/manpages/xenial/man1/trans.1.html
+
+(base) santosg@lucrecia:~/HTML_TODO$ cat ../act1424.txt 
+1. temarios
+2. deportivo
+3. buscra cafe en casa
+4. opengl
+5. ordenar fotos drive
+https://docs.anaconda.com/miniconda/
+https://docs.python.org/es/3.9/library/turtle.html
+https://matplotlib.org/stable/gallery/lines_bars_and_markers/multicolored_line.html#sphx-glr-gallery-lines-bars-and-markers-multicolored-line-py
+https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
+https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html
+11. TEMARIO_jul1424
+
+Uriel-UAM
+
+https://hackmd.io/1PQN7bbNRFW5RxtrNoKbRw
+
+https://hackmd.io/@Leopoldo/SyMdk9IOC
+
+https://hackmd.io/@Leopoldo/SyMdk9IOC
+
+
+
+https://www.tutorialspoint.com/jogl/jogl_installation.htm
+
+
+https://jogamp.org/
+
+https://extassisnetwork.com/tutoriales/como-cambiar-el-nombre-de-host-en-ubuntu/
+
+https://pimylifeup.com/ubuntu-hosts-file/
+
+========================================================
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
+
+sudo add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/"
+
+sudo apt update
+
+sudo apt install r-base
+
+=============================================================
+(base) santosg@lucrecia:~/HTML_TODO$ cat ../umx.txt 
+install.packages("devtools")
+library("devtools")
+install_github("tbates/umx")
+library("umx")
+?umx
+============================================================
+

@@ -1,0 +1,292 @@
+ 1.  OpenGL Shading Language
+     https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language
+
+ 2.  OpenGL Shading Language
+     https://en.wikipedia.org/wiki/OpenGL_Shading_Language
+
+ 3.  GLSL - Wikipedia, la enciclopedia libre
+     https://es.wikipedia.org/wiki/GLSL
+
+ 4.  LearnOpenGL - Shaders
+     https://learnopengl.com/Getting-started/Shaders
+
+ 5.  Core Language (GLSL) - OpenGL Wiki
+     https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)
+
+ 6.  GLSL Shaders - Game development - MDN Web Docs
+     https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/GLSL_Shaders
+
+ 7.  OpenGL Shading Language : Rost, Randi J.
+     https://www.amazon.com.mx/OpenGL-Shading-Language-Randi-Rost/dp/0321334892
+
+ 8.  Shading Language used in Unity
+     https://docs.unity3d.com/es/530/Manual/SL-ShadingLanguage.html
+
+ 9.  Introduction to GLSL By Jacobo Rodriguez Villar
+     https://www.opengl.org/sdk/docs/tutorials/TyphoonLabs/Chapter_1.pdf
+
+ 10. Opengl 4 Shading Language Cookbook: Wolff, David
+     https://www.amazon.com/OpenGL-Shading-Language-Cookbook-Second/dp/1782167021
+
+ 11. OpenGL Shading Language (GLSL) - Packages
+     https://packagecontrol.io/packages/OpenGL%20Shading%20Language%20%28GLSL%29
+
+ 12. What is the difference between opengl and GLSL?
+     https://stackoverflow.com/questions/16631981/what-is-the-difference-between-opengl-and-glsl
+
+ 13. OpenGL ES Shading Language -- Built-In functions
+     http://15462.courses.cs.cmu.edu/fall2019/article/20
+
+ 14. OpenGL Shading Language: | Guide books | ACM Digital Library
+     https://dl.acm.org/doi/book/10.5555/1696393
+
+ 15. GLSL Basics By Jacobo Rodriguez Villar
+     https://www.opengl.org/sdk/docs/tutorials/TyphoonLabs/Chapter_2.pdf
+
+ 16. OpenGL 4 Shading Language Cookbook - Second Edition
+     https://www.packtpub.com/en-au/product/opengl-4-shading-language-cookbook-second-edition-9781782167020
+
+ 17. OpenGL Shading Language (GLSL)
+     https://en.parceljs.org/openGL.html
+
+ 18. The OpenGL ES Shading Language
+     https://developer.nvidia.com/docs/drive/drive-os/6.0.8.1/public/drive-os-linux-sdk/api_reference/GLSL_ES_Specification_3.20.withchanges.pdf
+
+ 19. GLSL Shaders Language. Introduction | by Mateo Estrada
+     https://medium.com/@estradma/glsl-shaders-language-4b4e510e6358
+
+ 20. OpenGL Shading Language (GLSL) Quick Reference Guide
+     https://www.cs.cmu.edu/afs/cs/academic/class/15462-s10/www/proj/glslref.pdf
+
+ 21. OpenGL Shading Language
+     https://www.pearson.de/media/muster/ext/9780321669193.pdf
+
+ 22. GLSL Versions · mattdesl/lwjgl-basics Wiki
+     https://github.com/mattdesl/lwjgl-basics/wiki/GLSL-Versions
+
+ 23. OpenGL Shading Language - Randi J. Rost
+     https://books.google.com/books/about/OpenGL_Shading_Language.html?id=-SI07OhiQMAC
+
+ 24. OpenGL Shading Language
+     https://www.wikiwand.com/en/OpenGL_Shading_Language
+
+ 25. GLSL shader framework — MeVisLab documentation
+     https://mevislabdownloads.mevis.de/docs/current/MeVisLab/Standard/Documentation/Publish/Overviews/SoShaderFrameworkOverview.html
+
+ 26. Shading Language Support — Mesa 12.0 documentation
+     http://mesa-docs.readthedocs.io/en/latest/shading.html
+
+ 27. An introduction to the OpenGL Shading Language
+     https://www.haroldserrano.com/blog/2014/12/27/an-introduction-to-the-opengl-shading-language
+
+ 28. Extensible 3D (X3D), ISO/IEC 19775-1:2013, Annex I ...
+     https://www.web3d.org/documents/specifications/19775-1/V3.3/Part01/shaders_glsl.html
+
+ 29. OpenGL Shading Language
+     https://my.eng.utah.edu/~cs5610/lectures/GLSL%20CS5610%20Intro%202015.pdf
+
+ 30. Opengl Shading Language | Software Development - Howdy
+     https://www.howdy.com/glossary/opengl-shading-language
+
+ 31. Differences between AGSL and GLSL | Views
+     https://developer.android.com/develop/ui/views/graphics/agsl/agsl-vs-glsl
+
+ 32. OpenGL Shading Language | Request PDF
+     https://www.researchgate.net/publication/323958658_OpenGL_Shading_Language
+
+ 33. Shading Language - The Mesa 3D Graphics Library
+     https://docs.mesa3d.org/shading.html
+
+ 34. OpenGL Shading Languag 2nd edition (Orange Book)
+     https://wiki.labomedia.org/images/1/10/Orange_Book_-_OpenGL_Shading_Language_2nd_Edition.pdf
+
+ 35. Getting Started with the OpenGL Shading Language (GLSL)
+     https://joshbeam.com/articles/getting_started_with_glsl/
+
+ 36. An Overview of the OpenGL Shading Language | Shader ...
+     https://www.informit.com/articles/article.aspx?p=2731929&seqNum=3
+
+ 37. OpenGL Shading Language
+     https://wiki.jmonkeyengine.org/docs/3.4/core/_attachments/GLSL-ATI-Intro.pdf
+
+ 38. The OpenGL Shading Language 4.5 (GLSL)
+     https://docs.racket-lang.org/glsl/index.html
+
+ 39. all - GLSL 4
+     https://docs.gl/sl4/all
+
+ 40. GL Shading Language Document by OpenGL.pdf
+     https://www.slideshare.net/slideshow/gl-shading-language-document-by-openglpdf/266952337
+
+ 41. A Review of Shader Languages
+     https://alain.xyz/blog/a-review-of-shader-languages
+
+ 42. Chapter 4. OpenGL Shading Language
+     https://redirect.cs.umbc.edu/~olano/s2005c37/ch04.pdf
+
+ 43. OpenGL shading language
+     https://buscaenbuja.ujaen.es/discovery/fulldisplay/alma991001240179704994/34CBUA_UJA:VU1
+
+ 44. GLSL: OpenGL Shading Language (part 2 of 2) CS-116A
+     http://www.cs.sjsu.edu/~bruce/fall_2016_cs_116a_lecture_glsl_opengl_shading_language_part_2_of_2.html
+
+ 45. What are shaders in OpenGL and what do we need them for?
+     https://stackoverflow.com/questions/17789575/what-are-shaders-in-opengl-and-what-do-we-need-them-for
+
+ 46. GLSL Shading Language Issue Tracker
+     https://github.com/KhronosGroup/GLSL
+
+ 47. Writing a custom viewport shader in GLSL
+     https://www.sidefx.com/docs/houdini/shade/glsl.html
+
+ 48. OpenGL Shading Language
+     http://www.irisa.fr/prive/kadi/DIIC/SDI-2-annee/Cours_GLSL/glsl.pdf
+
+ 49. OpenGL 4 Shading Language Cookbook - Third Edition
+     https://subscription.packtpub.com/book/game-development/9781789342253/1/ch01lvl1sec13/determining-the-glsl-and-opengl-version
+
+ 50. Opengl® Shading Language (GLSL) Quick Reference Guide
+     https://www.scribd.com/document/220498824/glsl-1-20-quickref
+
+ 51. Shader languages support for VS Code
+     https://marketplace.visualstudio.com/items?itemName=slevesque.shader
+
+ 52. OpenGL Shading Language (GLSL) Tutorials
+     https://blenderartists.org/t/opengl-shading-language-glsl-tutorials/643276
+
+ 53. OpenGL Shading Language (GLSL) - Packages
+     https://packagecontrol.io/packages/OpenGL%20Shading%20Language%20(GLSL)
+
+ 54. OpenGL Shading Language | 87 Publications
+     https://typeset.io/topics/opengl-shading-language-t3tv1xtw
+
+ 55. I.Built-In OpenGL Shading Language Variables and ...
+     https://ptgmedia.pearsoncmg.com/images/9780321552624/downloads/0321552628_AppI.pdf
+
+ 56. OpenGL® Shading Language, Second Edition [Book]
+     https://www.oreilly.com/library/view/opengl-shading-language/0321334892/
+
+ 57. OpenGL Shading Language - Randi, Rost; Bill, Licea-Kane
+     https://www.iberlibro.com/9780321637635/OpenGL-Shading-Language-3rd-Edition-0321637631/plp
+
+ 58. What is the OpenGL ES shading language based on, and ...
+     https://www.quora.com/What-is-the-OpenGL-ES-shading-language-based-on-and-what-are-the-differences
+
+ 59. r/glsl
+     https://www.reddit.com/r/glsl/
+
+ 60. OpenGL Shading Language
+     https://books.google.com/books/about/OpenGL_Shading_Language.html?id=kDXOXv_GeswC
+
+ 61. The OpenGL Shading Language 1.50 Quick Reference Card
+     https://www.cs.upc.edu/~virtual/G//2.%20Laboratori/Part%201%20-%20Shaders/GLSL-quick-reference-card.pdf
+
+ 62. OpenGL Shading Language API
+     https://nccastaff.bournemouth.ac.uk/jmacey/Lectures/OpenGL/GLSLAPI/?home=/jmacey/ASE
+
+ 63. Android Graphics Shading Language (AGSL) | Views
+     https://developer.android.com/develop/ui/views/graphics/agsl
+
+ 64. QOpenGLShader Class | Qt OpenGL
+     https://doc.qt.io/qt-6/qopenglshader.html
+
+ 65. OpenGL Shading Language - Wikidata
+     https://www.wikidata.org/wiki/Q779819
+
+ 66. Libro Shader mit Glsl: Eine Einführung in die Opengl Shading ...
+     https://www.buscalibre.com.mx/libro-shader-mit-glsl-eine-einfuhrung-in-die-opengl-shading-language/9783836679275/p/54716156
+
+ 67. OpenGL Shading Language (GLSL)
+     https://itcoursehub.com/categories/opengl-shading-language-glsl
+
+ 68. The Graphics Pipeline and OpenGL III:
+     https://stanford.edu/class/ee267/lectures/lecture4.pdf
+
+ 69. OpenGL Shading Language
+     https://artbook.com.vn/products/opengl-shading-language
+
+ 70. OpenGL Shading Language (3rd Edition) - Rost, Randi J.
+     https://www.abebooks.co.uk/9780321637635/OpenGL-Shading-Language-3rd-Edition-0321637631/plp
+
+ 71. OpenGL® Shading Language, Third Edition [Book]
+     https://www.oreilly.com/library/view/opengl-shading-language/9780321669247/
+
+ 72. GLSL: OpenGL Shading Language (part 1 of 2)
+     http://www.cs.sjsu.edu/~bruce/fall_2016_cs_116a_lecture_glsl_opengl_shading_language_part_1_of_2.html
+
+ 73. OpenGL Shading Language PowerPoint Presentation, free ...
+     https://www.slideserve.com/quasar/opengl-shading-language
+
+ 74. GL shading language
+     http://forum.lwjgl.org/index.php?topic=1532.0
+
+ 75. OpenGL Shading Language eBook por Randi J. Rost
+     https://www.kobo.com/us/es/ebook/opengl-shading-language
+
+ 76. Shadertoy BETA
+     https://www.shadertoy.com/
+
+ 77. Open GL shading language
+     https://www.worldcat.org/oclc/1036839022
+
+ 78. OpenGL Shading Language
+     https://www.pearson.de/opengl-shading-language-9780321669223
+
+ 79. OpenGL Shading Language - eBook
+     https://www.barnesandnoble.com/w/opengl-shading-language-randi-j-rost/1100834691
+
+ 80. OpenGL(R) Shading Language (2nd Edition): | Guide books
+     https://dl.acm.org/doi/10.5555/1076523
+
+ 81. OpenGL Shading Language | PPT
+     https://www.slideshare.net/slideshow/opengl-shading-language/29927838
+
+ 82. Three.js Journey — Learn WebGL with Three.js
+     https://threejs-journey.com/
+
+ 83. OpenGL Shading Language by Rost, Randi J.; Licea-Kane, ...
+     https://www.cafr.ebay.ca/itm/196495031749
+
+ 84. OpenGL Shading Language
+     https://books.google.com.pa/books?id=lGpP6OpZxLkC&printsec=frontcover&hl=zh-TW
+
+ 85. OpenGL Shading Language - Bookstore - University of Guelph
+     https://bookstore.uoguelph.ca/p-29847-open-gl-shading-language.aspx
+
+ 86. Shader mit GLSL: Eine Einführung in die OpenGL Shading ...
+     https://www.walmart.com/ip/Shader-mit-GLSL-Eine-Einf-hrung-in-die-OpenGL-Shading-Language-Paperback-9783836679275/669572585
+
+ 87. Parallel Cloth Simulation Using OpenGL Shading Language
+     https://www.researchgate.net/publication/355797319_Parallel_Cloth_Simulation_Using_OpenGL_Shading_Language
+
+ 88. Marazzi: Ceramic and Porcelain tiles for walls and floors
+     https://www.marazzigroup.com/
+
+ 89. OpenGL Shading Language, 3rd Ed by Various
+     https://www.qbd.com.au/opengl-shading-language-3rd-ed/various/9780321637635/
+
+ 90. The OpenGL Shading Language 4.5
+     https://www.cs.upc.edu/~robert/teaching/idi/GLSLangSpec.4.50.pdf
+
+ 91. Release Notes for NVIDIA OpenGL Shading Language Support
+     http://download.nvidia.com/developer/GLSL/GLSL%20Release%20Notes%20for%20Release%2060.pdf
+
+ 92. Quantifying Earth's Topography: Steeper and Larger Than ...
+     https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024GL109517
+
+ 93. OpenGL 4 Shading Language Cookbook, Second Edition
+     https://books.google.com.mx/books?id=vpluAgAAQBAJ&pg=PT52&lpg=PT52&dq=GL+Shading+Language&source=bl&ots=apFoiBgMD2&sig=ACfU3U3k0VwrfUNWujcAG2NyLnuEFI96kw&hl=es-419&sa=X&ved=2ahUKEwjd3ovU-MGHAxVSLtAFHX1zBwMQ6AF6BQjNAhAD
+     David
+     Wolff
+
+ 94. OpenGL 4.0 Shading Language Cookbook
+     https://books.google.com.mx/books?id=Zd2fwnMDvP0C&pg=PT47&lpg=PT47&dq=GL+Shading+Language&source=bl&ots=nh0kFU2aQf&sig=ACfU3U1pwHBJXygusYNZkcK1PmKD2WETYw&hl=es-419&sa=X&ved=2ahUKEwjd3ovU-MGHAxVSLtAFHX1zBwMQ6AF6BQjOAhAD
+     David
+     Wolff
+
+ 95. OpenGL Shading Language - Resultado de Google Books
+     https://books.google.com.mx/books?id=lGpP6OpZxLkC&pg=PT658&lpg=PT658&dq=GL+Shading+Language&source=bl&ots=nh4KcZW7L1&sig=ACfU3U2ex8kLXhjl_Xfld1EaHlEca9EPIA&hl=es-419&sa=X&ved=2ahUKEwjd3ovU-MGHAxVSLtAFHX1zBwMQ6AF6BQjMAhAD
+     Randi J.
+     Rost
+
+googler (? for help): googler (? for help): 
