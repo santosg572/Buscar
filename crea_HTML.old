@@ -1,0 +1,32 @@
+fileO = 'todo.html'
+fil = open(fileO, 'w')
+
+fileI = 't1.dat'
+filo = open(fileI, 'r')
+datos = filo.readlines()
+filo.close()
+
+fil.write('<!DOCTYPE html>\n')
+fil.write('<html>\n')
+fil.write('<body>\n')
+text = 'text'
+k = 1
+
+for ss in datos:
+ ss = ss.replace('\n','')
+ if (len(ss) > 0):
+  if ss[:3] == 'htt':
+   ss1 = '<p><a href=' + ss + '>'+ text + str(k) + '</a></p>\n'
+   print(ss1)
+   fil.write(ss1)
+  else:
+   ss1 = '<p>' + ss + '</p>\n'
+   fil.write(ss1)
+  k = k+1
+
+fil.write('</body>\n')
+fil.write('</html>\n')
+fil.close()
+
+
+

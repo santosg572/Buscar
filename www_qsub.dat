@@ -1,0 +1,295 @@
+ 1.  qsub - command
+     https://docs.adaptivecomputing.com/torque/4-0-2/Content/topics/commands/qsub.htm
+
+ 2.  qsub - Envío de trabajos seriales. Cluster de Computación
+     https://web.ua.es/es/cluster-iuii/gestor-de-recursos/qsub-envio-de-trabajos-seriales.html
+
+ 3.  qsub Basics
+     https://zhanggroup.org/docs/node26.html
+
+ 4.  How to submit a job using qsub
+     https://bioinformatics.mdc-berlin.de/intro2UnixandSGE/sun_grid_engine_for_beginners/how_to_submit_a_job_using_qsub.html
+
+ 5.  qsub man page - Sun Grid Engine
+     https://gridscheduler.sourceforge.net/htmlman/htmlman1/qsub.html
+
+ 6.  ¿Cómo ejecuto un programa usando un planificador de ...
+     https://www.ccg.unam.mx/uati/faqs/como-ejecuto-un-programa-usando-un-planificador-de-trabajos/
+
+ 7.  qsub
+     https://en.wikipedia.org/wiki/Qsub
+
+ 8.  dgruber/qsub
+     https://github.com/dgruber/qsub
+
+ 9.  Operating a QSub
+     https://www.thetaxadviser.com/issues/2012/aug/casestudy-aug12.html
+
+ 10. How to get started with distributed computing using qsub?
+     https://www.fieldtriptoolbox.org/faq/how_to_get_started_with_distributed_computing_using_qsub/
+
+ 11. Commonly Used qsub Command Options - HECC ...
+     https://www.nas.nasa.gov/hecc/support/kb/commonly-used-qsub-command-options_175.html
+
+ 12. Qsub tunnel - CT User Documentation - Nikhef
+     https://kb.nikhef.nl/ct/Qsub_tunnel.html
+
+ 13. PBS Commands: qsub
+     http://www.upv.es/upl/U0115421.htm
+
+ 14. qsub
+     https://pubs.opengroup.org/onlinepubs/009695299/utilities/qsub.html
+
+ 15. CRAN: Package qsub
+     https://cran.r-project.org/package=qsub
+
+ 16. qsub - Colas. Cluster de Computación - IUII
+     https://web.ua.es/es/cluster-iuii/gestor-de-recursos/qsub-colas.html
+
+ 17. Submitting your Batch Job : TechWeb
+     https://www.bu.edu/tech/support/research/system-usage/running-jobs/submitting-jobs/
+
+ 18. qsub [ flags ] [ script-file ]
+     https://glue.umd.edu/lsf-docs/man/qsub.html
+
+ 19. Qsub tradicional | IZO-SGI Cálculo Científico
+     https://www.ehu.eus/sgi/arina_es/mandar-trabajos/qsub-tradicional
+
+ 20. qsub(1p) - Linux manual page
+     https://www.man7.org/linux/man-pages/man1/qsub.1p.html
+
+ 21. How to use the qsub -v command in PBS torque?
+     https://stackoverflow.com/questions/12964195/how-to-use-the-qsub-v-command-in-pbs-torque
+
+ 22. rcannood/qsub: Parallellising lapply() by submitting them to ...
+     https://github.com/rcannood/qsub
+
+ 23. qsub(1)
+     https://www.chem.ucl.ac.uk/resources/history/people/clary/pubs/man/qsub.html
+
+ 24. Wait for set of qsub jobs to complete
+     https://stackoverflow.com/questions/11525214/wait-for-set-of-qsub-jobs-to-complete
+
+ 25. README - qsub
+     https://cran.r-project.org/web/packages/qsub/readme/README.html
+
+ 26. qsub - Sheffield HPC Documentation
+     https://docs.hpc.shef.ac.uk/en/latest/referenceinfo/scheduler/SGE/Common-commands/qsub.html
+
+ 27. qsub, qsh, qlogin, qrsh, qalter, qresub - submit jobs to Grid ...
+     https://manpages.ubuntu.com/manpages/noble/man1/sge_submit.1.html
+
+ 28. Submitting Batch Jobs with qsub
+     https://kristianeschenburg.netlify.app/post/submitting-batch-jobs-with-qsub/
+
+ 29. qsub: submit a batch job in a familiar PBS format | slurm ...
+     https://www.mankier.com/1/qsub
+
+ 30. CREATE QSUB command (bidirectional replication)
+     https://www.ibm.com/docs/SSTRGZ_11.4.0/com.ibm.swg.im.iis.repl.asnclp.q.doc/topics/iiyrqclpbdcrtqsb.html
+
+ 31. qsub
+     https://iowabiostat.github.io/hpc/7.html
+
+ 32. More on Queue Command and Job Management
+     https://www.niu.edu/crcd/current-users/getting-started/queue-commands-job-management.shtml
+
+ 33. Quickstart and basics
+     http://bioinformatics.mdc-berlin.de/intro2UnixandSGE/sun_grid_engine_for_beginners/quickstart_and_basics.html
+
+ 34. qsub -- Submitting Jobs To Queue Instances
+     https://softpanorama.org/HPC/Grid_engine/Reference/qsub.shtml
+
+ 35. Qsub assembler - Metacentrum Documentation
+     https://docs.metacentrum.cz/computing/qsub-compiler/
+
+ 36. Qsub -I no longer works - Users/Site Administrators
+     https://community.openpbs.org/t/qsub-i-no-longer-works/1824
+
+ 37. 7.20 qsub Job Submit Command
+     https://software.fujitsu.com/jp/manual/manualfiles/m150006/j2x13160/13enz200/j3160-00-07-20-00.html
+
+ 38. Running Jobs using PBS - ALCF User Guides
+     https://docs.alcf.anl.gov/running-jobs/job-and-queue-scheduling/
+
+ 39. qsub: Running Commands Remotely on Gridengine Clusters
+     https://www.rdocumentation.org/packages/qsub/versions/1.1.3/topics/qsub
+
+ 40. About Form 8869, Qualified Subchapter S Subsidiary ...
+     https://www.irs.gov/forms-pubs/about-form-8869
+
+ 41. 2022 Qualified Subchapter S Subsidiary (QSub) Information
+     https://www.ftb.ca.gov/forms/2022/2022-100s-qs.pdf
+
+ 42. Run qsub on cluster via ssh
+     https://unix.stackexchange.com/questions/230578/run-qsub-on-cluster-via-ssh
+
+ 43. qsub-torque(1): submit pbs job - Linux man page
+     https://linux.die.net/man/1/qsub-torque
+
+ 44. CREATE QSUB command (unidirectional replication)
+     https://www.ibm.com/docs/SSTRGZ_10.2.1/com.ibm.swg.im.iis.repl.asnclp.q.doc/topics/iiyrqclpqsubcrt.html
+
+ 45. qsub
+     http://yclept.ucdavis.edu/Beowulf/notes/man-pbs/qsub-man.html
+
+ 46. Man page of qsub
+     http://fmatrm.if.usp.br/cgi-bin/man/man2html/usr/local/man/man1/qsub.1B
+
+ 47. PBS tutorial
+     https://www.uibk.ac.at/zid/systeme/hpc-systeme/common/tutorials/pbs-howto.html
+
+ 48. qsub job queue seems stuck
+     https://community.intel.com/t5/Intel-DevCloud/qsub-job-queue-seems-stuck/td-p/1451037/jump-to/first-unread-message
+
+ 49. 26 CFR § 1.1361-3 - QSub election. - Law.Cornell.Edu
+     https://www.law.cornell.edu/cfr/text/26/1.1361-3
+
+ 50. Setting number of cores, number of processes using ...
+     https://community.openpbs.org/t/setting-number-of-cores-number-of-processes-using-environment-variables/2021
+
+ 51. Using sleep to test qsub with PBS Professional
+     https://thelinuxcluster.com/2020/08/09/using-sleep-to-test-qsub-with-pbs-professional/
+
+ 52. PBS Command: qstat
+     https://www.jlab.org/hpc/PBS/qstat.html
+
+ 53. errors occur in submitting job script qsub -v .case.run
+     https://bb.cgd.ucar.edu/cesm/threads/errors-occur-in-submitting-job-script-qsub-v-case-run-resubmit.4498/
+
+ 54. Output of qsub was: sh: qsub: command not found
+     https://groups.google.com/g/kaldi-help/c/NFqFA85Crfs
+
+ 55. Info about commands and general usage - Physics
+     https://phy.princeton.edu/info-about-commands-and-general-usage
+
+ 56. S corp FAQ: What is a Qualified Subchapter S Subsidiary?
+     http://www.scorporationsexplained.com/what-is-a-Qualified-Subchapter-S-Subsidiary.htm
+
+ 57. Qrx Qsub | MercadoLibre
+     https://listado.mercadolibre.com.mx/qrx-qsub
+
+ 58. man qsub
+     https://docs.hpc.qmul.ac.uk/using/man/man1/qsub.1.txt
+
+ 59. How to Run Interactive Jobs
+     https://www.niu.edu/crcd/current-users/getting-started/run-interactive-jobs.shtml
+
+ 60. SGE Grid Engine error "qsub: Unknown option"
+     https://serverfault.com/questions/746295/sge-grid-engine-error-qsub-unknown-option
+
+ 61. Using Modules with Qsub
+     http://talby.rcs.manchester.ac.uk/~ri/_danzek_sge/modules.html
+
+ 62. IRS provides guidance on perfecting S elections and QSub ...
+     https://www.thetaxadviser.com/issues/2023/feb/irs-provides-guidance-on-perfecting-s-elections-and-qsub-elections.html
+
+ 63. Integrating qsub with RStudio - Wytamma's Blog
+     https://blog.wytamma.com/blog/hpc-rstudio-qsub/
+
+ 64. Array Jobs - Research-IT - University of Pennsylvania
+     https://research-it.wharton.upenn.edu/documentation/job-management/array-jobs/
+
+ 65. Characterization of the Corynebacterium glutamicum ...
+     https://pubmed.ncbi.nlm.nih.gov/32822353/
+
+ 66. Sun Grid Engine Reference
+     https://docs.oracle.com/cd/E19957-01/820-3257/n1ge.html
+
+ 67. HOWTO submit jobs - HPC
+     https://www0.sun.ac.za/hpc/index.php?title=HOWTO_submit_jobs
+
+ 68. Qsub: command not found - SMRT Analysis
+     https://smrt-analysis.readthedocs.io/en/latest/qsub:-command-not-found/
+
+ 69. Computing — Hoffman2 Documentation 2019/10/09 ... - UCLA
+     https://www.hoffman2.idre.ucla.edu/Using-H2/Computing/Computing.html
+
+ 70. Running Jobs on Katana
+     https://docs.restech.unsw.edu.au/using_katana/running_jobs/
+
+ 71. how-to submit jobs
+     https://webaccess.unifr.ch/Docu/HPC/submit.htm
+
+ 72. [torqueusers] qsub problems
+     https://torqueusers.supercluster.narkive.com/AjcgBAuJ/qsub-problems
+
+ 73. Submitting jobs without qsub scripts | Michigan State University
+     https://icer.msu.edu/for-hpcc-users/Topic-of-the-Month/Submitting-jobs-without-qsub-scripts
+
+ 74. qsub package
+     https://www.rdocumentation.org/packages/qsub/versions/1.1.3
+
+ 75. Qualified Subchapter S Subsidiaries Basics QSubs
+     https://www.eisneramper.com/insights/blogs/private-client-blog/qualified-subchapter-s-subsidiary-basics-tax-blog-0921/
+
+ 76. Advice transitioning from Sun Grid Engine (qsub) to ...
+     https://www.reddit.com/r/bioinformatics/comments/ux25y6/advice_transitioning_from_sun_grid_engine_qsub_to/
+
+ 77. qsub - Nicolaus Copernicus University in Toruń
+     https://www.ifiz.umk.pl/en/local-services/cok-cluster/queue-system/qsub/
+
+ 78. Submit Jobs - UCSF Wynton HPC Cluster
+     https://wynton.ucsf.edu/hpc/scheduler/submit-jobs.html
+
+ 79. Submitting multiple qsub jobs - The UNIX and Linux Forums
+     https://www.unix.com/unix-for-advanced-and-expert-users/261968-submitting-multiple-qsub-jobs.html
+
+ 80. 26 CFR § 1.1361-5 - Termination of QSub election.
+     https://www.law.cornell.edu/cfr/text/26/1.1361-5
+
+ 81. qsub filter rejects valid jobs | Ohio ...
+     https://www.osc.edu/supercomputing/known-issues/qsub_filter_rejects_valid_jobs
+
+ 82. Requesting Multiple Nodes and cpus
+     https://zhanggroup.org/docs/node34.html
+
+ 83. SGE | Migale
+     https://migale.inrae.fr/sge
+
+ 84. IRS Describes Effect Of Reorganizations On QSub, Entity ...
+     https://www.taxnotes.com/research/federal/irs-guidance/revenue-rulings/irs-describes-effect-of-reorganizations-on-qsub-entity-classification-elections/dkp0
+
+ 85. Problem with qsub in matlab 2012a (Linux OS)
+     https://es.mathworks.com/matlabcentral/answers/72742-problem-with-qsub-in-matlab-2012a-linux-os
+
+ 86. qsub
+     https://www.onworks.net/es/programs/qsub-online
+
+ 87. Mapping Via Qsub | YAP
+     https://hq-1.gitbook.io/mc/mapping-2/mapping-via-qsub
+
+ 88. Errors and remedies of qsub command execution - 東京工業大学
+     https://www.t3.gsic.titech.ac.jp/en/node/176
+
+ 89. Qualified Subchapter S Subsidiary - CCH AnswerConnect
+     https://answerconnect.cch.com/topic/59d8319a7c6c1000944490b11c18c90206/qualified-subchapter-s-subsidiary
+
+ 90. Submitting binaries in Grid Engine 6.x
+     https://gridscheduler.sourceforge.net/howto/binarysubmit.html
+
+ 91. QSub election does not create an item of income
+     https://www.journalofaccountancy.com/issues/2014/may/qsub-election.html
+
+ 92. Neon HPC Tutorial
+     https://myweb.uiowa.edu/pbreheny/neon/8.html
+
+ 93. Passing Args to your Job Scripts
+     https://hpc.research.uts.edu.au/pbs/passing_args/
+
+ 94. About scheduling system - Metacentrum wiki
+     https://wiki.metacentrum.cz/wiki/About_scheduling_system
+
+ 95. Instructions for Form 8869 (12/2020)
+     https://www.irs.gov/instructions/i8869
+
+ 96. Important New Rules on QSubs
+     https://www.robertsandholland.com/publication-page?itemid=86
+
+ 97. Job Submission | Intel® Tiber™ Developer Cloud
+     https://devcloud.intel.com/oneapi/documentation/job-submission/
+
+ 98. Running and querying your job | Moving to Bigger ...
+     https://gu-eresearch.github.io/hpcWorkshop/content/22-running-your-job.html
+
+googler (? for help): googler (? for help): 
