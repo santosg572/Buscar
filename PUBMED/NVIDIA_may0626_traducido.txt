@@ -1,0 +1,96 @@
+1 -  Mixed-Precision 
+
+Precisión mixta
+
+2 -  Object Detection on Road: Vehicle's Detection Based on Re-Training Models on NVIDIA-Jetson Platform.
+
+Detección de objetos en la carretera: detección de vehículos basada en modelos de reentrenamiento en la plataforma NVIDIA-Jetson.
+
+3 -  A Deep Learning Pipeline for Epilepsy Genomic Analysis Using GPT-2 XL and NVIDIA H100.
+
+Un canal de aprendizaje profundo para el análisis genómico de la epilepsia utilizando GPT-2 XL y NVIDIA H100.
+
+4 -  Computer-vision based automatic rider helmet violation detection and vehicle identification in Indian smart city scenarios using NVIDIA TAO toolkit and YOLOv8.
+
+Detección automática de infracciones del casco del conductor e identificación de vehículos basada en visión por computadora en escenarios de ciudades inteligentes de la India utilizando el kit de herramientas NVIDIA TAO y YOLOv8.
+
+5 -  Overview of real-world applications of federated learning with NVIDIA FLARE.
+
+Descripción general de las aplicaciones del mundo real de aprendizaje federado con NVIDIA FLARE.
+
+6 -  A Modular AI-Driven Intrusion Detection System for Network Traffic Monitoring in Industry 4.0, Using Nvidia Morpheus and Generative Adversarial Networks.
+
+Un sistema modular de detección de intrusiones impulsado por IA para el monitoreo del tráfico de red en la Industria 4.0, utilizando Nvidia Morpheus y redes generativas adversas.
+
+7 -  Optimising Concrete Crack Detection: A Study of Transfer Learning with Application on Nvidia Jetson Nano.
+
+Optimización de la detección de grietas en el hormigón: un estudio de aprendizaje por transferencia con aplicación en Nvidia Jetson Nano.
+
+8 -  NVIDIA's "Chat with RTX" Custom Large Language Model and Personalized AI Chatbot Augments the Value of Electronic Dermatology Reference Material.
+
+El modelo de lenguaje grande personalizado "Chat with RTX" de NVIDIA y el chatbot de IA personalizado aumentan el valor del material de referencia electrónico de dermatología.
+
+9 -  Fair evaluation of federated learning algorithms for automated breast density classification: The results of the 2022 ACR-NCI-NVIDIA federated learning challenge.
+
+Evaluación justa de algoritmos de aprendizaje federado para la clasificación automatizada de la densidad mamaria: los resultados del desafío de aprendizaje federado ACR-NCI-NVIDIA 2022.
+
+10 -  LiMOX-A Point Cloud Lidar Model Toolbox Based on NVIDIA OptiX Ray Tracing Engine.
+
+LiMOX-A Caja de herramientas de modelo Lidar de nube de puntos basada en el motor de trazado de rayos NVIDIA OptiX.
+
+11 -  Accelerating genomic workflows using NVIDIA Parabricks.
+
+Acelerar los flujos de trabajo genómicos utilizando NVIDIA Parabricks.
+
+12 -  A comparative analysis of near-infrared image colorization methods for low-power NVIDIA Jetson embedded systems.
+
+Un análisis comparativo de métodos de coloración de imágenes en el infrarrojo cercano para sistemas integrados NVIDIA Jetson de bajo consumo.
+
+13 -  Motor Imagery Multi-Tasks Classification for BCIs Using the NVIDIA Jetson TX2 Board and the EEGNet Network.
+
+Clasificación de tareas múltiples de imágenes de motores para BCI utilizando la placa NVIDIA Jetson TX2 y la red EEGNet.
+
+14 -  Run Your 3D Object Detector on NVIDIA Jetson Platforms:A Benchmark Analysis.
+
+Ejecute su detector de objetos 3D en plataformas NVIDIA Jetson: un análisis comparativo.
+
+15 -  A Low-Power Wireless System for Predicting Early Signs of Sudden Cardiac Arrest Incorporating an Optimized CNN Model Implemented on NVIDIA Jetson.
+
+Un sistema inalámbrico de bajo consumo para predecir signos tempranos de paro cardíaco repentino que incorpora un modelo CNN optimizado implementado en NVIDIA Jetson.
+
+16 -  Quantum Mechanics/Molecular Mechanics Simulations on NVIDIA and AMD Graphics Processing Units.
+
+Simulaciones de mecánica cuántica/mecánica molecular en unidades de procesamiento de gráficos NVIDIA y AMD.
+
+17 -  Photoelectric Target Detection Algorithm Based on NVIDIA Jeston Nano.
+
+Algoritmo de detección de objetivos fotoeléctricos basado en NVIDIA Jeston Nano.
+
+18 -  Numerical behavior of NVIDIA tensor cores.
+
+Comportamiento numérico de los núcleos tensoriales de NVIDIA.
+
+19 -  Evaluation of the Intel Xeon Phi 7120 and NVIDIA K80 as accelerators for two-dimensional panel codes.
+
+Evaluación de los Intel Xeon Phi 7120 y NVIDIA K80 como aceleradores para códigos de paneles bidimensionales.
+
+20 -  NVIDIA OptiX ray-tracing engine as a new tool for modelling medical imaging systems.
+
+Motor de trazado de rayos NVIDIA OptiX como nueva herramienta para modelar sistemas de imágenes médicas.
+
+21 -  Quantum Chemical Calculations Using Accelerators: Migrating Matrix Operations to the NVIDIA Kepler GPU and the Intel Xeon Phi.
+
+Cálculos químicos cuánticos utilizando aceleradores: migración de operaciones matriciales a la GPU NVIDIA Kepler y Intel Xeon Phi.
+
+22 -  3D gaze tracking system for NVidia 3D Vision®.
+
+Sistema de seguimiento de mirada 3D para NVidia 3D Vision®.
+
+23 -  Acceleration of spiking neural network based pattern recognition on NVIDIA graphics processors.
+
+Aceleración del reconocimiento de patrones basado en redes neuronales en procesadores gráficos NVIDIA.
+
+24 -  Supercomputing with toys: harnessing the power of NVIDIA 8800GTX and playstation 3 for bioinformatics problem.
+
+Supercomputación con juguetes: aprovechar el poder de NVIDIA 8800GTX y playstation 3 para un problema de bioinformática.
+

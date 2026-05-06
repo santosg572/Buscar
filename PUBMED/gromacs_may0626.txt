@@ -1,0 +1,94 @@
+Title: plotXVG: Batch Generation of Publication-Quality Graphs from GROMACS Output.
+Title: Analysis of the Effect of the Magnetic Field on Water Flux Through TIP3;1 Aquaporins Using Molecular Dynamics in GROMACS.
+Title: Gromacs MetaDump: a tool for extracting GROMACS simulation metadata.
+Title: gmx_ffconv: A Fast, User-Friendly Semi-Automated All-Atom Force Field Converter for GROMACS.
+Title: ADMET-Guided Docking and GROMACS Molecular Dynamics of 
+Title: Acceleration of the GROMACS Free-Energy Perturbation Calculations on GPUs.
+Title: Incorporation of the magnetic field in GROMACS: validation and applications in biological systems.
+Title: Scaling of the GROMACS Molecular Dynamics Code to 65k CPU Cores on an HPC Cluster.
+Title: Constant pH Simulation with FMM Electrostatics in GROMACS. (B) GPU Accelerated Hamiltonian Interpolation.
+Title: Constant pH Simulation with FMM Electrostatics in GROMACS. (A) Design and Applications.
+Title: Introductory Tutorials for Simulating Protein Dynamics with GROMACS.
+Title: GMXPolymer: a generated polymerization algorithm based on GROMACS.
+Title: Martini 3 OliGo̅mers: A Scalable Approach for Multimers and Fibrils in GROMACS.
+Title: Determination of Hydrogen Bonds in GROMACS: A New Implementation to Overcome Memory Limitation.
+Title: Application of the molecular dynamics simulation GROMACS in food science.
+Title: A Practical Guide to All-Atom and Coarse-Grained Molecular Dynamics Simulations Using Amber and Gromacs: A Case Study of Disulfide-Bond Impact on the Intrinsically Disordered Amyloid Beta.
+Title: Enhancing MD simulations: ASGARD's automated analysis for GROMACS.
+Title: DSSP in GROMACS: Tool for Defining Secondary Structures of Proteins in Trajectories.
+Title: phbuilder: A Tool for Efficiently Setting up Constant pH Molecular Dynamics Simulations in GROMACS.
+Title: CHAPERON
+Title: Efficient Empirical Valence Bond Simulations with GROMACS.
+Title: gmXtal: Cooking Crystals with GROMACS.
+Title: Protocol for the development of coarse-grained structures for macromolecular simulation using GROMACS.
+Title: pyGROMODS: a Python package for the generation of input files for molecular dynamic simulation with GROMACS.
+Title: charmm2gmx: An Automated Method to Port the CHARMM Additive Force Field to GROMACS.
+Title: Gmx_qk: An Automated Protein/Protein-Ligand Complex Simulation Workflow Bridged to MM/PBSA, Based on Gromacs and Zenity-Dependent GUI for Beginners in MD Simulation Study.
+Title: Visual dynamics: a WEB application for molecular dynamics simulation using GROMACS.
+Title: Comprehensive Automated Routine Implementation, Validation, and Benchmark of the Anisotropic Force Field (AUA4) Using Python and GROMACS.
+Title: NE-RDFE: A protocol and toolkit for computing relative dissociation free energies with GROMACS between dissimilar molecules using bidirectional nonequilibrium dual topology schemes.
+Title: Ensemble Generation for Linear and Cyclic Peptides Using a Reservoir Replica Exchange Molecular Dynamics Implementation in GROMACS.
+Title: Scalable Constant pH Molecular Dynamics in GROMACS.
+Title: GROMACS Stochastic Dynamics and BAOAB Are Equivalent Configurational Sampling Algorithms.
+Title: YAMACS: a graphical interface for GROMACS.
+Title: INAQS, a Generic Interface for Nonadiabatic QM/MM Dynamics: Design, Implementation, and Validation for GROMACS/Q-CHEM simulations.
+Title: GROMACS in the Cloud: A Global Supercomputer to Speed Up Alchemical Drug Design.
+Title: gmxapi: A GROMACS-native Python interface for molecular dynamics with ensemble and plugin support.
+Title: Virtual Double-System Single-Box for Absolute Dissociation Free Energy Calculations in GROMACS.
+Title: gmx_MMPBSA: A New Tool to Perform End-State Free Energy Calculations with GROMACS.
+Title: PyAutoFEP: An Automated Free Energy Perturbation Workflow for GROMACS Integrating Enhanced Sampling Methods.
+Title: Dataset of AMBER force field parameters of drugs, natural products and steroids for simulations using GROMACS.
+Title: NMR refinement and peptide folding using the GROMACS software.
+Title: HeroMDAnalysis: an automagical tool for GROMACS-based molecular dynamics simulation analysis.
+Title: Development of parameters compatible with the CHARMM36 force field for [Fe
+Title: Parameterization of Large Ligands for Gromacs Molecular Dynamics Simulation with LigParGen.
+Title: A GPU-Accelerated Fast Multipole Method for GROMACS: Performance and Accuracy.
+Title: Heterogeneous parallelization and acceleration of molecular dynamics simulations in GROMACS.
+Title: MkVsites: A tool for creating GROMACS virtual sites parameters to increase performance in all-atom molecular dynamics simulations.
+Title: Enhanced GROMACS: toward a better numerical simulation framework.
+Title: More bang for your buck: Improved use of GPU nodes for GROMACS 2018.
+Title: From GROMACS to LAMMPS: GRO2LAM : A converter for molecular dynamics software.
+Title: GROmaρs: A GROMACS-Based Toolset to Analyze Density Maps Derived from Molecular Dynamics Simulations.
+Title: Implementing dimer metadynamics using gromacs.
+Title: ForceGen: atomic covalent bond value derivation for Gromacs.
+Title: doGlycans-Tools for Preparing Carbohydrate Structures for Atomistic Simulations of Glycoproteins, Glycolipids, and Carbohydrate Polymers for GROMACS.
+Title: A CPU/MIC Collaborated Parallel Framework for GROMACS on Tianhe-2 Supercomputer.
+Title: Data including GROMACS input files for atomistic molecular dynamics simulations of mixed, asymmetric bilayers including molecular topologies, equilibrated structures, and force field for lipids compatible with OPLS-AA parameters.
+Title: TopoGromacs: Automated Topology Conversion from CHARMM to GROMACS within VMD.
+Title: Improvements in GROMACS plugin for PyMOL including implicit solvent simulations and displaying results of PCA analysis.
+Title: CHARMM-GUI Input Generator for NAMD, GROMACS, AMBER, OpenMM, and CHARMM/OpenMM Simulations Using the CHARMM36 Additive Force Field.
+Title: Topologies, structures and parameter files for lipid simulations in GROMACS with the OPLS-aa force field: DPPC, POPC, DOPC, PEPC, and cholesterol.
+Title: A Python tool to set up relative free energy calculations in GROMACS.
+Title: Best bang for your buck: GPU nodes for GROMACS biomolecular simulations.
+Title: New QM/MM implementation of the DFTB3 method in the gromacs package.
+Title: Implementation of extended Lagrangian dynamics in GROMACS for polarizable simulations using the classical Drude oscillator model.
+Title: Constant pressure hybrid Monte Carlo simulations in GROMACS.
+Title: Automatic GROMACS topology generation and comparisons of force fields for solvation free energy calculations.
+Title: Gro2mat: a package to efficiently read gromacs output in MATLAB.
+Title: g_mmpbsa--a GROMACS tool for high-throughput MM-PBSA calculations.
+Title: Molecular dynamics simulations of PNA-PNA and PNA-DNA duplexes by the use of new parameters implemented in the GROMACS package: a conformational and dynamics study.
+Title: MemBuilder: a web-based graphical interface to build heterogeneously mixed membrane bilayers for the GROMACS biomolecular simulation program.
+Title: APL@Voro: a Voronoi-based membrane analysis tool for GROMACS trajectories.
+Title: Free energy calculations for molecular solids using GROMACS.
+Title: Molecular dynamics simulation by GROMACS using GUI plugin for PyMOL.
+Title: GROMACS 4.5: a high-throughput and highly parallel open source molecular simulation toolkit.
+Title: Note: Free energy calculations for atomic solids through the Einstein crystal/molecule methodology using GROMACS and LAMMPS.
+Title: A Flexible, Grid-Enabled Web Portal for GROMACS Molecular Dynamics Simulations.
+Title: OBGMX: a web-based generator of GROMACS topologies for molecular and periodic systems using the universal force field.
+Title: Enabling grand-canonical Monte Carlo: extending the flexibility of GROMACS through the GromPy python interface module.
+Title: Structure Formation of Toluene around C60: Implementation of the Adaptive Resolution Scheme (AdResS) into GROMACS.
+Title: GROMACS molecule & liquid database.
+Title: Keep It Flexible: Driving Macromolecular Rotary Motions in Atomistic Simulations with GROMACS.
+Title: Optimization of parameters for molecular dynamics simulation using smooth particle-mesh Ewald in GROMACS 4.5.
+Title: Performance enhancements for GROMACS nonbonded interactions on BlueGene.
+Title: On easy implementation of a variant of the replica exchange with solute tempering in GROMACS.
+Title: Systematic benchmarking of large molecular dynamics simulations employing GROMACS on massive multiprocessing facilities.
+Title: SMOG@ctbp: simplified deployment of structure-based models in GROMACS.
+Title: Implementation of the CHARMM Force Field in GROMACS: Analysis of Protein Stability Effects from Correction Maps, Virtual Interaction Sites, and Water Models.
+Title: Gromita: a fully integrated graphical user interface to gromacs 4.
+Title: jSimMacs for GROMACS: a Java application for advanced molecular dynamics simulations with remote access capability.
+Title: GROMACS 4:  Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation.
+Title: GUIMACS - a Java based front end for GROMACS.
+Title: Speeding up parallel GROMACS on high-latency networks.
+Title: Flooding in GROMACS: accelerated barrier crossings in molecular dynamics.
+Title: GROMACS: fast, flexible, and free.

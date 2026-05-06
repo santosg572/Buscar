@@ -1,0 +1,376 @@
+1 -  plotXVG: Batch Generation of Publication-Quality Graphs from GROMACS Output.
+
+plotXVG: Generación por lotes de gráficos con calidad de publicación a partir de resultados de GROMACS.
+
+2 -  Analysis of the Effect of the Magnetic Field on Water Flux Through TIP3;1 Aquaporins Using Molecular Dynamics in GROMACS.
+
+Análisis del efecto del campo magnético sobre el flujo de agua a través de TIP3;1 Acuaporinas mediante dinámica molecular en GROMACS.
+
+3 -  Gromacs MetaDump: a tool for extracting GROMACS simulation metadata.
+
+Gromacs MetaDump: una herramienta para extraer metadatos de simulación GROMACS.
+
+4 -  gmx_ffconv: A Fast, User-Friendly Semi-Automated All-Atom Force Field Converter for GROMACS.
+
+gmx_ffconv: un conversor de campos de fuerza atómico semiautomático, rápido y fácil de usar para GROMACS.
+
+5 -  ADMET-Guided Docking and GROMACS Molecular Dynamics of 
+
+Acoplamiento guiado por ADMET y dinámica molecular GROMACS de
+
+6 -  Acceleration of the GROMACS Free-Energy Perturbation Calculations on GPUs.
+
+Aceleración de los cálculos de perturbación de energía libre de GROMACS en GPU.
+
+7 -  Incorporation of the magnetic field in GROMACS: validation and applications in biological systems.
+
+Incorporación del campo magnético en GROMACS: validación y aplicaciones en sistemas biológicos.
+
+8 -  Scaling of the GROMACS Molecular Dynamics Code to 65k CPU Cores on an HPC Cluster.
+
+Escalado del código de dinámica molecular GROMACS a 65k núcleos de CPU en un clúster HPC.
+
+9 -  Constant pH Simulation with FMM Electrostatics in GROMACS. (B) GPU Accelerated Hamiltonian Interpolation.
+
+Simulación de pH constante con Electrostática FMM en GROMACS. (B) Interpolación hamiltoniana acelerada por GPU.
+
+10 -  Constant pH Simulation with FMM Electrostatics in GROMACS. (A) Design and Applications.
+
+Simulación de pH constante con Electrostática FMM en GROMACS. (A) Diseño y Aplicaciones.
+
+11 -  Introductory Tutorials for Simulating Protein Dynamics with GROMACS.
+
+Tutoriales introductorios para simular la dinámica de proteínas con GROMACS.
+
+12 -  GMXPolymer: a generated polymerization algorithm based on GROMACS.
+
+GMXPolymer: un algoritmo de polimerización generado basado en GROMACS.
+
+13 -  Martini 3 OliGo̅mers: A Scalable Approach for Multimers and Fibrils in GROMACS.
+
+Martini 3 OliGo̅mers: un enfoque escalable para multímeros y fibrillas en GROMACS.
+
+14 -  Determination of Hydrogen Bonds in GROMACS: A New Implementation to Overcome Memory Limitation.
+
+Determinación de enlaces de hidrógeno en GROMACS: una nueva implementación para superar la limitación de la memoria.
+
+15 -  Application of the molecular dynamics simulation GROMACS in food science.
+
+Aplicación de la simulación de dinámica molecular GROMACS en la ciencia de los alimentos.
+
+16 -  A Practical Guide to All-Atom and Coarse-Grained Molecular Dynamics Simulations Using Amber and Gromacs: A Case Study of Disulfide-Bond Impact on the Intrinsically Disordered Amyloid Beta.
+
+Una guía práctica para simulaciones de dinámica molecular de todos los átomos y de grano grueso utilizando ámbar y Gromacs: un estudio de caso del impacto de los enlaces disulfuro en la beta amiloide intrínsecamente desordenada.
+
+17 -  Enhancing MD simulations: ASGARD's automated analysis for GROMACS.
+
+Mejora de las simulaciones MD: análisis automatizado de ASGARD para GROMACS.
+
+18 -  DSSP in GROMACS: Tool for Defining Secondary Structures of Proteins in Trajectories.
+
+DSSP en GROMACS: Herramienta para definir estructuras secundarias de proteínas en trayectorias.
+
+19 -  phbuilder: A Tool for Efficiently Setting up Constant pH Molecular Dynamics Simulations in GROMACS.
+
+phbuilder: una herramienta para configurar de manera eficiente simulaciones de dinámica molecular de pH constante en GROMACS.
+
+20 -  CHAPERON
+
+CARABINA
+
+21 -  Efficient Empirical Valence Bond Simulations with GROMACS.
+
+Simulaciones empíricas eficientes de enlaces de valencia con GROMACS.
+
+22 -  gmXtal: Cooking Crystals with GROMACS.
+
+gmXtal: Cristales para Cocinar con GROMACS.
+
+23 -  Protocol for the development of coarse-grained structures for macromolecular simulation using GROMACS.
+
+Protocolo para el desarrollo de estructuras de grano grueso para simulación macromolecular mediante GROMACS.
+
+24 -  pyGROMODS: a Python package for the generation of input files for molecular dynamic simulation with GROMACS.
+
+pyGROMODS: un paquete Python para la generación de archivos de entrada para simulación dinámica molecular con GROMACS.
+
+25 -  charmm2gmx: An Automated Method to Port the CHARMM Additive Force Field to GROMACS.
+
+charmm2gmx: un método automatizado para trasladar el campo de fuerza aditiva CHARMM a GROMACS.
+
+26 -  Gmx_qk: An Automated Protein/Protein-Ligand Complex Simulation Workflow Bridged to MM/PBSA, Based on Gromacs and Zenity-Dependent GUI for Beginners in MD Simulation Study.
+
+Gmx_qk: un flujo de trabajo automatizado de simulación de complejos de proteína/proteína-ligando conectado a MM/PBSA, basado en Gromacs y una GUI dependiente de Zenity para principiantes en el estudio de simulación MD.
+
+27 -  Visual dynamics: a WEB application for molecular dynamics simulation using GROMACS.
+
+Dinámica visual: una aplicación WEB para simulación de dinámica molecular utilizando GROMACS.
+
+28 -  Comprehensive Automated Routine Implementation, Validation, and Benchmark of the Anisotropic Force Field (AUA4) Using Python and GROMACS.
+
+Implementación, validación y evaluación comparativa de rutina automatizada integral del campo de fuerza anisotrópico (AUA4) utilizando Python y GROMACS.
+
+29 -  NE-RDFE: A protocol and toolkit for computing relative dissociation free energies with GROMACS between dissimilar molecules using bidirectional nonequilibrium dual topology schemes.
+
+NE-RDFE: protocolo y conjunto de herramientas para calcular energías libres de disociación relativas con GROMACS entre moléculas diferentes utilizando esquemas de topología dual bidireccional sin equilibrio.
+
+30 -  Ensemble Generation for Linear and Cyclic Peptides Using a Reservoir Replica Exchange Molecular Dynamics Implementation in GROMACS.
+
+Generación de conjuntos para péptidos lineales y cíclicos utilizando una implementación de dinámica molecular de intercambio de réplicas de reservorio en GROMACS.
+
+31 -  Scalable Constant pH Molecular Dynamics in GROMACS.
+
+Dinámica molecular escalable de pH constante en GROMACS.
+
+32 -  GROMACS Stochastic Dynamics and BAOAB Are Equivalent Configurational Sampling Algorithms.
+
+GROMACS Stochastic Dynamics y BAOAB son algoritmos de muestreo configuracionales equivalentes.
+
+33 -  YAMACS: a graphical interface for GROMACS.
+
+YAMACS: una interfaz gráfica para GROMACS.
+
+34 -  INAQS, a Generic Interface for Nonadiabatic QM/MM Dynamics: Design, Implementation, and Validation for GROMACS/Q-CHEM simulations.
+
+INAQS, una interfaz genérica para dinámica QM/MM no adiabática: diseño, implementación y validación para simulaciones GROMACS/Q-CHEM.
+
+35 -  GROMACS in the Cloud: A Global Supercomputer to Speed Up Alchemical Drug Design.
+
+GROMACS en la nube: una supercomputadora global para acelerar el diseño de fármacos alquímicos.
+
+36 -  gmxapi: A GROMACS-native Python interface for molecular dynamics with ensemble and plugin support.
+
+gmxapi: una interfaz Python nativa de GROMACS para dinámica molecular con soporte para conjuntos y complementos.
+
+37 -  Virtual Double-System Single-Box for Absolute Dissociation Free Energy Calculations in GROMACS.
+
+Caja única virtual de doble sistema para cálculos de energía libre de disociación absoluta en GROMACS.
+
+38 -  gmx_MMPBSA: A New Tool to Perform End-State Free Energy Calculations with GROMACS.
+
+gmx_MMPBSA: una nueva herramienta para realizar cálculos de energía libre de estado final con GROMACS.
+
+39 -  PyAutoFEP: An Automated Free Energy Perturbation Workflow for GROMACS Integrating Enhanced Sampling Methods.
+
+PyAutoFEP: un flujo de trabajo automatizado de perturbación de energía libre para GROMACS que integra métodos de muestreo mejorados.
+
+40 -  Dataset of AMBER force field parameters of drugs, natural products and steroids for simulations using GROMACS.
+
+Conjunto de datos de parámetros del campo de fuerza AMBER de medicamentos, productos naturales y esteroides para simulaciones utilizando GROMACS.
+
+41 -  NMR refinement and peptide folding using the GROMACS software.
+
+Refinamiento por RMN y plegamiento de péptidos mediante el software GROMACS.
+
+42 -  HeroMDAnalysis: an automagical tool for GROMACS-based molecular dynamics simulation analysis.
+
+HeroMDAnalysis: una herramienta automágica para el análisis de simulación de dinámica molecular basada en GROMACS.
+
+43 -  Development of parameters compatible with the CHARMM36 force field for [Fe
+
+Desarrollo de parámetros compatibles con el campo de fuerza CHARMM36 para [Fe
+
+44 -  Parameterization of Large Ligands for Gromacs Molecular Dynamics Simulation with LigParGen.
+
+Parametrización de ligandos grandes para simulación de dinámica molecular Gromacs con LigParGen.
+
+45 -  A GPU-Accelerated Fast Multipole Method for GROMACS: Performance and Accuracy.
+
+Un método multipolar rápido acelerado por GPU para GROMACS: rendimiento y precisión.
+
+46 -  Heterogeneous parallelization and acceleration of molecular dynamics simulations in GROMACS.
+
+Paralelización heterogénea y aceleración de simulaciones de dinámica molecular en GROMACS.
+
+47 -  MkVsites: A tool for creating GROMACS virtual sites parameters to increase performance in all-atom molecular dynamics simulations.
+
+MkVsites: una herramienta para crear parámetros de sitios virtuales GROMACS para aumentar el rendimiento en simulaciones de dinámica molecular de todos los átomos.
+
+48 -  Enhanced GROMACS: toward a better numerical simulation framework.
+
+GROMACS mejorado: hacia un mejor marco de simulación numérica.
+
+49 -  More bang for your buck: Improved use of GPU nodes for GROMACS 2018.
+
+Más beneficios por su inversión: uso mejorado de nodos GPU para GROMACS 2018.
+
+50 -  From GROMACS to LAMMPS: GRO2LAM : A converter for molecular dynamics software.
+
+De GROMACS a LAMMPS: GRO2LAM: un conversor para software de dinámica molecular.
+
+51 -  GROmaρs: A GROMACS-Based Toolset to Analyze Density Maps Derived from Molecular Dynamics Simulations.
+
+GROmaρs: un conjunto de herramientas basado en GROMACS para analizar mapas de densidad derivados de simulaciones de dinámica molecular.
+
+52 -  Implementing dimer metadynamics using gromacs.
+
+Implementación de metadinámica de dímeros utilizando gromacs.
+
+53 -  ForceGen: atomic covalent bond value derivation for Gromacs.
+
+ForceGen: derivación del valor del enlace covalente atómico para Gromacs.
+
+54 -  doGlycans-Tools for Preparing Carbohydrate Structures for Atomistic Simulations of Glycoproteins, Glycolipids, and Carbohydrate Polymers for GROMACS.
+
+doGlycans: herramientas para preparar estructuras de carbohidratos para simulaciones atomísticas de glicoproteínas, glicolípidos y polímeros de carbohidratos para GROMACS.
+
+55 -  A CPU/MIC Collaborated Parallel Framework for GROMACS on Tianhe-2 Supercomputer.
+
+Un marco paralelo colaborado con CPU/MIC para GROMACS en la supercomputadora Tianhe-2.
+
+56 -  Data including GROMACS input files for atomistic molecular dynamics simulations of mixed, asymmetric bilayers including molecular topologies, equilibrated structures, and force field for lipids compatible with OPLS-AA parameters.
+
+Datos que incluyen archivos de entrada GROMACS para simulaciones de dinámica molecular atomística de bicapas mixtas y asimétricas, incluidas topologías moleculares, estructuras equilibradas y campos de fuerza para lípidos compatibles con parámetros OPLS-AA.
+
+57 -  TopoGromacs: Automated Topology Conversion from CHARMM to GROMACS within VMD.
+
+TopoGromacs: Conversión de topología automatizada de CHARMM a GROMACS dentro de VMD.
+
+58 -  Improvements in GROMACS plugin for PyMOL including implicit solvent simulations and displaying results of PCA analysis.
+
+Mejoras en el complemento GROMACS para PyMOL que incluyen simulaciones de solventes implícitas y visualización de resultados de análisis PCA.
+
+59 -  CHARMM-GUI Input Generator for NAMD, GROMACS, AMBER, OpenMM, and CHARMM/OpenMM Simulations Using the CHARMM36 Additive Force Field.
+
+Generador de entrada CHARMM-GUI para simulaciones NAMD, GROMACS, AMBER, OpenMM y CHARMM/OpenMM utilizando el campo de fuerza aditivo CHARMM36.
+
+60 -  Topologies, structures and parameter files for lipid simulations in GROMACS with the OPLS-aa force field: DPPC, POPC, DOPC, PEPC, and cholesterol.
+
+Topologías, estructuras y archivos de parámetros para simulaciones de lípidos en GROMACS con el campo de fuerza OPLS-aa: DPPC, POPC, DOPC, PEPC y colesterol.
+
+61 -  A Python tool to set up relative free energy calculations in GROMACS.
+
+Una herramienta Python para configurar cálculos de energía libre relativa en GROMACS.
+
+62 -  Best bang for your buck: GPU nodes for GROMACS biomolecular simulations.
+
+La mejor inversión por su inversión: nodos GPU para simulaciones biomoleculares GROMACS.
+
+63 -  New QM/MM implementation of the DFTB3 method in the gromacs package.
+
+Nueva implementación QM/MM del método DFTB3 en el paquete gromacs.
+
+64 -  Implementation of extended Lagrangian dynamics in GROMACS for polarizable simulations using the classical Drude oscillator model.
+
+Implementación de dinámica lagrangiana extendida en GROMACS para simulaciones polarizables utilizando el modelo clásico de oscilador Drude.
+
+65 -  Constant pressure hybrid Monte Carlo simulations in GROMACS.
+
+Simulaciones de Monte Carlo híbrido de presión constante en GROMACS.
+
+66 -  Automatic GROMACS topology generation and comparisons of force fields for solvation free energy calculations.
+
+Generación automática de topología GROMACS y comparaciones de campos de fuerza para cálculos de energía libre de solvatación.
+
+67 -  Gro2mat: a package to efficiently read gromacs output in MATLAB.
+
+Gro2mat: un paquete para leer eficientemente la salida de gromacs en MATLAB.
+
+68 -  g_mmpbsa--a GROMACS tool for high-throughput MM-PBSA calculations.
+
+g_mmpbsa: una herramienta GROMACS para cálculos MM-PBSA de alto rendimiento.
+
+69 -  Molecular dynamics simulations of PNA-PNA and PNA-DNA duplexes by the use of new parameters implemented in the GROMACS package: a conformational and dynamics study.
+
+Simulaciones de dinámica molecular de dúplex PNA-PNA y PNA-DNA mediante el uso de nuevos parámetros implementados en el paquete GROMACS: un estudio conformacional y dinámico.
+
+70 -  MemBuilder: a web-based graphical interface to build heterogeneously mixed membrane bilayers for the GROMACS biomolecular simulation program.
+
+MemBuilder: una interfaz gráfica basada en web para construir bicapas de membranas mezcladas heterogéneamente para el programa de simulación biomolecular GROMACS.
+
+71 -  APL@Voro: a Voronoi-based membrane analysis tool for GROMACS trajectories.
+
+APL@Voro: una herramienta de análisis de membranas basada en Voronoi para trayectorias GROMACS.
+
+72 -  Free energy calculations for molecular solids using GROMACS.
+
+Cálculos de energía libre para sólidos moleculares utilizando GROMACS.
+
+73 -  Molecular dynamics simulation by GROMACS using GUI plugin for PyMOL.
+
+Simulación de dinámica molecular mediante GROMACS utilizando el complemento GUI para PyMOL.
+
+74 -  GROMACS 4.5: a high-throughput and highly parallel open source molecular simulation toolkit.
+
+GROMACS 4.5: un conjunto de herramientas de simulación molecular de código abierto, altamente paralelo y de alto rendimiento.
+
+75 -  Note: Free energy calculations for atomic solids through the Einstein crystal/molecule methodology using GROMACS and LAMMPS.
+
+Nota: Cálculos de energía libre para sólidos atómicos mediante la metodología de cristal/molécula de Einstein utilizando GROMACS y LAMMPS.
+
+76 -  A Flexible, Grid-Enabled Web Portal for GROMACS Molecular Dynamics Simulations.
+
+Un portal web flexible y compatible con Grid para simulaciones de dinámica molecular GROMACS.
+
+77 -  OBGMX: a web-based generator of GROMACS topologies for molecular and periodic systems using the universal force field.
+
+OBGMX: un generador basado en web de topologías GROMACS para sistemas moleculares y periódicos que utilizan el campo de fuerza universal.
+
+78 -  Enabling grand-canonical Monte Carlo: extending the flexibility of GROMACS through the GromPy python interface module.
+
+Habilitación del gran canónico Monte Carlo: ampliación de la flexibilidad de GROMACS a través del módulo de interfaz GromPy Python.
+
+79 -  Structure Formation of Toluene around C60: Implementation of the Adaptive Resolution Scheme (AdResS) into GROMACS.
+
+Formación de estructuras de tolueno alrededor de C60: implementación del esquema de resolución adaptativa (AdResS) en GROMACS.
+
+80 -  GROMACS molecule & liquid database.
+
+Base de datos de moléculas y líquidos GROMACS.
+
+81 -  Keep It Flexible: Driving Macromolecular Rotary Motions in Atomistic Simulations with GROMACS.
+
+Manténgalo flexible: conducción de movimientos giratorios macromoleculares en simulaciones atomísticas con GROMACS.
+
+82 -  Optimization of parameters for molecular dynamics simulation using smooth particle-mesh Ewald in GROMACS 4.5.
+
+Optimización de parámetros para simulación de dinámica molecular utilizando malla de partículas suave Ewald en GROMACS 4.5.
+
+83 -  Performance enhancements for GROMACS nonbonded interactions on BlueGene.
+
+Mejoras de rendimiento para interacciones no enlazadas de GROMACS en BlueGene.
+
+84 -  On easy implementation of a variant of the replica exchange with solute tempering in GROMACS.
+
+Sobre la fácil implementación de una variante del intercambio de réplicas con templado de soluto en GROMACS.
+
+85 -  Systematic benchmarking of large molecular dynamics simulations employing GROMACS on massive multiprocessing facilities.
+
+Evaluación comparativa sistemática de grandes simulaciones de dinámica molecular empleando GROMACS en instalaciones de multiprocesamiento masivo.
+
+86 -  SMOG@ctbp: simplified deployment of structure-based models in GROMACS.
+
+SMOG@ctbp: implementación simplificada de modelos basados ​​en estructuras en GROMACS.
+
+87 -  Implementation of the CHARMM Force Field in GROMACS: Analysis of Protein Stability Effects from Correction Maps, Virtual Interaction Sites, and Water Models.
+
+Implementación del campo de fuerza CHARMM en GROMACS: análisis de los efectos de la estabilidad de las proteínas a partir de mapas de corrección, sitios de interacción virtuales y modelos de agua.
+
+88 -  Gromita: a fully integrated graphical user interface to gromacs 4.
+
+Gromita: una interfaz gráfica de usuario totalmente integrada para gromacs 4.
+
+89 -  jSimMacs for GROMACS: a Java application for advanced molecular dynamics simulations with remote access capability.
+
+jSimMacs para GROMACS: una aplicación Java para simulaciones avanzadas de dinámica molecular con capacidad de acceso remoto.
+
+90 -  GROMACS 4:  Algorithms for Highly Efficient, Load-Balanced, and Scalable Molecular Simulation.
+
+GROMACS 4: Algoritmos para simulación molecular altamente eficiente, con carga equilibrada y escalable.
+
+91 -  GUIMACS - a Java based front end for GROMACS.
+
+GUIMACS: una interfaz basada en Java para GROMACS.
+
+92 -  Speeding up parallel GROMACS on high-latency networks.
+
+Acelerar GROMACS paralelos en redes de alta latencia.
+
+93 -  Flooding in GROMACS: accelerated barrier crossings in molecular dynamics.
+
+Inundaciones en GROMACS: cruces acelerados de barreras en dinámica molecular.
+
+94 -  GROMACS: fast, flexible, and free.
+
+GROMACS: rápido, flexible y gratuito.
+

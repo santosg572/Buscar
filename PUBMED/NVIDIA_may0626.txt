@@ -1,0 +1,24 @@
+Title: Mixed-Precision 
+Title: Object Detection on Road: Vehicle's Detection Based on Re-Training Models on NVIDIA-Jetson Platform.
+Title: A Deep Learning Pipeline for Epilepsy Genomic Analysis Using GPT-2 XL and NVIDIA H100.
+Title: Computer-vision based automatic rider helmet violation detection and vehicle identification in Indian smart city scenarios using NVIDIA TAO toolkit and YOLOv8.
+Title: Overview of real-world applications of federated learning with NVIDIA FLARE.
+Title: A Modular AI-Driven Intrusion Detection System for Network Traffic Monitoring in Industry 4.0, Using Nvidia Morpheus and Generative Adversarial Networks.
+Title: Optimising Concrete Crack Detection: A Study of Transfer Learning with Application on Nvidia Jetson Nano.
+Title: NVIDIA's "Chat with RTX" Custom Large Language Model and Personalized AI Chatbot Augments the Value of Electronic Dermatology Reference Material.
+Title: Fair evaluation of federated learning algorithms for automated breast density classification: The results of the 2022 ACR-NCI-NVIDIA federated learning challenge.
+Title: LiMOX-A Point Cloud Lidar Model Toolbox Based on NVIDIA OptiX Ray Tracing Engine.
+Title: Accelerating genomic workflows using NVIDIA Parabricks.
+Title: A comparative analysis of near-infrared image colorization methods for low-power NVIDIA Jetson embedded systems.
+Title: Motor Imagery Multi-Tasks Classification for BCIs Using the NVIDIA Jetson TX2 Board and the EEGNet Network.
+Title: Run Your 3D Object Detector on NVIDIA Jetson Platforms:A Benchmark Analysis.
+Title: A Low-Power Wireless System for Predicting Early Signs of Sudden Cardiac Arrest Incorporating an Optimized CNN Model Implemented on NVIDIA Jetson.
+Title: Quantum Mechanics/Molecular Mechanics Simulations on NVIDIA and AMD Graphics Processing Units.
+Title: Photoelectric Target Detection Algorithm Based on NVIDIA Jeston Nano.
+Title: Numerical behavior of NVIDIA tensor cores.
+Title: Evaluation of the Intel Xeon Phi 7120 and NVIDIA K80 as accelerators for two-dimensional panel codes.
+Title: NVIDIA OptiX ray-tracing engine as a new tool for modelling medical imaging systems.
+Title: Quantum Chemical Calculations Using Accelerators: Migrating Matrix Operations to the NVIDIA Kepler GPU and the Intel Xeon Phi.
+Title: 3D gaze tracking system for NVidia 3D Vision®.
+Title: Acceleration of spiking neural network based pattern recognition on NVIDIA graphics processors.
+Title: Supercomputing with toys: harnessing the power of NVIDIA 8800GTX and playstation 3 for bioinformatics problem.

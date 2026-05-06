@@ -1,0 +1,36 @@
+from deep_translator import GoogleTranslator
+
+file = 'parkinson_may0626.txt'
+
+fil = open(file,'r')
+
+datos = fil.readlines()
+
+traductor = GoogleTranslator(source='en', target='es')
+
+k = 1
+for ss in datos:
+  ss = ss.replace('\n','')
+  ss = ss[6:]
+  if len(ss) > 10:
+    print(str(k) + ' - ' + ss+'\n')
+    ss2 = traductor.translate(ss)
+    print(ss2+'\n')
+    k = k+1
+
+'''
+
+# Texto que deseas traducir
+texto_ingles = "Hello, how are you today?"
+
+# Configuramos el traductor de inglés ('en') a español ('es')
+traductor = GoogleTranslator(source='en', target='es')
+
+# Traducimos el texto
+texto_espanol = traductor.translate(texto_ingles)
+
+print(f"Texto original: {texto_ingles}")
+print(f"Texto traducido: {texto_espanol}")
+
+
+'''
