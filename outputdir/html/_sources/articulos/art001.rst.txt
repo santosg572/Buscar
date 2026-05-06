@@ -28,5 +28,553 @@ conocimiento declarativo y de un nivel superior al del tercer grupo. Por lo tant
 de experimentos con Arduino en un entorno mixto virtual-físico produce ganancias de aprendizaje en conocimiento 
 declarativo equivalentes a las obtenidas mediante la experimentación con LV a través de la PI.
 
+$$$$$
+
+El conocimiento declarativo es el conjunto de hechos, conceptos, datos e ideas que se almacenan conscientemente en la 
+memoria a largo plazo y pueden expresarse verbalmente o por escrito. Se conoce como "saber qué" (ej. "París es la 
+capital de Francia") y se contrapone al conocimiento procedimental o "saber cómo".
+
+* Características Principales: Es 
+descriptivo, consciente, estático y fácil de enseñar o verbalizar.
+* Componentes: Incluye conocimientos factuales (hechos 
+específicos, datos) y conceptuales (principios, teorías).
+* Ejemplos: Conocer fechas históricas, definiciones, fórmulas 
+matemáticas, reglas gramaticales o nombres de capitales.
+* Almacenamiento: Se organiza en la memoria episódica (eventos) y 
+semántica (hechos generales).
+
+Este tipo de conocimiento es fundamental en el aprendizaje académico y la formación de 
+conceptos, constituyendo la base de lo que sabemos sobre el mundo.
+
+$$$$$
+
+Declarative knowledge tests measure a person’s conscious knowledge of facts, data, and concepts, often referred to as 
+"knowing that". These assessments focus on "who, what, when, and where" information rather than the "how" of procedural 
+knowledge.
+
+Here are common methods and examples for testing declarative knowledge:
+
+1. Typical Assessment 
+
+* MethodsMultiple-Choice Questions (MCQs): These are commonly used to assess factual recall, such as historical dates, 
+scientific facts, or vocabulary.
+* Written or Oral Reports: Book reports or history reports allow students to demonstrate 
+their understanding of facts and concepts.
+* Fill-in-the-Blank and Matching Exercises: Used for defining terms and pairing 
+concepts.
+* Short Answer Tests: Questions asking to define, describe, or list information (e.g., "What is the capital of 
+France?").
+* Verbal Explanations: Explaining a concept in one's own words.
+
+2. Examples of Declarative Knowledge Questions
+
+* History: "In what year was the Declaration of Independence signed?"
+* Science: "What is the formula for the area 
+of a circle?"
+* Vocabulary: "Define the word 'ephemeral'."
+* Geography: "What are the three largest oceans on Earth?"
+* General 
+Knowledge: "Who wrote the play Hamlet?"
+
+3. Key Characteristics and Tools
+
+* Focus on Accuracy: These tests focus on whether 
+the stored information is correct.
+* Easy to Verbalize: Declarative knowledge is explicitly stated or written.
+* Preparation 
+for Higher Learning: These tests form the foundation for critical thinking and problem-solving.
+* Self-Assessment: Tools 
+like this Self-Assessment Quiz 1 can help learners review factual knowledge.
+
+4. Comparison with Procedural Assessments
+
+While declarative tests check "what" you know, procedural tests evaluate "how" you do something, usually 
+through performance or demonstration.
+
+* Declarative: Knowing the rules of grammar.
+* Procedural: Writing an essay using 
+correct grammar.
+
+For more interactive examples, check out this Declarative Knowledge Review Quiz.
+
+$$$$$
+
+Introduction
+
+The incorporation of Information and Communications Technologies (ICT) in secondary education appears to be an 
+important factor in European countries’ strategy, since it seems to ensure the effectiveness of their education systems 
+(Conrads et al., 2017) and the competitiveness of their economy (European Commission, 2018). New ICT tools are 
+constantly being developed, based on which various learning environments can be designed. However, gauging student 
+achievement is important not only for the development of sound pedagogical best practices but also for school financial 
+administration as an investment on new ICT tools should be justified properly.
+
+A state-of-the-art learning tool is the microcontroller technology, with Arduino being one of the most popular, as it 
+is suitable for people with little knowledge of electronics
+
+(Urban, 2014). It can be used in conjunction with various low-cost sensors to produce highly accurate and reliable 
+measurements (Alo et al., 2020; Pino et al., 2019). Therefore, it is considered a valuable tool for implementing 
+laboratory work in Chemistry education (Kubínová & Šlégr, 2015; Grinias et al., 2016). Through the addition of Arduino 
+to the infrastructure of schools, teachers are given the opportunity to use it as a means of experimentation as a 
+support of common teaching practices. For example, in Greek Chemistry Secondary Education, some common practices 
+involve teaching without experiments or with experiments through demonstration (Tountoulidis, 2011), or even using 
+Virtual Labs (VLs), videos, etc., on the Interactive Board (IB) (Vagelatos & Angelopoulos, 2017).
+
+If the empirical data can support that the addition of Arduino experiments can offer at least equivalent learning 
+outcomes as current practices, given their many other affordances, an argument can be made for their acceptance as a 
+support of current practices (Brinson, 2015). So, this study aims to evaluate the learning outcomes on Chemistry 
+knowledge acquisition of K-9 students by substituting VL experiments through demonstration with Arduino ones in a mixed 
+virtual-physical learning environment.
+
+Theoretical Framework
+
+RLabs and VLabs
+
+Experimentation can develop understanding related to the scientific content, problem solving skills, science processes 
+skills, understanding the nature of science, students’ self-confidence and high-order cognitive skills (Ural, 2016; 
+Wahyuni & Analita, 2017; Tsaparlis & Gorezi, 2005).
+
+However, in Greek Junior High schools, teaching Chemistry is mainly based on factual knowledge with limited 
+mathematical foundations, according to the instructions of the Greek national curriculum. In addition, although 
+hands-on laboratory work is an indispensable element of understanding chemistry courses, various limiting factors such 
+as insufficient lab infrastructure, overpopulated classes, lack of teachers’ self-confidence, and an excessive amount 
+of time and effort required to conduct accurate experiments result to the use of experiments through demonstration and 
+in many cases in the absence of experiments (Davenport, 2018; Tatli & Ayas, 2013; Kurbanoglu & Akim, 2010; 
+Tountoulidis, 2011).
+
+Consequently, Chemistry teachers usually focus on the presentation of school textbook theory on the conventional board 
+using static visualizations of the school textbook. Students are required to acquire mainly declarative knowledge of 
+Chemistry and applied exams focus on testing the acquisition of this type of knowledge. The declarative knowledge is 
+domain-specific, consisting of facts, theory, names, relations, and links representing meaningful connections between 
+concepts, whereas procedural knowledge includes the effective implementation of skills and strategies (Hong, 2018; 
+Stevenson, 1998; Sariscsany & Pettigrew 1997; Anderson, 1983). The main learning process of declarative knowledge is 
+understanding and remembering the knowledge, whereas procedural knowledge is firstly knowing it is associated 
+declarative knowledge, and then of enacting the skill via practice (Hong 2018).
+
+Furthermore, the activities using VLs, videos, etc., on the IB that Greek teachers may apply can foster declarative 
+knowledge acquisition (Hong, 2018; Webster, 2016; Sariscsany & Pettigrew, 1997). VLs are educational environments that 
+are considered as alternatives of RLs (Wu et al., 2019; Zacharia & Anderson, 2003; Dalgarno et al., 2009). In them 
+virtual objects like Chemistry, instruments and substances can be manipulated by students during the learning process. 
+Researchers highlight the educational use of VLs for their contribution to learning (Zacharia et al., 2019; Olympiou & 
+Zacharia, 2012; Zacharia & Olympiou, 2011; Zacharia & Anderson,
+
+2003; Zacharia, 2007) and suggest that they may have complementary affordances with physical hands-on manipulatives 
+(Kapici et al., 2019).
+
+However, some educators are critical in exposing students only to VLs, as the only way to acquire fine laboratory 
+skills is through actual hands-on experience (Potkonjak et al., 2016) and state that careful consideration should be 
+given concerning the question if a VL would be the best teaching tool (Crandall et al., 2015). Physical hands-on 
+experiments engage students (Flick, 1993) and offer realistic contexts that provide perceptually rich sensory-motor 
+experiences, allowing students to connect new to prior experiences (GoldStone & Son, 2005). In addition, some 
+researchers found that the use of ICT may have relatively small effects on academic outcomes (Cristia et al., 2017; Ma 
+et al. 2020). This can be attributed to the fact that effects on knowledge acquisition depend on the manner teachers 
+integrate ICT into their teaching process (Comi et al., 2017) and to the fact that negative effects could occur if they 
+are exploited to practice skills and procedures (Falck et al., 2018). As a result, some scholars claim that the use of 
+ICT and especially of virtual representations instead of physical manipulation, deprive students of hands-on 
+experiences leading to negative effects on learning (Scheckler, 2003; Clark, 1994). Instead, they highlight the 
+importance of learning through RL activities (Falck et al., 2018; Wang & Tseng, 2018; Zacharia et al., 2008; Zendler & 
+Greiner, 2020). Therefore, the use of VLs is regarded by a large portion of science educators as a surrogate for RLs 
+(Zacharia, 2007).
+
+While research shows that physical and virtual representations have complementary advantages (Olympiou & Zacharia, 
+2012), whether or not a physical, virtual, or blended mode is most effective, it likely depends not only on the mode 
+itself but also on the learning content and on the specific design of a representation (Rau, 2020). Selecting physical 
+manipulatives over virtual ones, and vice versa, requires knowing which conditions favor one over the other and the 
+only way to specify this is through further research (Zacharia et al., 2019). Since, we are far from being able to 
+predict when and why a physical or a virtual mode is effective (Rau, 2020), it is interesting to develop and evaluate 
+the learning effects of a mixed learning environment where virtual and physical manipulatives using Arduino 
+microcontroller can be combined.
+
+Microcontroller Technology
+
+Open-source microelectronics have become increasingly useful in Chemistry due to their low cost (Urban, 2015). A 
+microcontroller is a compact, integrated circuit designed to control specific processes, receive signals from a wide 
+variety of sensors and interact with activators (Enciso et al., 2018). Microcontroller technology has been used in many 
+studies to create an interface of the physical environment with a
+
+virtual one (Edwards et al., 2019; Kuan et al., 2016; Suwondo & Sulisworo, 2017; Fatani et al., 2018; Papadopoulos & 
+Jannakoudakis, 2016; Spikol et al., 2018). Measurements taken in physical systems using Arduino sensors can be 
+transmitted through a USB cable or wirelessly (Mavridis & Tsiatsos, 2017), e.g. through an HC-06 Bluetooth module, to a 
+PC, a smartphone or a tablet. The acquired data can be processed in digital form by using appropriate software (El 
+Hammoumi et al., 2018; Nichols, 2017; Grinias et al., 2016) and displayed directly on a screen in real-time (Urban, 
+2014).
+
+Arduino and other similar microcontrollers have already been used in various educational Chemistry applications as 
+there is a wide variety of sensors which can be used, that are not expensive and produce highly accurate and reliable 
+measurements (Pino et al., 2019). Arduino technology has been exploited for the construction of inexpensive Chemistry 
+measuring devices such as pH meters and thermometers (Kubínová & Šlégr, 2015) that can even be used for students with 
+visual impairment (Costa & Fernandes, 2019; Soong et al., 2018). Teachers can use these devices, exploiting a 
+projector, an IB (Walkowiak & Nehring, 2016), or an LCD display (Pető, 2020) in order to monitor measurements.
+
+For example, Kubínová and Šlégr (2015) proposed an inexpensive instrument based on Arduino technology as an educational 
+tool for pH and temperature measurements in secondary education. This experimental device can be used in combination 
+with a large enough display to be easily readable from every point in the classroom during demonstrations and 
+experiments performed by students.
+
+Arduino Integrated Development Environment (IDE) is the most commonly used environment for programming and for 
+displaying data through a USB connection with a PC (Urban, 2014). In addition, researchers developed open-source 
+software written in Python to enable easy, inexpensive data acquisition from Arduino, compatible with PC or Mac 
+(Grinias et al., 2016).
+
+These technological capabilities point out that Arduino is appropriate for integrating the ability to produce 
+measurements with physical instruments and substances in a mixed virtualphysical learning environment. This learning 
+environment should have the adaptability to be used either for demonstrations or experiments performed by students, for 
+which Arduino technology has been proven as appropriate (Kubínová & Šlégr, 2015). In addition, in Greece, the large 
+screens that are available for demonstration in most schools are IBs, and therefore, a mixed virtual-physical learning 
+environment should have the ability to interface with these tools.
+
+Aims of the Study
+
+Arduino sensors can be used in order to perform experiments through a demonstration using physical instruments and 
+substances, and the acquired data can be processed and
+
+displayed on the IB. In addition, the IB can be exploited in order to apply activities through VLs. With proper design, 
+a mixed virtual-physical learning environment could be achieved by incorporating Arduino instrumentation through IB.
+
+Therefore, based on the above learning materials, instruments and techniques, three research questions have been set:
+
+1. By using IB, is there a difference in declarative knowledge acquisition when teaching with a mixed virtual-physical 
+environment vs. teaching with VL?
+
+2. By using IB, is there a difference in declarative knowledge acquisition when teaching with a mixed virtual-physical 
+environment vs. teaching with no experiments at all?
+
+3. By using IB, is there a difference in declarative knowledge acquisition when teaching with VLs vs. teaching with no 
+experiments at all?
+
+In order to answer these questions, a Digital Application (DA) was constructed which incorporated text, images, videos, 
+digital concept maps, and VLs, aimed to be used through the IB. Also, an interface was added by which an Arduino sensor 
+could be controlled, calibrated, and monitored through the IB.
+
+Research Design and Tools
+
+Construction of the DA
+
+Α DA was constructed from scratch that concerned the thematic unit of “acids and bases.” This unit corresponds to the 
+3rd class of Greek Junior High School, where K-9 students are attending. Course objectives were defined after a 
+thorough analysis of the school textbook, by taking into consideration the instructions given by the Greek Educational 
+Policy Institute and common student misconceptions reported in the literature (Demircioglu et al., 2005; Horton, 2007). 
+The objectives were evaluated by 15 in service Chemistry teachers, 4 school counselors, and 1 academic Chemistry 
+teacher. Then, manuscripts of concept maps involving the content to be taught were constructed and discussed with 6 
+school teachers.
+
+Twelve simulations of VLs were constructed from scratch (Fig. 1). All the VLs, supplemented by additional digital 
+objects, like digital concept maps, animations, and photos, were utilized for the production of the DA (Fig. 2). Mayer 
+and Moreno (2002) rules were taken into consideration, in order to construct all the necessary digital material and 
+efforts were made to refer to real-life situations (e.g. wasp bites, stomach disturbances, everyday materials) so that 
+the new knowledge would be meaningful to students (Herranen et al., 2019; Childs et al., 2015; Broman et al., 2018; 
+Bulte et al., 2006).
+
+The developed DA had a predetermined learning path that was divided into continuous subsections. Each of these 
+subsections had three steps according to the Predict-ObserveExplain (POE) model (Zacharia et al., 2008). For example, 
+in
+
+“Research Design and Tools” there were VL activities in which the first step was to predict the effect of adding 
+another solution on the pH or on the color of the solution. In the next step, the teacher performed this procedure 
+using the appropriate virtual
+
+instruments and substances while students observed the result in a plenary format. At the last step, students consulted 
+in groups of two in order to reach a conclusion, to rationalize potential differences between the prediction and the 
+result, and to derive a general rule without the use of mathematical formalism, as this is not part of the curriculum. 
+These steps were followed during the construction of the DA given that many Greek Science teachers were familiar with 
+them due to their attendance to advanced level learning of educators in ICT performed in recent years (Nikolopoulou & 
+Gialamas, 2016).
+
+A table of contents and a detailed menu were incorporated to be used for accessing any subsection of the DA (Fig. 3).
+
+According to De Jong (2019), adaptive forms of guidance should be available in educational technology. Therefore, a 
+menu was added in some VLs in order to give to the “experienced” user the flexibility to select which instruments will 
+be used for a specific task, in order to follow a different path than the predefined one (Fig. 4).
+
+The construction of the DA followed all the aforementioned stages as shown schematically in Fig. 5.
+
+Arduino Interface
+
+An Arduino pH Sensor had to be connected and manipulated through the DA on the IB. In order to accomplish this, an 
+Arduino Uno R3 microcontroller and a Gravity Analog pH sensor v1.1 were utilized (DFRobot, 2019). Connection of the 
+microcontroller with the PC was made possible through a USB cable and as alternative through a HC-06 Bluetooth module 
+(Table 1).
+
+In order to connect both the pH sensor and the Bluetooth HC-06 module on the microcontroller, the use of a breadboard
+
+was required. By providing both types of connection (i.e. wired and wireless), the educator can use either in 
+accordance with the layout of the classroom or School Lab and the available infrastructure. The Arduino 
+microcontroller, the breadboard, the Bluetooth module, the pH sensor, and the battery were placed in a small case, from 
+which the USB cable and the sensor electrode came out (Fig. 6). In this way, the Arduino system is relatively portable 
+between different IBs.
+
+Arduino was programmed using Arduino IDE on a Windows PC. The sketch developed for that purpose
+
+relied mainly on the code provided by the sensor’s manufacturer (DFRobot, 2019) and on the Uduino library (Teyssier, 
+2019). This sketch permitted Arduino to calculate the pH value from the electrode output voltage, and the resulting 
+value was transferred in real-time through USB or Bluetooth connection into a
+
+Windows PC by using Uduino library and a C# code that exploited the Uduino plugin (Teyssier, 2019) and was developed on 
+Unity 3D Visual Studio. By using the code, pH values were displayed on a virtual analog/digital pH meter (Fig. 7). 
+“Calibration” of the virtual pH meter was realized before experiment using distilled water as a standard solution by 
+pressing an “up” or “down” button on the digital pH meter.
+
+In addition, calibration of the sensor was realized by the teacher before conducting the Teaching Intervention (TI) 
+using pH = 4.00 and pH = 7.00 standard solutions (DFRobot, 2019). All of these components were incorporated in the 
+start screen of the DA (Fig. 7).
+
+Paper‑and‑Pencil Worksheets
+
+Two worksheets were constructed to be used in combination with the DA. In these worksheets guidance of student’s 
+attention to the important aspects of the learning task
+
+was achieved by breaking tasks to smaller, simpler, more manageable (sub)tasks (Efstathiou et al., 2018; De Jong, 
+2019).
+
+More specifically, the first worksheet (WS1) was constructed in such a way to follow the above-mentioned steps of 
+activities according to the POE model. This worksheet corresponded to the first three sections of the DA concerning: 
+(a) an introduction to household and laboratory acidic and alkaline solutions, (b) the properties of the acidic and 
+alkaline solutions, and (c) Arrhenius theory and pH measurement methods.
+
+The second worksheet (WS2) followed a different path than the predetermined of the DA regarding mixing of solutions and 
+their effect on the pH value, and the neutralization of solutions. This worksheet followed inquiry learning phases with 
+a number of relevant sub processes (Pedaste et al., 2015) that could help teachers and students to monitor the learning 
+process (De Jong, 2019). This type of learning was selected, since it is a part of science curricula worldwide 
+(Herranen, 2019) and results of this research could be comparable between various educational systems. Additionally, 
+research data have shown that the combination of POE and inquiry was very successful in providing meaningful experience 
+through experimentation with physical manipulation and/or virtual manipulation (Zacharia et al., 2008), and therefore, 
+it was exploited in this research. However, experiments through demonstration were performed in the research given that 
+this is the most common Greek teaching practice of experimentation.
+
+Three versions of the WS2 were constructed and differentiated only in the Experimentation sub-phase of the followed 
+inquiry-based framework. Firstly, during Orientation phase, all students were introduced to the problem to be studied 
+concerning the changeable pH value of Greek sea water (Gianni et al., 2013) as well as, of acid-rain due to human 
+activities or natural phenomena. Following the conceptualization phase, students were asked to hypothesize the 
+potential effects of different pH values on aquatic life, on metal constructions, and on ancient marble monuments. In 
+the next step, students proposed under appropriate assistance supplied by the teacher which laboratory experiments had 
+to be carried out in order to determine the pH value changes as a result of the above human activities or natural 
+phenomena.
+
+Afterwards, during Experimentation, the three versions of WS2s were differentiated in regard to the means by which 
+students studied possible pH changes. According to the first version of WS2, students had to observe experiments 
+implemented by the teacher through Arduino sensors, using solutions like tap water, vinegar and glass cleaner as well 
+as simple instruments such as beakers, volumetric cylinders and wash bottles. A virtual analog/digital pH meter screen 
+was used through the IB in order to record the pH changes during the experiments. In the second version of the WS2, 
+students had to observe the corresponding VL experiments of the DA on the IB. In the third version, only drawings of 
+glassware and solutions on the IB were presented and the outcomes of the corresponding experiments were provided to the 
+students without performing them.
+
+At the end of each experiment, students were divided in groups of three or four in order to draw conclusions deduced 
+from the experiments and then to make a hypothesis on the possible effects of the resulted pH value on aquatic life 
+species, metal constructions, and on ancient monuments based on literature data (Gianni et al., 2013; Baedecker & 
+Reddy, 1993; Charola, 1987; Kumar, 2017; Camuffo, 1992).
+
+In the whole learning process, the educator had control over the IB and coordinated students’ activities, ensuring that 
+they all kept the same pace of learning and the students observed Arduino or VL experiments in a plenary format.
+
+Participants
+
+In order to answer research questions, a pre- to post-test comparison was carried out in two public Junior High schools 
+in Athens Greece during the school year 2018–2019. Two school teachers and 154 students participated in the main 
+research. Consent was received from the School principal and the Parents Board of each School. The teachers were in 
+service and had attended an official training program, named B-level, regarding the use of ICT in education 
+(Nikolopoulou & Gialamas 2016). Students were 14 to 15 years old and attended the 3rd grade of Junior High school. 
+Students in each school were distributed in three classes, in alphabetical order, and each student participated only in 
+one type of group. The first group was named Arduino (AR) Group, the second
+
+Virtual Lab (VL) Group, and the third one corresponds to the Control (C) Group.
+
+Weekly consultations by the researchers were performed with the two teachers of the six classes participating in the 
+study, in order to follow similar teaching interventions. It should be noticed that both teachers used the same DA, 
+worksheets and questionnaires as well as, all groups had been taught the same didactic units according to the 
+curriculum before conducting the research.
+
+Instruments
+
+In this study, the acquisition of declarative knowledge was evaluated in order to test the impact of the DA in a 
+context of common Greek teaching practices. For this type of knowledge, objective-type questionnaires, like multiple 
+choice, are considered as appropriate in the scientific literature (Ackerman & Smith, 1988; Abu-Zaid & Khan, 2013; 
+Chéron et al., 2016; Dickson-Spillmann et al., 2011; Hong et al., 2018; Palmer & Devitt, 2007; Sariscsany & Pettigrew, 
+1997; Itzek-Greulich et al., 2015, 2017; Glasson, 1989).
+
+At first, a questionnaire consisting of 40 multiple choice questions was constructed based on the learning goals and 
+common student misconceptions (Cartrette & Mayo, 2011; Demircioglu et al., 2005; Horton, 2007). Each question had four 
+possible answers and one of which was correct.
+
+Validity and reliability tests of the questionnaire (Q) were carried out (Muijs, 2010; Considine et al., 2005; Escudero 
+et al., 2000). Questions were evaluated in relation to Content and Face Validity by 15 in service Chemistry teachers, 4 
+school counselors, 1 academic Chemistry teacher, and 20 junior high school students. Following their suggestions,
+
+the questions were revised properly. Then the revised questionnaire was administered to 194 students who had just been 
+taught the thematic unit “acids and bases” in order to evaluate the discrimination index (DS) of each question. These 
+students were different from those participating in the main research. DS was calculated from “item to total 
+correlation” and DF from the number of correct answers divided by the number of total answers, by using SPSS software. 
+Only questions that had DS > 0.3 were retained (Ding & Beichner, 2009; Escudero et al., 2000). Twenty-five of them were 
+used to construct Q1 (see Appendix) and 14 of them to construct Q2 (see Appendix) according to the learning objectives 
+taught in the particular research phases which are described in Fig. 8. All scores were redacted to a 100-degree scale.
+
+Data Analysis
+
+Procedure and Data Collection
+
+Firstly, Q1 (Q1 pre) was distributed to all students as pre-test in order to evaluate if all teams were “equal” in 
+terms of prior declarative knowledge as described in Fig. 8. Afterwards, the first phase of the teaching intervention 
+(TI1) was applied in all groups by using the WS1 as well as, the DA on the IB. At this stage, only experiments with the 
+VLs of the DA were performed. The TI1 concerned basic concepts of the thematic unit, i.e., the categorization of 
+substances into acids and bases, their properties, Arrhenius theory, and pH scale. Then, Q2 was given to all students 
+in order to evaluate if all groups remain “equal” in terms of declarative knowledge of these concepts (see Fig. 8).
+
+In the second phase of the teaching intervention (TI2), the three different versions of the WS2 were used by the AR,
+
+VL, and C groups, respectively. The TI2 concerned changes in pH when mixing solutions or separating a solution in two 
+parts, dilution and neutralization of solutions. In the AR group experiments by demonstration through the IB were 
+performed using the Arduino. In the VL group only experiments using the VLs of the DA were performed through the IB. In 
+C group no experiments were performed and only graphics of instruments and substances were presented through the IB. 
+Finally, Q1 (Q1post) was redistributed to all students as post-test in order to evaluate declarative knowledge 
+acquisition due to the overall teaching intervention implemented in the research (Fig. 8).
+
+The duration of each assessment was one teaching hour (45 min). The duration of the TI1 was four teaching hours and of 
+TI2 was 3 h. As Chemistry is taught only one teaching hour per week in Greek junior high schools, all the research 
+procedures lasted for 10 weeks.
+
+Questionnaire Evaluation
+
+Q1 and Q2 were evaluated by calculating Cronbach’s alpha (a) and discrimination (DS)-difficulty (DF) analysis, by using 
+students’ answers after each TI implemented in the main experimental procedure (Table 2). In both questionnaires, DSs 
+and DFs and Cronbach’s alpha values can be regarded as acceptable (Ding & Beichner, 2009; Considine, 2005; Escudero et 
+al., 2000).
+
+Groups’ Achievement Comparison
+
+Shapiro-Wilk normality tests on the groups’ achievement on Q1 and Q2 were conducted for every assessment stage (Table 
+3). It was concluded that groups’ scores did not follow a normal distribution in most cases.
+
+Therefore, non-parametric statistical tests were applied for group comparisons (Table 4). Kruskal-Wallis test is 
+applied since it is a non-parametric test used to investigate statistical differences where there are more than two 
+independent groups to compare (Roni et al., 2020; MacFarland & Yates, 2016). In our study, this test was used to 
+evaluate if there are statistically significant differences for comparisons between the three groups. In cases that 
+Kruskal-Wallis test showed a significant difference, pair-wise comparisons with Bonferroni correction (adj sig) and 
+Mann-Whitney test were conducted as post-hoc analysis to determine which group(s) differ (Roni et al., 2020). Moreover, 
+in order to evaluate if there are significant differences before and after teaching intervention, Wilcoxon signed ranks
+
+tests were applied for every group (Grzegorzewski & Śpiewak, 2019). Effect size (r = Z/N1/2) was calculated for which a 
+significant difference was revealed (Tomczak & Tomczak 2014; Fritz et al., 2011).
+
+The six classes and the three groups (AR, VL, and C) had no significant differences in test scores among them before as 
+well as after the common TI. After the sequence of different TIs, all three groups exhibit significantly higher scores 
+than before with large effect sizes, indicating that all intervention variants had positive effects on learning. 
+Nevertheless, although AR and VL groups exhibited no significant differences to each other, they exhibited 
+significantly higher scores than C group with medium effect sizes.
+
+Conclusions
+
+In this study, the effects of conducting Arduino experiments in a mixed virtual-physical learning environment on 
+declarative knowledge acquisition were examined as the Greek curriculum and common teaching practices are focused on 
+this type of knowledge. According to the results, the use of Arduino experiments by the demonstration on the IB instead 
+of VLs through the IB had the same positive effect on students’ achievement. Furthermore, both experimentation 
+approaches result in greater learning gains regarding this type of knowledge than the absence of experimentation. 
+Students of C group who did not observe any manipulation had learning gains that can be attributed only to the 
+appropriate activities accompanied by static
+
+visualizations, which were lower than those attained by the other two groups.
+
+Therefore, it can be concluded that learning was equally promoted by these different experimental practices. 
+Declarative knowledge acquisition requires the activation of the learner’s cognitive resources for the recollection of 
+facts and events, which allows for comparing and contrasting remembered material (Kump et al., 2015). Understanding and 
+memorizing the learning content is crucial in learning declarative knowledge, while exercising an operating process is 
+very important in learning procedural knowledge (Hong et al., 2018). The presentation (Hong et al., 2018) of meaningful 
+activities (Glasson, 1989) may foster declarative knowledge acquisition.
+
+Activities incorporating virtual or physical or blended representations promote learning through different mechanisms 
+that are either additive or interfere one another (Rau, 2020). Given that in this study only RLs or VLs through 
+demonstration were implemented, students did not interact with physical or virtual representations. Consequently, there 
+were no haptic cues since hands-on activities through touch sensory channel were absent nor a possible raise in 
+interest through physical engagement appeared (Zacharia et al., 2019). Learning in activities by demonstration can only 
+be attributed in mechanisms promoted by different conceptual salient characteristics of real and virtual 
+representations (Rau, 2020; Olympiou & Zacharia, 2012), in cognitive load management of virtual representations (van 
+Merriënboer & Sweller, 2005; Zacharia & Olympiou, 2011;Vogel-Walcutt et al., 2011; Korakakis et al., 2009; Mayer & 
+Moreno, 2002) and embodied schema evolvement through neural mirroring mechanisms (Rau, 2020; Duijzer et al., 2019; 
+Gallese, 2009; Ebisch et al., 2008). Nevertheless, further research is necessary in order
+
+to determine how these learning mechanisms are promoted by experiments through demonstration.
+
+Several classrooms in Greece have been equipped with IBs, and many secondary education teachers have been trained for 
+its use. At the same time, a great variety of digital educational objects including VLs are available in various 
+repositories, to be used as a substitute or alongside hands on experiments with physical instruments. VLs provide 
+opportunities when physical laboratories are not available or practical (Davenport 2018). Arduino experiments may 
+bridge the gap of virtual vs. physical instrumentation as being a tool to conduct experiments with physical instruments 
+and substances in a mixed virtual-physical learning environment.
+
+Implications
+
+In everyday praxis, we often need demonstration measuring devices (thermometers, pH meters, etc.), with large enough 
+displays to be easily readable from every point in the classroom (Kubínová & Šlégr, 2015). The findings of this study 
+imply that virtual experimentation and Arduino experiments through a demonstration using IBs, in a mixed 
+virtual-physical environment provide learning gains greater than those achieved by using static visualizations. As 
+implementing Arduino experiments or VLs result in significant learning gains, they could be proposed for enhancing 
+students’ declarative knowledge in the context of acids and bases in secondary education. Nevertheless, learning 
+through hands-on activities experiments is also promoted by mechanisms explained by physical engagement and haptic 
+cues, which are not present in demonstrations.
+
+Given the differing affordances of physical and virtual manipulatives, combining their use is the only way to reap and 
+use the benefits (advantageous affordances) that
+
+both carry (Olympiou & Zacharia, 2012) in order to offer advantages that neither one can fully achieve by itself (De 
+Jong et al., 2013). Therefore, designers of digital educational environments should provide educators and students the 
+means to implement appropriate sequences of VLs and RLs in a mixed virtual-physical environment and Arduino looks 
+appropriate to facilitate this procedure either with a demonstration as in this study or in hands-on form.
+
+However, as there is no consensus or generally accepted rules regarding best practices in the sequence of virtual lab 
+and physical lab components (Brinson, 2015; Zacharia et al., 2019), it is important to provide to the educators and 
+students opportunities to draw and follow their own learning path based on the unique affordances of each mode of 
+experimentation (Olympiou & Zacharia, 2012). Activities incorporated in teaching practices should be chosen 
+appropriately, taking into account the subject to be taught as well as the available infrastructure involving a variety 
+of combinations of virtual and physical experiments (Brinson, 2017). A mixed virtual-physical learning environment has 
+to facilitate the alternative learning paths, and it is appropriate for educational systems, where various barriers 
+(e.g. limited infrastructure) confront with hands-on experimentation in real lab (Davenport, 2018; Tatli & Ayas, 2013; 
+Tountoulidis, 2011). Arduino instrumentation is appropriate for this purpose since it can transmit data from sensors to 
+a PC by using inexpensive infrastructure (Grinias et al., 2016) and therefore bridge the gap between virtual learning 
+environment and real instruments. In such an environment, a teacher may substitute activities that integrate virtual 
+objects with activities that incorporate physical counterparts through the use of Arduino sensors and vice versa. It 
+should be noted that virtual representations can also be used in cases where school lessons have to be substituted by 
+online learning and hands-on activities by experiments through demonstration as happened in Greece due to the Covid-19 
+pandemic in 2020. A mixed virtual-physical environment may prove useful, but research is needed to evaluate the 
+learning effects in these cases.
+
+Limitations and Future Research
+
+This study’s results should be interpreted taking into account some limitations. First, only declarative knowledge 
+acquisition and experiments through demonstration were considered in this study as these are the main characteristics 
+in the context of common Greek secondary education practices. Learning mechanisms involved in Arduino experiments or 
+VLs by demonstration are different than mechanisms involved in hands-on experiments. Therefore, this study can be 
+considered only applicable to situations where only demonstrations and no other processes like
+
+hands-on experiments take place. A future research could be designed in such a way in order to clarify which were the 
+characteristics of the physical or virtual representations that were beneficial or detrimental for learning.
+
+In addition, using the same test as pre-test and posttest could have compromised internal validity. However, the time 
+that elapsed between the pre-test and posttest questionnaire minimized the students’ opportunity to memorize the 
+questions. Finally, due to practical circumstances, a quasi-experimental setup was used. The school classes used in 
+this study did not differ on scores on the pre-tests, but random assignment of students to the different experimental 
+conditions would have minimized possible class-related effects.
+
+Compliance with Ethical Standards
+
+Conflict of Interest The authors declare that they have no conflict of interest.
+
+Ethical Approval All procedures performed in studies involving human participants were in accordance with the ethical 
+standards of the institutional and national research committee and with the 1964 Helsinki declaration and its later 
+amendments or comparable ethical standards.
+
+Informed Consent Informed consent was obtained from all individual participants included in the study.
+
+References
+
+Abu-Zaid, A., & Khan, T. A. (2013). Assessing declarative and procedural knowledge using multiple-choice questions. 
+Medical Education Online. https://doi.org/10.3402/meo.v18i0.21132.
+
+Ackerman, T. A., & Smith, P. L. (1988). A comparison of the information provided by essay, multiple-choice, and 
+free-response writing tests. Applied Psychological Measurement. https://doi. org/10.1177/014662168801200202.
+
+Alò, D., Castillo, A., Marín Vial, P., & Samaniego, H. (2020).
+
+Low-cost emerging technologies as a tool to support informal environmental education in children from vulnerable public 
+schools of southern Chile. International journal of science education. https://doi.org/10.1080/09500693.2020.1723036. 
+Anderson, J. R. (1983). The architecture of cognition. Cambridge, MA:
+
 
 
