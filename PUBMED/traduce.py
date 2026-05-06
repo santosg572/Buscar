@@ -1,6 +1,6 @@
 from deep_translator import GoogleTranslator
 
-file = 'parkinson_may0626.txt'
+file = 'computational_biology_may0626.txt'
 
 fil = open(file,'r')
 

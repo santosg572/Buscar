@@ -12,8 +12,9 @@ pubmed = PubMed(tool="MyPubMedSearcher", email="my@email.address")
 #results = pubmed.query("Finite element[Title]", max_results=5000)
 #results = pubmed.query("machine learning[Title]", max_results=5000)
 #results = pubmed.query("gifted[Title]", max_results=5000)
-results = pubmed.query("high capabilities", max_results=5000)
-
+#results = pubmed.query("high capabilities", max_results=5000)
+#results = pubmed.query("computational biology[Title]", max_results=5000)
+results = pubmed.query("built environments[Title]", max_results=5000)
 
 # Loop through the results
 for article in results:

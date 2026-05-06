@@ -1,0 +1,556 @@
+Title: Adjuvant databases and knowledge bases for data-driven research: a computational biology perspective.
+Title: Binding of Steroid Hormones to the FA1 and FA6 Sites of Human Serum Albumin through Computational Biology and Quantum Biochemistry.
+Title: Problems, Progress and Perspectives in Mathematical and Computational Biology.
+Title: [Development of a postgraduate course Computational Biology for cultivating talents in biomanufacturing].
+Title: Design and activity validation of GABA-gated chloride channels allosteric modulators based on computational biology.
+Title: New allosteric modulators of molecular chaperone TRAP1 from the integration of computational biology, medicinal chemistry, and biophysics.
+Title: Trust, Reproducibility, and Progress: The Roles of Independent Blind Prediction and Assessment and Benchmarking in Computational Biology.
+Title: Challenges and Advances in Bioinformatics and Computational Biology.
+Title: Challenges and opportunities: computational biology and the future of agriculture.
+Title: Bridging Scales: Coarse-Grained Protein Models in Computational Biology.
+Title: Computational biology for cell-free systems.
+Title: Learnable protein representations in computational biology for predicting drug-target affinity.
+Title: Ten simple rules for running a virtual program to introduce computational biology at the high school level.
+Title: Structural and Computational Biology: Compete or Complement?
+Title: Editorial: Multi-omics and computational biology in horticultural plants: from genotype to phenotype, volume III.
+Title: Investigating the clinical efficacy, safety and molecular mechanism of sulforaphane in autism spectrum disorder: an integrated study combining meta-analysis, network pharmacology, and computational biology.
+Title: Novel targets for treating cancer and inflammatory disorders: A disintegrin-metalloprotease-10 and cyclooxygenase-2 feedback loop modulated by Aconitum heterophyllum leaf biomarkers with computational biology.
+Title: Structural and immunological impacts of TOLLIP nsSNPs: A computational biology approach to drug discovery and immune system modulation.
+Title: Unveiling Berberine's Therapeutic Mechanisms Against Hepatocellular Carcinoma via Integrated Computational Biology and Machine Learning Approaches: AURKA and CDK1 as Principal Targets.
+Title: Mining umami peptides in lager and multidimensional sensory evaluation of the beer body integrating computational biology with modern sensomics.
+Title: Impact of the COVID-19 pandemic on computational biology early career researchers: A global retrospective study.
+Title: Editorial: Guidelines for Credible Machine Learning in Computational Biology.
+Title: Roadmap for using large language models (LLMs) to accelerate cross-disciplinary research with an example from computational biology.
+Title: Catalyzing computational biology research at an academic institute through an interest network.
+Title: Significantly enhancing human antibody affinity via deep learning and computational biology-guided single-point mutations.
+Title: DynamiSpectra: A Python Software Package and Web Platform for Molecular Dynamics Data Analysis in Computational Biology.
+Title: Exploring transcriptome plasticity at the intersection of cell signaling, metabolism and computational biology.
+Title: Integrative UHPLC-HRMS and computational biology reveal ferroptosis and anoikis targeting by Wenpitongluo decoction in cardiorenal syndrome.
+Title: Response to comments by Floch et al. on our papers on the use of computational biology to study RhCE and RhD structures.
+Title: Comments on 'Use of computational biology to compare the theoretical tertiary structures of the most common forms of RhCE and RhD' and 'Prediction of the antigenic regions in eight RhD variants identified by computational biology'.
+Title: KarXT combines the partial benefits of haloperidol for positive symptoms and sulpiride for negative symptoms: Evidence from computational biology.
+Title: Pharmacokinetic and toxicological profile in pharmaceutical bioprospecting of caryophyllene molecules using computational biology for therapeutic purposes.
+Title: Computational biology meets oncology: designing custom protein and peptide binders to outsmart cancer.
+Title: An educator framework for organizing Wikipedia editathons for computational biology.
+Title: Ten simple rules for success as a trainee-led outreach organization in computational biology education.
+Title: Elucidation of novel diagnostic biomarkers and therapeutic targets in colorectal carcinoma: an integrative approach leveraging multi-omics, computational biology, and single-cell sequencing technologies.
+Title: Advancements in AI for Computational Biology and Bioinformatics: A Comprehensive Review.
+Title: Ameliorative role of naringenin in MPTP- induced Parkinsonism: Insights from 
+Title: Integrated meta-analysis, network pharmacology, computational biology, and 
+Title: Gene-level connections between anxiety disorders, ADHD, and head and neck cancer: insights from a computational biology approach.
+Title: Unlocking the potential of circular RNA vaccines: a bioinformatics and computational biology perspective.
+Title: Seven Hub Genes Associated with Huntington's Disease and Diagnostic and Therapeutic Potentials Identified by Computational Biology.
+Title: Editorial for the Special Issue: Bioinformatics and Computational Biology for Cancer Prediction and Prognosis.
+Title: Computational biology predicts metabolic engineering targets for increased production of 103 valuable chemicals in yeast.
+Title: Emerging Artificial Intelligence Methodologies in Computational Biology.
+Title: Diabesity: New Candidate Genes and Structural and Functional Effects of Non-Synonymous Single Nucleotide Polymorphisms Identified by Computational Biology.
+Title: Queer voices in computational biology: the first ISCB LGBTQI+ Symposium.
+Title: Computational biology and artificial intelligence in mRNA vaccine design for cancer immunotherapy.
+Title: Investigating the role and mechanisms of bisphenol compounds in premature ovarian insufficiency using computational biology and bioinformatics.
+Title: Development of a multi-epitope chimeric vaccine in silico against Babesia bovis, Theileria annulata, and Anaplasma marginale using computational biology tools and reverse vaccinology approach.
+Title: Leveraging Structural and Computational Biology for Molecular Glue Discovery.
+Title: Metabolomic Analysis and Computational Biology Reveal the Potential Metabolic Pathways for Improvement of Fucoxanthin and Eicosapentaenoic Acid (EPA) Biosynthesis in Phaeodactylum tricornutum.
+Title: Target Discovery Driven by Chemical Biology and Computational Biology.
+Title: Investigating the anti-obesity potential of 
+Title: Computational biology assisted exploration of phytochemicals derived natural inhibitors to block BZLF1 gene activation of Epstein-Bar virus in host.
+Title: Leveraging Foundational Models in Computational Biology: Validation, Understanding, and Innovation.
+Title: Robust parameter estimation and identifiability analysis with hybrid neural ordinary differential equations in computational biology.
+Title: Revealing the potential therapeutic mechanism of 
+Title: The Need to Embrace and Integrate Computational Technologies Within Radiology Research and Education: Perspective of a Medical Student With a Computational Biology Background.
+Title: Quantifying Personalized Shift-Work Molecular Portraits Underlying Alzheimer's Disease through Computational Biology.
+Title: Structural profiles of the full phagocyte NADPH oxidase unveiled by combining computational biology and experimental knowledge.
+Title: Aphthous stomatitis - computational biology suggests external biotic stimulus and immunogenic cell death involved.
+Title: Direct Cardiac Reprogramming in the Age of Computational Biology.
+Title: Computational Biology in the Discovery of Biomarkers in the Diagnosis, Treatment and Management of Cardiovascular Diseases.
+Title: ECCB2024: The 23rd European Conference on Computational Biology.
+Title: Editorial: Big data and artificial intelligence for genomics and therapeutics - Proceedings of the 19th Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society (MCBIOS).
+Title: Integrating network pharmacology and computational biology to propose Yiqi Sanjie formula's mechanisms in treating NSCLC: molecular docking, ADMET, and molecular dynamics simulation.
+Title: Applying interpretable machine learning in computational biology-pitfalls, recommendations and opportunities for new developments.
+Title: Design of multi-epitope vaccine against porcine rotavirus using computational biology and molecular dynamics simulation approaches.
+Title: Vaccine design and development: Exploring the interface with computational biology and AI.
+Title: Advances in Computational Biology for Diagnosing Neurodegenerative Diseases: A Comprehensive Review.
+Title: Closing the computational biology 'knowledge gap': Spanish Wikipedia as a case study.
+Title: Computational biology approaches for drug repurposing.
+Title: Molecular mechanisms of Tetrastigma hemsleyanum Diels&Gilg against lung squamous cell carcinoma: From computational biology and experimental validation.
+Title: A special issue of Essays in Biochemistry on computational biology.
+Title: Artificial Intelligence and Computational Biology in Gene Therapy: A Review.
+Title: Identification of a robust biomarker LAPTM4A for glioma based on comprehensive computational biology and experimental verification.
+Title: Diffusion models in bioinformatics and computational biology.
+Title: A novel professional-use synergistic peel technology to reduce visible hyperpigmentation on face: Clinical evidence and mechanistic understanding by computational biology and optical biopsy.
+Title: Network pharmacology, computational biology integrated surface plasmon resonance technology reveals the mechanism of ellagic acid against rotavirus.
+Title: Prediction of the antigenic regions in eight RhD variants identified by computational biology.
+Title: Molecular mechanisms of quetiapine bidirectional regulation of bipolar depression and mania based on network pharmacology and molecular docking: Evidence from computational biology.
+Title: 
+Title: Editorial: Multi-omics and computational biology in horticultural plants: from genotype to phenotype, volume II.
+Title: 2022 IEEE conference on computational intelligence in bioinformatics and computational biology (IEEE CIBCB, 2022).
+Title: Advancements in bioinformatics and computational biology: 15th annual Polish Bioinformatic Society Symposium.
+Title: Retracted: Computational Biology Predicts the Efficacy of Tumor Immune Checkpoint Blockade.
+Title: Prognostic significance and expression pattern of glucose related genes in breast cancer: A comprehensive computational biology approach.
+Title: Ten simple rules for writing a PLOS Computational Biology quick tips article.
+Title: AKR1C1 and hormone metabolism in lipedema pathogenesis: a computational biology approach.
+Title: Understanding the structural basis of the binding specificity of c-di-AMP to 
+Title: An integrated computational biology approach defines the crucial role of TRIP13 in pancreatic cancer.
+Title: Computational biology of antibody epitope, tunnels and pores analysis of protein glutathione S-transferase P, and quantum mechanics.
+Title: Lupenone, a wonder chemical obtained from Euphorbia segetalis to boost affinity for the transcriptional factor escalating drought-tolerance in Solanum Lycopersicum: A cutting-edge computational biology approach.
+Title: Investigating the Molecular Interactions of Quinoline Derivatives for Antibacterial Activity Against Bacillus subtilis: Computational Biology and In Vitro Study Interpretations.
+Title: Repurposing FDA approved drug molecules against A B C classes of β-lactamases: a computational biology and molecular dynamics simulations study.
+Title: Exploring the Molecular Mechanism of Niuxi-Mugua Formula in Treating Coronavirus Disease 2019 
+Title: A computational biology approach to identify potential protein biomarkers and drug targets for sporadic amyotrophic lateral sclerosis.
+Title: Big Data Analysis in Computational Biology and Bioinformatics.
+Title: Big Data in Bioinformatics and Computational Biology: Basic Insights.
+Title: Emerging Trends in Big Data Analysis in Computational Biology and Bioinformatics in Health Informatics: A Case Study on Epilepsy and Seizures.
+Title: Embracing the command line: my unexpected career in computational biology.
+Title: Correction to: Quantum Computing in the Next-Generation Computational Biology Landscape: from Protein Folding to Molecular Dynamics.
+Title: Monitoring environmental microbiomes: Alignment of microbiology and computational biology competencies within a culturally integrated curriculum and research framework.
+Title: Computational biology and in vitro studies for anticipating cancer-related molecular targets of sweet wormwood (Artemisia annua).
+Title: Identification of natural lead molecules as potential 
+Title: Omics data integration in computational biology viewed through the prism of machine learning paradigms.
+Title: The blossoming of methods and software in computational biology.
+Title: Ten quick tips for harnessing the power of ChatGPT in computational biology.
+Title: Use of computational biology to compare the theoretical tertiary structures of the most common forms of RhCE and RhD.
+Title: Computational biology-based study of the molecular mechanism of spermidine amelioration of acute pancreatitis.
+Title: FDA Modernization Act 2.0 Paves the Way to Computational Biology and Clinical Trials in a Dish.
+Title: GPCRome-wide analysis of G-protein-coupling diversity using a computational biology approach.
+Title: Quantum Entanglement and State-Transference in Fenna-Matthews-Olson Complexes: A Post-Experimental Simulation Analysis in the Computational Biology Domain.
+Title: A systems and computational biology perspective on advancing CAR therapy.
+Title: Quantum Computing in the Next-Generation Computational Biology Landscape: From Protein Folding to Molecular Dynamics.
+Title: LPCAT1 enhances the invasion and migration in gastric cancer: Based on computational biology methods and in vitro experiments.
+Title: Novel computational biology modeling system can accurately forecast response to neoadjuvant therapy in early breast cancer.
+Title: Computational Biology Helps Understand How Polyploid Giant Cancer Cells Drive Tumor Success.
+Title: A Computational Biology Study on the Structure and Dynamics Determinants of Thermal Stability of the Chitosanase from 
+Title: Correction to: Quantum computing algorithms: getting closer to critical problems in computational biology.
+Title: MERS virus spike protein HTL-epitopes selection and multi-epitope vaccine design using computational biology.
+Title: Immunogenic multi-epitope-based vaccine development to combat cyclosporiasis of immunocompromised patients applying computational biology method.
+Title: Identification of Novel Core Genes Involved in Malignant Transformation of Inflamed Colon Tissue Using a Computational Biology Approach and Verification in Murine Models.
+Title: Computational biology: Role and scope in taming antimicrobial resistance.
+Title: Regulatory Role of Fatty Acid Metabolism-Related Long Noncoding RNA in Prostate Cancer: A Computational Biology Study Analysis.
+Title: Latent tuberculosis and computational biology: A less-talked affair.
+Title: Deciphering the interaction mechanism of natural actives against larval proteins of 
+Title: GPCR Allostery: A View from Computational Biology.
+Title: Ten simple rules for defining a computational biology project.
+Title: Editorial: Multi-omics and computational biology in horticultural plants: From genotype to phenotype.
+Title: Computational Biology Dynamics of Mps1 Kinase Molecular Interactions with Isoflavones Reveals a Chemical Scaffold with Potential to Develop New Therapeutics for the Treatment of Cancer.
+Title: Multiple sclerosis and computational biology (Review).
+Title: Application of Computational Biology and Artificial Intelligence in Drug Design.
+Title: Ten simple rules for creating a global network in computational biology.
+Title: Quantum computing algorithms: getting closer to critical problems in computational biology.
+Title: Computational Biology Predicts the Efficacy of Tumor Immune Checkpoint Blockade.
+Title: Computational intelligence and machine learning in bioinformatics and computational biology.
+Title: ECCB2022: the 21st European Conference on Computational Biology.
+Title: Hardware-Algorithm Codesign for Fast and Energy Efficient Approximate String Matching on FPGA for Computational Biology.
+Title: Editorial: Recent advances in computational biology.
+Title: Computational Biology of BRCA2 in Male Breast Cancer, through Prediction of Probable nsSNPs, and Hit Identification.
+Title: Computational biology insights into genotype-clinical phenotype-protein phenotype relationships between novel SLC26A2 variants identified in inherited skeletal dysplasias.
+Title: Progress in and Opportunities for Applying Information Theory to Computational Biology and Bioinformatics.
+Title: Oleuropein as a Potent Compound against Neurological Complications Linked with COVID-19: A Computational Biology Approach.
+Title: RGS1 and related genes as potential targets for immunotherapy in cervical cancer: computational biology and experimental validation.
+Title: Investigation of the Defective Growth Pattern and Multidrug Resistance in a Clinical Isolate of Candida glabrata Using Whole-Genome Sequencing and Computational Biology Applications.
+Title: Prognostic MicroRNA Panel for HCV-Associated HCC: Integrating Computational Biology and Clinical Validation.
+Title: Calculation of the Biological Efficiency of the Proton Component from 14.8 MeV Neutron Irradiation in Computational Biology with Help of Video Cards.
+Title: Michael Waterman's Contributions to Computational Biology and Bioinformatics.
+Title: Advancing code sharing in the computational biology community.
+Title: A survey on protein-DNA-binding sites in computational biology.
+Title: Bruins-in-Genomics: Evaluation of the impact of a UCLA undergraduate summer program in computational biology on participating students.
+Title: Origin of novel coronavirus causing COVID-19: A computational biology study using artificial intelligence.
+Title: M5C-Related lncRNA Predicts Lung Adenocarcinoma and Tumor Microenvironment Remodeling: Computational Biology and Basic Science.
+Title: Evaluation of pH change effects on the HSA folding and its drug binding characteristics, a computational biology investigation.
+Title: Editorial: 2020 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (IEEE CIBCB 2020).
+Title: A Pyroptosis-Related Gene Signature Predicts Prognosis and Immune Microenvironment for Breast Cancer Based on Computational Biology Techniques.
+Title: Translational organoid technology - the convergence of chemical, mechanical, and computational biology.
+Title: Is Immune Suppression Involved in the Ischemic Stroke? A Study Based on Computational Biology.
+Title: Lessons from a ten-year-long journey: building a student-driven computational biology society across Turkey.
+Title: Vivarium: an interface and engine for integrative multiscale modeling in computational biology.
+Title: Model Integration in Computational Biology: The Role of Reproducibility, Credibility and Utility.
+Title: Recent advances in plastic degradation - From microbial consortia-based methods to data sciences and computational biology driven approaches.
+Title: Targeting CK2 mediated signaling to impair/tackle SARS-CoV-2 infection: a computational biology approach.
+Title: Current and Emerging Tools of Computational Biology To Improve the Detoxification of Mycotoxins.
+Title: 
+Title: Lung Cancer Computational Biology and Resources.
+Title: Positive-unlabeled learning in bioinformatics and computational biology: a brief review.
+Title: A field guide to cultivating computational biology.
+Title: PLoS Computational Biology Issue Image | Vol. 1(9) October 2021.
+Title: Novel 
+Title: Wnt pathway-related three-mRNA clinical outcome signature in bladder urothelial carcinoma: computational biology and experimental analyses.
+Title: Development of Explicit Schemes for Diffusive SEAIR COVID-19 Epidemic Spreading Model: An Application to Computational Biology.
+Title: Computational biology approaches for mapping transcriptional regulatory networks.
+Title: Computational biology: Turing's lessons in simplicity.
+Title: Trace Reconstruction Problems in Computational Biology.
+Title: Genome instability-related long non-coding RNA in clear renal cell carcinoma determined using computational biology.
+Title: Highlights from the 16th International Society for Computational Biology Student Council Symposium 2020.
+Title: Computational Viromics: Applications of the Computational Biology in Viromics Studies.
+Title: Computational Biology and Machine Learning Approaches to Understand Mechanistic Microbiome-Host Interactions.
+Title: Analysis of natural compounds against the activity of SARS-CoV-2 NSP15 protein towards an effective treatment against COVID-19: a theoretical and computational biology approach.
+Title: Computational Biology: A New Frontier in Applied Biology.
+Title: Secretome Profiling and Computational Biology of Human Leiomyoma Samples Unravel Molecular Signatures with Potential for Diagnostic and Therapeutic Interventions.
+Title: Understanding the molecular evolution of tiger diversity through DNA barcoding marker ND4 and NADH dehydrogenase complex using computational biology.
+Title: Developing intuitive and explainable algorithms through inspiration from human physiology and computational biology.
+Title: Human OMICs and Computational Biology Research in Africa: Current Challenges and Prospects.
+Title: Molecular strategies to enhance stability and catalysis of extremophile-derived α-amylase using computational biology.
+Title: Making Tools that People Will Use: User-Centered Design in Computational Biology Research.
+Title: COBRE for Computational Biology of Human Disease at Brown University: Progress and Prospects.
+Title: Computational biology and chemistry Special section editorial: Computational analyses for miRNA.
+Title: On the open-source landscape of PLOS Computational Biology.
+Title: Towards practical applications in quantum computational biology.
+Title: Electroosmotically driven flow of micropolar bingham viscoplastic fluid in a wavy microchannel: application of computational biology stomach anatomy.
+Title: Computational Biology Analysis of COVID-19 Receptor-Binding Domains: A Target Site for Indocyanine Green Through Antimicrobial Photodynamic Therapy.
+Title: Connecting Black women in computational biology.
+Title: ECCB2020: the 19th European Conference on Computational Biology.
+Title: Effect of ligand conjugation site on the micellization of Bio-Targeted PLGA-Based nanohybrids: A computational biology approach.
+Title: Information Theory in Computational Biology: Where We Stand Today.
+Title: Computational Biology and 
+Title: Tracing the footsteps of autophagy in computational biology.
+Title: Gene Regulatory Networks of 
+Title: Genomics, Computational Biology and Drug Discovery for Mycobacterial Infections: Fighting the Emergence of Resistance.
+Title: Online laboratory exercise on computational biology: Phylogenetic analyses and protein modeling based on SARS-CoV-2 data during COVID-19 remote instruction.
+Title: Genome-wide circadian regulation: A unique system for computational biology.
+Title: Proceedings of the 2019 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+Title: Exploring the genomic and proteomic variations of SARS-CoV-2 spike glycoprotein: A computational biology approach.
+Title: 10 simple rules for teaching wet-lab experimentation to computational biology students, i.e., turning computer mice into lab rats.
+Title: Validation of Modeling and Simulation Methods in Computational Biology.
+Title: What Is the Role for Algorithmics and Computational Biology in Responding to the COVID-19 Pandemic?
+Title: Improving reproducibility in computational biology research.
+Title: Prediction of Outcomes with a Computational Biology Model in Newly Diagnosed Glioblastoma Patients Treated with Radiation Therapy and Temozolomide.
+Title: Ten simple rules for designing learning experiences that involve enhancing computational biology Wikipedia articles.
+Title: Innovating Computational Biology and Intelligent Medicine: ICIBM 2019 Special Issue.
+Title: Setup of a scientific computing environment for computational biology: Simulation of a genome-scale metabolic model of Escherichia coli as an example.
+Title: Extensive immunoinformatics study for the prediction of novel peptide-based epitope vaccine with docking confirmation against envelope protein of Chikungunya virus: a computational biology approach.
+Title: Foreword: Special Issue for the 2019 International Conference on Bioinformatics and Computational Biology (BICOB-2019).
+Title: An examination of citation-based impact of the computational biology conferences.
+Title: Application of Computational Biology and Artificial Intelligence Technologies in Cancer Precision Drug Discovery.
+Title: Establishment of computational biology in Greece and Cyprus: Past, present, and future.
+Title: 2019 International Conference and Exhibition on Computational Biology and Bioinformatics (ICECBB 2019), December 1-2, 2019, Taipei, Taiwan.
+Title: Exploring cardiac form and function: A length-scale computational biology approach.
+Title: Soft Set Theory for Decision Making in Computational Biology under Incomplete Information.
+Title: Identification of key candidate genes and molecular pathways in white fat browning: an anti-obesity drug discovery based on computational biology.
+Title: Computational Biology: Toward Early Detection of Pancreatic Cancer.
+Title: Application of Computational Biology to Decode Brain Transcriptomes.
+Title: Advancing computational biology and bioinformatics research through open innovation competitions.
+Title: Global network of computational biology communities: ISCB's Regional Student Groups breaking barriers.
+Title: WITHDRAWN: Two kinds of metrics for computational biology.
+Title: Computational Biology Solutions to Identify Enhancers-target Gene Pairs.
+Title: Association of A-197G polymorphism in interleukin-17 gene with chronic periodontitis: Evidence from six case-control studies with a computational biology approach.
+Title: A genomics-informed computational biology platform prospectively predicts treatment responses in AML and MDS patients.
+Title: Selected Papers from the Workshop on Computational Biology: Joint with the International Joint Conference on Artificial Intelligence and the International Conference on Machine Learning, 2018.
+Title: Object Weighting: A New Clustering Approach to Deal with Outliers and Cluster Overlap in Computational Biology.
+Title: A practical guide to methods controlling false discoveries in computational biology.
+Title: Establishing a computational biology flipped classroom.
+Title: Wisdom of crowds in computational biology.
+Title: To Embed or Not: Network Embedding as a Paradigm in Computational Biology.
+Title: Exascale Computing: A New Dawn for Computational Biology.
+Title: Recent Advances of Deep Learning in Bioinformatics and Computational Biology.
+Title: Proceedings of the 2018 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference.
+Title: Precision Medicine on Chronic Disease Incorporating Experimental and Computational Biology.
+Title: Functional data analysis for computational biology.
+Title: Overall Introduction and Rationale, with View from Computational Biology.
+Title: Developing computational biology at meridian 23° E, and a little eastwards.
+Title: ECCB 2018: The 17th European Conference on Computational Biology.
+Title: Putting benchmarks in their rightful place: The heart of computational biology.
+Title: Biotite: a unifying open source computational biology framework in Python.
+Title: bioSyntax: syntax highlighting for computational biology.
+Title: Computational Biology
+Title: Preface to the Special Issue: Parallel Computing in Computational Biology: A Technological Point of View.
+Title: Recent patents in computational biology.
+Title: Toward predictive R-loop computational biology: genome-scale prediction of R-loops reveals their association with complex promoter structures, G-quadruplexes and transcriptionally active enhancers.
+Title: ParaCells: A GPU Architecture for Cell-Centered Models in Computational Biology.
+Title: Synaptopathy, circuitopathy and the computational biology of Huntington's disease.
+Title: Toward predictive R-loop computational biology: genome-scale prediction of R-loops reveals their association with complex promoter structures, G-quadruplexes and transcriptionally active enhancers.
+Title: Nano-particle mediated inhibition of Parkinson's disease using computational biology approach.
+Title: Integrated computational biology analysis to evaluate target genes for chronic myelogenous leukemia.
+Title: Submit a Topic Page to PLOS Computational Biology and Wikipedia.
+Title: HCC Specific Protein Network Involving Interactions of EGFR with A-Raf and Transthyretin: Experimental Analysis and Computational Biology Correlates.
+Title: Quantum annealing versus classical machine learning applied to a simplified computational biology problem.
+Title: A computational biology approach of a genome-wide screen connected miRNAs to obesity and type 2 diabetes.
+Title: Biological data processing based on bio-processor unit (BPU), a new concept for next generation computational biology.
+Title: Discovery of novel bacterial toxins by genomics and computational biology.
+Title: The ISCB Student Council Internship Program: Expanding computational biology capacity worldwide.
+Title: Proceedings of the 2017 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+Title: Ten quick tips for machine learning in computational biology.
+Title: Computational biology: deep learning.
+Title: Integrating the whole from the sum of the parts: vignettes in computational biology.
+Title: Women are underrepresented in computational biology: An analysis of the scholarly literature in biology, computer science and computational biology.
+Title: Editorial:Impacts of Computational Biology to Medicinal Chemistry.
+Title: Direct in silico visualization of ligands channelling through proteins: The next-generation frontier of computational biology: Comment on 'Ligand diffusion via enhanced sampling molecular dynamics' by Jakub Rydzewski and Wieslaw Nowak.
+Title: Computational biology: future challenges for the patenting of repurposed drugs.
+Title: A parallel metaheuristic for large mixed-integer dynamic optimization problems, with applications in computational biology.
+Title: The International Society for Computational Biology and WikiProject Computational Biology: celebrating 10 years of collaboration towards open access.
+Title: Introduction to selected papers from the 8th International Conference on Bioinformatics and Computational Biology (BICOB 2016).
+Title: Machine learning in computational biology to accelerate high-throughput protein expression.
+Title: Multiple-Swarm Ensembles: Improving the Predictive Power and Robustness of Predictive Models and Its Use in Computational Biology.
+Title: Scalable Data Mining Algorithms in Computational Biology and Biomedicine.
+Title: All biology is computational biology.
+Title: Computational Biology and Chemistry in MTi: Emphasis on the Prediction of Some ADMET Properties.
+Title: Chemohormonal therapy in metastatic hormone-sensitive prostate cancer. Sweeney CJ, Chen YH, Carducci M, Liu G, Jarrard DF, Eisenberger M, Wong YN, Hahn N, Kohli M, Cooney MM, Dreicer R, Vogelzang NJ, Picus J, Shevrin D, Hussain M, Garcia JA, DiPaola RS. Department of Medicine; Department of Biostatistics and Computational Biology; Dana-Farber Cancer Institute, Boston; Harvard Medical School, Boston; Johns Hopkins University, Baltimore; University of Wisconsin Carbone Cancer Center; School of Medicine and Public Health; Madison; Fox Chase Cancer Center, Temple University Health System, Philadelphia; Indiana University Melvin and Bren Simon Cancer Center, Indianapolis; Mayo Clinic, Rochester, MN; University Hospitals Case Medical Center, Seidman Cancer Center; Cleveland Clinic Taussig Cancer Institute; Both in Cleveland; University of Virginia Cancer Center, Charlottesville; Comprehensive Cancer Centers of Nevada, Las Vegas; Siteman Cancer Center, Washington University School of Medicine, St. Louis; NorthShore University Health System, Evanston, IL; University of Michigan Comprehensive Cancer Center, Ann Arbor; Rutgers Cancer Institute of New Jersey, New Brunswick.N Engl J Med. 2015 Aug 20;373(8):737-46. [Epub 2015 Aug 5]. doi: 10.1056/NEJMoa1503747.
+Title: Preface: Selected Articles of the Second International Conference on Algorithms for Computational Biology (AlCoB 2015).
+Title: Ten Simple Rules for Developing Usable Software in Computational Biology.
+Title: Identification of potential drug targets based on a computational biology algorithm for venous thromboembolism.
+Title: Convolutional Deep Belief Networks for Single-Cell/Object Tracking in Computational Biology and Computer Vision.
+Title: Big data and computational biology strategy for personalized prognosis.
+Title: Proceedings of the 2016 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+Title: ECCB 2016: The 15th European Conference on Computational Biology.
+Title: The maturation of murine spermatozoa membranes within the epididymis, a computational biology perspective.
+Title: Computational Biology in the 21st Century: Scaling with Compressive Algorithms.
+Title: Deep learning for computational biology.
+Title: India's Computational Biology Growth and Challenges.
+Title: Where next for the reproducibility agenda in computational biology?
+Title: Graphics processing units in bioinformatics, computational biology and systems biology.
+Title: Omics of Brucella: Species-Specific sRNA-Mediated Gene Ontology Regulatory Networks Identified by Computational Biology.
+Title: INTERACTION PATTERN OF FULLERENES (C20-C180) AND CARBON NANOTUBES WITH DIFFERENT FORMS OF DNA: A COMPUTATIONAL BIOLOGY APPROACH.
+Title: Computational biology analysis of platelet signaling reveals roles of feedbacks through phospholipase C and inositol 1,4,5-trisphosphate 3-kinase in controlling amplitude and duration of calcium oscillations.
+Title: Oxygen Modulates the Effectiveness of Granuloma Mediated Host Response to Mycobacterium tuberculosis: A Multiscale Computational Biology Approach.
+Title: The Development of Computational Biology in South Africa: Successes Achieved and Lessons Learnt.
+Title: Capacitation-Related Lipid Remodeling of Mammalian Spermatozoa Membrane Determines the Final Fate of Male Gametes: A Computational Biology Study.
+Title: Structural and Computational Biology in the Design of Immunogenic Vaccine Antigens.
+Title: Report from the 2nd Summer School in Computational Biology organized by the Queen's University of Belfast.
+Title: Proceedings of the 2015 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+Title: Harnessing Computational Biology for Exact Linear B-Cell Epitope Prediction: A Novel Amino Acid Composition-Based Feature Descriptor.
+Title: How to Grow a Computational Biology Lab.
+Title: Serum Albumin Domain Structures in Human Blood Serum by Mass Spectrometry and Computational Biology.
+Title: Computational biology: How to catch rare cell types.
+Title: Computational Biology: Modeling Chronic Renal Allograft Injury.
+Title: Computational Biology Methods for Characterization of Pluripotent Cells.
+Title: From "What Is?" to "What Isn't?" Computational Biology.
+Title: Computational Biology: Moving into the Future One Click at a Time.
+Title: Ten Years of PLoS Computational Biology: A Decade of Appreciation and Innovation.
+Title: ISCB Ebola Award for Important Future Research on the Computational Biology of Ebola Virus.
+Title: Computational Biology Tools for Identifying Specific Ligand Binding Residues for Novel Agrochemical and Drug Design.
+Title: Computational Biology in microRNA.
+Title: Titanium dioxide nanoparticles provide protection against polycyclic aromatic hydrocarbon BaP and chrysene-induced perturbation of DNA repair machinery: A computational biology approach.
+Title: Biomaterial science meets computational biology.
+Title: Highlights from the Third International Society for Computational Biology (ISCB) European Student Council Symposium 2014.
+Title: OpenCOR: a modular and interoperable approach to computational biology.
+Title: Message from the ISCB: ISCB Ebola award for important future research on the computational biology of Ebola virus.
+Title: Proceedings of the 13th European Conference on Computational Biology (ECCB’14), September 7-10, 2014, Strasbourg, France.
+Title: Advancements and challenges in computational biology.
+Title: Erratum: Machine learning methods in the computational biology of cancer.
+Title: Community-driven development for computational biology at Sprints, Hackathons and Codefests.
+Title: Exploring the Genomic Roadmap and Molecular Phylogenetics Associated with MODY Cascades Using Computational Biology.
+Title: Foreword to the special issue on selected papers from the 6th International Conference on Bioinformatics and Computational Biology (BICoB 2014).
+Title: Proceedings of the 2014 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+Title: Limits of computational biology.
+Title: Accelerating precision biology and medicine with computational biology and bioinformatics.
+Title: Function and dynamics of macromolecular complexes explored by integrative structural and computational biology.
+Title: ECCB 2014: The 13th European Conference on Computational Biology.
+Title: Abstracts from the Ninth International Society for Computational Biology (ISCB) Student Council Symposium 2013, July 19, 2014, Berlin, Germany.
+Title: Machine learning methods in the computational biology of cancer.
+Title: 10 years for the Journal of Bioinformatics and Computational Biology (2003-2013) -- a retrospective.
+Title: International Society for Computational Biology Honors Dana Pe'er with Top Bioinformatics/Computational Biology Award for 2014.
+Title: Computational biology and bioinformatics.
+Title: A new online computational biology curriculum.
+Title: Understanding sequence similarity and framework analysis between centromere proteins using computational biology.
+Title: Editorial: Alignment-free methods in computational biology.
+Title: Paving the way towards a successful and fulfilling career in computational biology.
+Title: Computational biology and bioinformatics in Nigeria.
+Title: Computational biology approach to uncover hepatitis C virus helicase operation.
+Title: Biomedical informatics and computational biology for high-throughput data analysis.
+Title: Identification of Marker Genes for Cancer Based on Microarrays Using a Computational Biology Approach.
+Title: Biomarkers, genomics, telemetry, computational biology, and zebrafish: will one of these solve the problems of post-myocardial infarction heart failure?
+Title: Understanding the conservation patterns and molecular phylogenetics of human death receptors family through computational biology.
+Title: IEEE/ACM Transactions on Computational Biology and Bioinformatics. Editorial from the Editor-in-Chief.
+Title: ISCB: past-present perspective for the International Society for Computational Biology.
+Title: Education in computational biology today and tomorrow.
+Title: Quantifying reproducibility in computational biology: the case of the tuberculosis drugome.
+Title: Proceedings of the 2013 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+Title: ISCB: past-present perspective for the International Society for Computational Biology.
+Title: Foreword to the special issue on selected papers from the 5th International Conference on Bioinformatics and Computational Biology (BICoB 2013).
+Title: The anatomy of successful computational biology software.
+Title: How Can PLoS Computational Biology help the biological sciences?
+Title: Designing integrated computational biology pipelines visually.
+Title: ISCB computational biology Wikipedia competition.
+Title: Identification of potential synthetic lethal genes to p53 using a computational biology approach.
+Title: Computational biology: A recipe for ligand-binding proteins.
+Title: HIV-1 integrase binding to its cellular partners: a perspective from computational biology.
+Title: International Society for Computational Biology welcomes its newest class of fellows.
+Title: Mapping the structural topology of IRS family cascades through computational biology.
+Title: Topology mapping of insulin-regulated glucose transporter GLUT4 using computational biology.
+Title: Proceedings of the 11th European Conference on Computational Biology, ECCB 2012, September 9-12, 2012, Basal, Switzerland.
+Title: International Society for Computational Biology honors Goncalo Abecasis with top bioinformatics/computational biology award for 2013.
+Title: Bioinformatics and computational biology in Poland.
+Title: Computational Biology and Chemistry. Editorial.
+Title: ChemoPy: freely available python package for computational biology and chemoinformatics.
+Title: Coarse-graining methods for computational biology.
+Title: Computational biology in the cloud: methods and new insights from computing at scale.
+Title: Prize-based contests can provide solutions to computational biology problems.
+Title: Does computational biology help us to understand the molecular phylogenetics and evolution of cluster of differentiation (CD) proteins?
+Title: Abstracts of the Eighth International Society for Computational Biology (ISCB) Student Council Symposium 2012. Long Beach, California, USA. July 13-14, 2012.
+Title: Meeting report: the seventh conference of the hellenic society for computational biology and bioinformatics.
+Title: Proceedings of the 2013 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference, April 5-6, 2013, Columbia, Missouri.
+Title: Computational biology of RNA interactions.
+Title: Proceedings of the 2012 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference. Introduction.
+Title: MACBenAbim: A Multi-platform Mobile Application for searching keyterms in Computational Biology and Bioinformatics.
+Title: Frontiers and challenges of biophysical methods: from computational biology to X-ray free electron laser.
+Title: Perspectives on an education in computational biology and medicine.
+Title: Developing an online programme in computational biology.
+Title: ECCB 2012: The 11th European Conference on Computational Biology.
+Title: Microarray analysis of ageing-related signatures and their expression in tumors based on a computational biology approach.
+Title: Reduction of dynamical biochemical reactions networks in computational biology.
+Title: An Integrated Bioinformatics and Computational Biology Approach Identifies New BH3-Only Protein Candidates.
+Title: Integrative computational biology.
+Title: In this special issue of the Journal of Computational Biology, we take great pleasure in celebrating the landmark birthdays of two leaders in our field.
+Title: Computational biology. Virtual hot spots.
+Title: Computational biology. Does it compute? Introduction.
+Title: Topic pages: PLoS Computational Biology meets Wikipedia.
+Title: SED-ED, a workflow editor for computational biology experiments written in SED-ML.
+Title: Grand challenges in bioinformatics and computational biology.
+Title: In the spotlight: bioinformatics, computational biology and systems biology.
+Title: Can computational biology improve the phylogenetic analysis of insulin?
+Title: SVS: data and knowledge integration in computational biology.
+Title: Abstracts of the Seventh International Society for Computational Biology (ISCB) Student Council Symposium 2011. Vienna, Austria. July 15, 2011.
+Title: Proceedings of the 2011 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference. Introduction.
+Title: Reproducible computational biology experiments with SED-ML--the Simulation Experiment Description Markup Language.
+Title: PLoS Computational Biology Conference Postcards from ISMB/ECCB 2011.
+Title: Editorial: What biomedical engineers can do to impact multiscale modeling (TBME Letters special issue on multiscale modeling and analysis in computational biology and medicine: part-2).
+Title: Editorial: TBME Letters special issue on multiscale modeling and analysis in computational biology and medicine--part-2.
+Title: The Center for Computational Biology: resources, achievements, and challenges.
+Title: A first attempt to bring computational biology into advanced high school biology classrooms.
+Title: Persistence and availability of Web services in computational biology.
+Title: Editorial: Special issue on multiscale modeling and analysis in computational biology and medicine--part-1.
+Title: Computational biology: plus c'est la même chose, plus ça change.
+Title: The development of computational biology in Pakistan: still a long way to go.
+Title: Integrative computational biology for cancer research.
+Title: This special issue comprises the papers accepted for presentationat the 19th Annual International Conference on Intelligent Systemsfor Molecular Biology, joint with the 10th European Conference onComputational Biology, an official conference of the InternationalSociety for Computational Biology.
+Title: Cancer computational biology.
+Title: PLoS Computational Biology conference postcard from PSB 2011.
+Title: Advanced computational biology methods identify molecular switches for malignancy in an EGF mouse model of liver cancer.
+Title: Exploring the evolutionary relationship of insulin receptor substrate family using computational biology.
+Title: Proceedings of the 2010 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference, February 19-20, 2010, Jonesboro, AR, USA.
+Title: A Review of 2010 for PLoS Computational Biology.
+Title: Computational biology approaches for selecting host-pathogen drug targets.
+Title: Community-driven computational biology with Debian Linux.
+Title: Trends in computational biology—2010.
+Title: Proceedings of the 2010 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference, April 1-2, 2011, College Station, Texas.
+Title: Computational biology for ageing.
+Title: PLoS Computational Biology conference postcards from ISMB 2010.
+Title: ECCB10. Proceedings of the 9th European Conference on Computational Biology, September 26-29, 2010, Ghent, Belgium.
+Title: Proceedings of the 2010 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference.
+Title: Computational biology. Custom-built supercomputer brings protein folding into view.
+Title: Ranked retrieval of Computational Biology models.
+Title: Computational biology approaches to plant metabolism and photosynthesis: applications for corals in times of climate change and environmental stress.
+Title: Exploiting graphics processing units for computational biology and bioinformatics.
+Title: PLoS Computational Biology conference postcards from PSB 2010.
+Title: Novel opportunities for computational biology and sociology in drug discovery.
+Title: Parameter estimation and model selection in computational biology.
+Title: Will widgets and semantic tagging change computational biology?
+Title: WITHDRAWN: Novel opportunities for computational biology and sociology in drug discovery.
+Title: Improving drug safety using computational biology.
+Title: Live Coverage of Intelligent Systems for Molecular Biology/European Conference on computational biology (ISMB/ECCB) 2009.
+Title: Sixth International Society for Computational Biology (ISCB) Student Council Symposium Boston, MA, USA. 9 July 2010. Abstracts.
+Title: Analysis of galactosemia-linked mutations of GALT enzyme using a computational biology approach.
+Title: Computational biology: Biological logic.
+Title: Guest Editors' Introduction, Special Issue on High-Performance Computational Biology.
+Title: Computational biology in Colombia.
+Title: Structural and computational biology of the molecular chaperone Hsp90: from understanding molecular mechanisms to computer-based inhibitor design.
+Title: Abstracts from the 5th International Society for Computational Biology Student Council Symposium at the 17th Annual International Conference on Intelligent Systems for Molecular Biology and the 8th European Conference on Computational Biology. June 27, 2009. Stockholm, Sweden.
+Title: Highlights from the 5th International Society for Computational Biology Student Council Symposium at the 17th Annual International Conference on Intelligent Systems for Molecular Biology and the 8th European Conference on Computational Biology.
+Title: Proceedings of the 2009 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference. Introduction.
+Title: A quick guide to teaching R programming to computational biology students.
+Title: Novel opportunities for computational biology and sociology in drug discovery.
+Title: A quick guide to organizing computational biology projects.
+Title: [Computational biology strategy for identification of complex disease genes].
+Title: The need for centralization of computational biology resources.
+Title: A review on data mining and continuous optimization applications in computational biology and medicine.
+Title: Computational biology in anti-tuberculosis drug discovery.
+Title: Computational biology methods and their application to the comparative genomics of endocellular symbiotic bacteria of insects.
+Title: Computational biology and structural proteomics.
+Title: Computational biology and structural proteomics.
+Title: Webb Miller and Trey Ideker to receive top international bioinformatics awards for 2009 from the International Society for Computational Biology.
+Title: Computational biology for cardiovascular biomarker discovery.
+Title: Textual data compression in computational biology: a synopsis.
+Title: Computational biology - modeling of primary blast effects on the central nervous system.
+Title: Computational biology touches all bases. A report of the 6th Annual Rocky Mountain Bioinformatics Conference, Aspen, USA, 4-7 December 2008.
+Title: Unison: an integrated platform for computational biology discovery.
+Title: A Review of 2008 for PLoS Computational Biology.
+Title: Integrating computational biology and forward genetics in Drosophila.
+Title: Computational Biology of Olfactory Receptors.
+Title: Abstracts of the Fourth International Society for Computational Biology (ISCB) Student Council Symposium. Toronto, Canada. July 18, 2008.
+Title: Support vector machines and kernels for computational biology.
+Title: Multi-agent systems in epidemiology: a first step for computational biology in the study of vector-borne disease transmission.
+Title: Proceedings of the 2008 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+Title: Genome-scale computational biology and bioinformatics in Australia.
+Title: Computational cell biology: second theme issue on "computational biology".
+Title: The aim of the conference is to provide a scientific forum for discussing the issues and advances in computational biology.
+Title: Nonnegative matrix factorization: an analytical and interpretive tool in computational biology.
+Title: Outlook on Thailand's genomics and computational biology research and development.
+Title: Computational biology of genome expression and regulation--a review of microarray bioinformatics.
+Title: Computational biology resources lack persistence and usability.
+Title: The European Conference on Computational Biology 2002.
+Title: Chaste: using agile programming techniques to develop computational biology software.
+Title: iTools: a framework for classification, categorization and integration of computational biology resources.
+Title: Validation and discovery from computational biology models.
+Title: A quick guide for computer-assisted instruction in computational biology and bioinformatics.
+Title: Computational biology in Costa Rica: the role of a small country in the global context of bioinformatics.
+Title: Computational frontiers in biomedicine. Proceedings of the Fourth Annual Conference of the MidSouth Computational Biology and Bioinformatics Society. February 1-3, 2007. New Orleans, Louisiana, USA.
+Title: Computational biology in Argentina.
+Title: Promoting synergistic research and education in computational biology and drug design.
+Title: Abstracts from the 3rd International Society for Computational Biology (ISCB) Student Council Symposium at the 15th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB), Vienna, Austria, 21 July 2007.
+Title: Computational biology in Cuba: an opportunity to promote science in a developing country.
+Title: Proceedings of the Fourth Annual Conference of the MidSouth Computational Biology and Bioinformatics Society.
+Title: Computational biology in Brazil.
+Title: Computational biology: protein predictions.
+Title: Developing computational biology.
+Title: In-silico nanobio-design. A new frontier in computational biology.
+Title: A primer on learning in Bayesian networks for computational biology.
+Title: Computational Biology and Bioinformatics: a tinge of Indian spice.
+Title: One year of PLoS Computational Biology.
+Title: Multiobjective optimization in bioinformatics and computational biology.
+Title: Computational biology of cardiac myocytes: proposed standards for the physiome.
+Title: Bioinformatics, computational biology, and the National Centers for Biomedical Computing.
+Title: From bytes to bedside: data integration and computational biology for translational cancer research.
+Title: Internet Applications for Computational Biology, the CMISS Web Browser Extension and and Use in Education.
+Title: Open source software infrastructure for computational biology and visualization.
+Title: Proceedings of the 5th European Conference on Computational Biology, ECCB 2006. January 21-24, 2007. Eilat, Israel.
+Title: Proceedings of the Third Annual Conference of the MidSouth Computational Biology and Bioinformatics Society. Introduction.
+Title: Structural genomics meets computational biology.
+Title: Computational biology: toward deciphering gene regulatory information in mammalian genomes.
+Title: Bioconductor: an open source framework for bioinformatics and computational biology.
+Title: Phosphoproteomics toolbox: computational biology, protein chemistry and mass spectrometry.
+Title: Computational biology in the study of cardiac ion channels and cell electrophysiology.
+Title: An interdepartmental Ph.D. program in computational biology and bioinformatics: the Yale perspective.
+Title: Rigorous performance evaluation in protein structure modelling and implications for computational biology.
+Title: Software agents in molecular computational biology.
+Title: Proceedings of the Third Annual Conference of the MidSouth Computational Biology and Bioinformatics Society. March 2-4, 2006. Baton Rouge, Louisiana, USA.
+Title: From computational quantum chemistry to computational biology: experiments and computations are (full) partners.
+Title: Computational biology for visualization of brain structure.
+Title: Special RECOMB 2004 Issue. Papers presented at the 8th Annual International Conference on Computational Biology, San Diego, California, USA, March 27-31, 2004.
+Title: An open forum for computational biology.
+Title: PLoS Computational Biology: a new community journal.
+Title: Proceedings of the second annual conference of the MidSouth Computational Biology and Bioinformatics Society. 7-9 October 2004, Little Rock, Arkansas, USA.
+Title: The function of the extracellular regions in opioid receptor binding: insights from computational biology.
+Title: Integration of bioinformatics and computational biology to understand protein-DNA recognition mechanism.
+Title: Proceedings of the First Annual Conference of the MidSouth Computational Biology and Bioinformatics Society. November 13-15, 2003. Little Rock, Arkansas, USA.
+Title: Recent applications of Hidden Markov Models in computational biology.
+Title: Bioconductor: open software development for computational biology and bioinformatics.
+Title: Computational biology: a propagating wave of interest.
+Title: From genetics to cellular function using computational biology.
+Title: DNA and the revolutions of molecular evolution, computational biology, and bioinformatics.
+Title: Selected dreams and nightmares about computational biology.
+Title: Computational biology: Biosensor design.
+Title: Computational biology. Counting on the neuron.
+Title: Applications of bioinformatics and computational biology to influenza surveillance and vaccine strain selection.
+Title: The European conference on computational biology.
+Title: Wavelets in bioinformatics and computational biology: state of art and perspectives.
+Title: Evolution of the TIR, tolls and TLRs: functional inferences from computational biology.
+Title: ECCB 2002. Proceedings of the European Conference on Computational Biology, October 6-9, 2002, Saarbrucken, Germany.
+Title: Computational biology.
+Title: The rise of computational biology.
+Title: The ERATO Systems Biology Workbench: enabling interaction and exchange between software tools for computational biology.
+Title: Individuation of monoclonal anti-HPV16 E7 antibody linear peptide epitope by computational biology.
+Title: Training for bioinformatics and computational biology.
+Title: From Jabberwocky to genome: Lewis Carroll and computational biology.
+Title: Computational biology. Beyond the spherical cow.
+Title: Computational biology. Bioinformatics--trying to swim in a sea of data.
+Title: A method for parameter optimization in computational biology.
+Title: The emergence of pattern discovery techniques in computational biology.
+Title: From bioinformatics to computational biology.
+Title: Molecules to maps: tools for visualization and interaction in computational biology.
+Title: The early introduction of dynamic programming into computational biology.
+Title: [Computational biology at the turn of the decade].
+Title: Trends in computational biology: a summary based on a RECOMB plenary lecture, 1999.
+Title: Molecules to maps: tools for visualization and interaction in support of computational biology.
+Title: Computational biology of the heart: from structure to function.
+Title: Computational biology instruction at the University of Washington Center for Bioengineering.
+Title: Parameterized complexity analysis in computational biology.
+Title: Ordering clone libraries in computational biology.
+Title: Hidden Markov models in computational biology. Applications to protein modeling.
+Title: Whither computational biology.
+Title: Computational biology opportunity and challenges for the future.
+Title: The 3rd Keck Symposium on Computational Biology. Houston, Texas, November 1-3, 1992. Abstracts.

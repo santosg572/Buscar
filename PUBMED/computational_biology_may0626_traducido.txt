@@ -1,0 +1,2212 @@
+1 -  Adjuvant databases and knowledge bases for data-driven research: a computational biology perspective.
+
+Bases de datos adyuvantes y bases de conocimiento para la investigación basada en datos: una perspectiva de la biología computacional.
+
+2 -  Binding of Steroid Hormones to the FA1 and FA6 Sites of Human Serum Albumin through Computational Biology and Quantum Biochemistry.
+
+Unión de hormonas esteroides a los sitios FA1 y FA6 de la albúmina sérica humana mediante biología computacional y bioquímica cuántica.
+
+3 -  Problems, Progress and Perspectives in Mathematical and Computational Biology.
+
+Problemas, avances y perspectivas en biología matemática y computacional.
+
+4 -  [Development of a postgraduate course Computational Biology for cultivating talents in biomanufacturing].
+
+Desarrollo de un posgrado en Biología Computacional para el cultivo de talentos en biofabricación.
+
+5 -  Design and activity validation of GABA-gated chloride channels allosteric modulators based on computational biology.
+
+Diseño y validación de actividad de moduladores alostéricos de canales de cloruro activados por GABA basados ​​en biología computacional.
+
+6 -  New allosteric modulators of molecular chaperone TRAP1 from the integration of computational biology, medicinal chemistry, and biophysics.
+
+Nuevos moduladores alostéricos de la chaperona molecular TRAP1 a partir de la integración de biología computacional, química medicinal y biofísica.
+
+7 -  Trust, Reproducibility, and Progress: The Roles of Independent Blind Prediction and Assessment and Benchmarking in Computational Biology.
+
+Confianza, reproducibilidad y progreso: las funciones de la predicción y evaluación ciegas independientes y la evaluación comparativa en biología computacional.
+
+8 -  Challenges and Advances in Bioinformatics and Computational Biology.
+
+Retos y Avances en Bioinformática y Biología Computacional.
+
+9 -  Challenges and opportunities: computational biology and the future of agriculture.
+
+Retos y oportunidades: biología computacional y el futuro de la agricultura.
+
+10 -  Bridging Scales: Coarse-Grained Protein Models in Computational Biology.
+
+Escalas puente: modelos de proteínas de grano grueso en biología computacional.
+
+11 -  Computational biology for cell-free systems.
+
+Biología computacional para sistemas libres de células.
+
+12 -  Learnable protein representations in computational biology for predicting drug-target affinity.
+
+Representaciones de proteínas que se pueden aprender en biología computacional para predecir la afinidad del fármaco-objetivo.
+
+13 -  Ten simple rules for running a virtual program to introduce computational biology at the high school level.
+
+Diez reglas simples para ejecutar un programa virtual para introducir la biología computacional en el nivel de secundaria.
+
+14 -  Structural and Computational Biology: Compete or Complement?
+
+Biología estructural y computacional: ¿competir o complementarse?
+
+15 -  Editorial: Multi-omics and computational biology in horticultural plants: from genotype to phenotype, volume III.
+
+Editorial: Multiómica y biología computacional en plantas hortícolas: del genotipo al fenotipo, volumen III.
+
+16 -  Investigating the clinical efficacy, safety and molecular mechanism of sulforaphane in autism spectrum disorder: an integrated study combining meta-analysis, network pharmacology, and computational biology.
+
+Investigación de la eficacia clínica, la seguridad y el mecanismo molecular del sulforafano en el trastorno del espectro autista: un estudio integrado que combina metanálisis, farmacología en red y biología computacional.
+
+17 -  Novel targets for treating cancer and inflammatory disorders: A disintegrin-metalloprotease-10 and cyclooxygenase-2 feedback loop modulated by Aconitum heterophyllum leaf biomarkers with computational biology.
+
+Nuevos objetivos para el tratamiento del cáncer y los trastornos inflamatorios: un circuito de retroalimentación de desintegrina-metaloproteasa-10 y ciclooxigenasa-2 modulado por biomarcadores de hojas de Aconitum heterophyllum con biología computacional.
+
+18 -  Structural and immunological impacts of TOLLIP nsSNPs: A computational biology approach to drug discovery and immune system modulation.
+
+Impactos estructurales e inmunológicos de TOLLIP nsSNP: un enfoque de biología computacional para el descubrimiento de fármacos y la modulación del sistema inmunológico.
+
+19 -  Unveiling Berberine's Therapeutic Mechanisms Against Hepatocellular Carcinoma via Integrated Computational Biology and Machine Learning Approaches: AURKA and CDK1 as Principal Targets.
+
+Revelación de los mecanismos terapéuticos de Berberine contra el carcinoma hepatocelular mediante enfoques integrados de biología computacional y aprendizaje automático: AURKA y CDK1 como objetivos principales.
+
+20 -  Mining umami peptides in lager and multidimensional sensory evaluation of the beer body integrating computational biology with modern sensomics.
+
+Minería de péptidos umami en cerveza y evaluación sensorial multidimensional del cuerpo de la cerveza integrando la biología computacional con la sensómica moderna.
+
+21 -  Impact of the COVID-19 pandemic on computational biology early career researchers: A global retrospective study.
+
+Impacto de la pandemia de COVID-19 en los investigadores que inician su carrera en biología computacional: un estudio retrospectivo global.
+
+22 -  Editorial: Guidelines for Credible Machine Learning in Computational Biology.
+
+Editorial: Directrices para un aprendizaje automático creíble en biología computacional.
+
+23 -  Roadmap for using large language models (LLMs) to accelerate cross-disciplinary research with an example from computational biology.
+
+Hoja de ruta para el uso de modelos de lenguajes grandes (LLM) para acelerar la investigación interdisciplinaria con un ejemplo de biología computacional.
+
+24 -  Catalyzing computational biology research at an academic institute through an interest network.
+
+Catalizar la investigación en biología computacional en un instituto académico a través de una red de intereses.
+
+25 -  Significantly enhancing human antibody affinity via deep learning and computational biology-guided single-point mutations.
+
+Mejora significativa de la afinidad de los anticuerpos humanos mediante aprendizaje profundo y mutaciones de un solo punto guiadas por biología computacional.
+
+26 -  DynamiSpectra: A Python Software Package and Web Platform for Molecular Dynamics Data Analysis in Computational Biology.
+
+DynamiSpectra: un paquete de software Python y una plataforma web para el análisis de datos de dinámica molecular en biología computacional.
+
+27 -  Exploring transcriptome plasticity at the intersection of cell signaling, metabolism and computational biology.
+
+Explorando la plasticidad del transcriptoma en la intersección de la señalización celular, el metabolismo y la biología computacional.
+
+28 -  Integrative UHPLC-HRMS and computational biology reveal ferroptosis and anoikis targeting by Wenpitongluo decoction in cardiorenal syndrome.
+
+La UHPLC-HRMS integradora y la biología computacional revelan ferroptosis y anoikis dirigidas por decocción de Wenpitongluo en el síndrome cardiorenal.
+
+29 -  Response to comments by Floch et al. on our papers on the use of computational biology to study RhCE and RhD structures.
+
+Respuesta a los comentarios de Floch et al. sobre nuestros artículos sobre el uso de la biología computacional para estudiar las estructuras RhCE y RhD.
+
+30 -  Comments on 'Use of computational biology to compare the theoretical tertiary structures of the most common forms of RhCE and RhD' and 'Prediction of the antigenic regions in eight RhD variants identified by computational biology'.
+
+Comentarios sobre 'Uso de la biología computacional para comparar las estructuras terciarias teóricas de las formas más comunes de RhCE y RhD' y 'Predicción de las regiones antigénicas en ocho variantes de RhD identificadas por biología computacional'.
+
+31 -  KarXT combines the partial benefits of haloperidol for positive symptoms and sulpiride for negative symptoms: Evidence from computational biology.
+
+KarXT combina los beneficios parciales del haloperidol para los síntomas positivos y la sulpirida para los síntomas negativos: evidencia de biología computacional.
+
+32 -  Pharmacokinetic and toxicological profile in pharmaceutical bioprospecting of caryophyllene molecules using computational biology for therapeutic purposes.
+
+Perfil farmacocinético y toxicológico en la bioprospección farmacéutica de moléculas de cariofileno mediante biología computacional con fines terapéuticos.
+
+33 -  Computational biology meets oncology: designing custom protein and peptide binders to outsmart cancer.
+
+La biología computacional se encuentra con la oncología: diseño de aglutinantes de proteínas y péptidos personalizados para burlar al cáncer.
+
+34 -  An educator framework for organizing Wikipedia editathons for computational biology.
+
+Un marco para educadores para organizar ediciones de Wikipedia sobre biología computacional.
+
+35 -  Ten simple rules for success as a trainee-led outreach organization in computational biology education.
+
+Diez reglas simples para el éxito como organización de extensión dirigida por estudiantes en educación en biología computacional.
+
+36 -  Elucidation of novel diagnostic biomarkers and therapeutic targets in colorectal carcinoma: an integrative approach leveraging multi-omics, computational biology, and single-cell sequencing technologies.
+
+Elucidación de nuevos biomarcadores de diagnóstico y dianas terapéuticas en el carcinoma colorrectal: un enfoque integrador que aprovecha la multiómica, la biología computacional y las tecnologías de secuenciación unicelular.
+
+37 -  Advancements in AI for Computational Biology and Bioinformatics: A Comprehensive Review.
+
+Avances en IA para biología computacional y bioinformática: una revisión completa.
+
+38 -  Ameliorative role of naringenin in MPTP- induced Parkinsonism: Insights from 
+
+Papel de mejora de la naringenina en el parkinsonismo inducido por MPTP: ideas de
+
+39 -  Integrated meta-analysis, network pharmacology, computational biology, and 
+
+Metanálisis integrado, farmacología en red, biología computacional y
+
+40 -  Gene-level connections between anxiety disorders, ADHD, and head and neck cancer: insights from a computational biology approach.
+
+Conexiones a nivel genético entre los trastornos de ansiedad, el TDAH y el cáncer de cabeza y cuello: conocimientos desde un enfoque de biología computacional.
+
+41 -  Unlocking the potential of circular RNA vaccines: a bioinformatics and computational biology perspective.
+
+Liberar el potencial de las vacunas de ARN circular: una perspectiva de bioinformática y biología computacional.
+
+42 -  Seven Hub Genes Associated with Huntington's Disease and Diagnostic and Therapeutic Potentials Identified by Computational Biology.
+
+Siete genes centrales asociados con la enfermedad de Huntington y potenciales diagnósticos y terapéuticos identificados por la biología computacional.
+
+43 -  Editorial for the Special Issue: Bioinformatics and Computational Biology for Cancer Prediction and Prognosis.
+
+Editorial del número especial: Bioinformática y biología computacional para la predicción y el pronóstico del cáncer.
+
+44 -  Computational biology predicts metabolic engineering targets for increased production of 103 valuable chemicals in yeast.
+
+La biología computacional predice objetivos de ingeniería metabólica para una mayor producción de 103 sustancias químicas valiosas en la levadura.
+
+45 -  Emerging Artificial Intelligence Methodologies in Computational Biology.
+
+Metodologías emergentes de inteligencia artificial en biología computacional.
+
+46 -  Diabesity: New Candidate Genes and Structural and Functional Effects of Non-Synonymous Single Nucleotide Polymorphisms Identified by Computational Biology.
+
+Diabesidad: nuevos genes candidatos y efectos estructurales y funcionales de polimorfismos de nucleótido único no sinónimos identificados por biología computacional.
+
+47 -  Queer voices in computational biology: the first ISCB LGBTQI+ Symposium.
+
+Voces queer en biología computacional: el primer Simposio LGBTQI+ del ISCB.
+
+48 -  Computational biology and artificial intelligence in mRNA vaccine design for cancer immunotherapy.
+
+Biología computacional e inteligencia artificial en el diseño de vacunas de ARNm para inmunoterapia contra el cáncer.
+
+49 -  Investigating the role and mechanisms of bisphenol compounds in premature ovarian insufficiency using computational biology and bioinformatics.
+
+Investigar el papel y los mecanismos de los compuestos de bisfenol en la insuficiencia ovárica prematura mediante biología computacional y bioinformática.
+
+50 -  Development of a multi-epitope chimeric vaccine in silico against Babesia bovis, Theileria annulata, and Anaplasma marginale using computational biology tools and reverse vaccinology approach.
+
+Desarrollo de una vacuna quimérica multiepítopo in silico contra Babesia bovis, Theileria annulata y Anaplasma marginale utilizando herramientas de biología computacional y un enfoque de vacunología inversa.
+
+51 -  Leveraging Structural and Computational Biology for Molecular Glue Discovery.
+
+Aprovechamiento de la biología estructural y computacional para el descubrimiento del pegamento molecular.
+
+52 -  Metabolomic Analysis and Computational Biology Reveal the Potential Metabolic Pathways for Improvement of Fucoxanthin and Eicosapentaenoic Acid (EPA) Biosynthesis in Phaeodactylum tricornutum.
+
+El análisis metabolómico y la biología computacional revelan las posibles vías metabólicas para mejorar la biosíntesis de fucoxantina y ácido eicosapentaenoico (EPA) en Phaeodactylum tricornutum.
+
+53 -  Target Discovery Driven by Chemical Biology and Computational Biology.
+
+Descubrimiento de objetivos impulsado por la biología química y la biología computacional.
+
+54 -  Investigating the anti-obesity potential of 
+
+Investigar el potencial antiobesidad de
+
+55 -  Computational biology assisted exploration of phytochemicals derived natural inhibitors to block BZLF1 gene activation of Epstein-Bar virus in host.
+
+La biología computacional ayudó a la exploración de inhibidores naturales derivados de fitoquímicos para bloquear la activación del gen BZLF1 del virus Epstein-Bar en el huésped.
+
+56 -  Leveraging Foundational Models in Computational Biology: Validation, Understanding, and Innovation.
+
+Aprovechamiento de modelos fundamentales en biología computacional: validación, comprensión e innovación.
+
+57 -  Robust parameter estimation and identifiability analysis with hybrid neural ordinary differential equations in computational biology.
+
+Estimación robusta de parámetros y análisis de identificabilidad con ecuaciones diferenciales ordinarias neuronales híbridas en biología computacional.
+
+58 -  Revealing the potential therapeutic mechanism of 
+
+Revelando el potencial mecanismo terapéutico de
+
+59 -  The Need to Embrace and Integrate Computational Technologies Within Radiology Research and Education: Perspective of a Medical Student With a Computational Biology Background.
+
+La necesidad de adoptar e integrar tecnologías computacionales en la investigación y educación en radiología: perspectiva de un estudiante de medicina con experiencia en biología computacional.
+
+60 -  Quantifying Personalized Shift-Work Molecular Portraits Underlying Alzheimer's Disease through Computational Biology.
+
+Cuantificación de retratos moleculares personalizados del trabajo por turnos que subyacen a la enfermedad de Alzheimer a través de la biología computacional.
+
+61 -  Structural profiles of the full phagocyte NADPH oxidase unveiled by combining computational biology and experimental knowledge.
+
+Perfiles estructurales de la NADPH oxidasa de fagocitos completos revelados combinando biología computacional y conocimiento experimental.
+
+62 -  Aphthous stomatitis - computational biology suggests external biotic stimulus and immunogenic cell death involved.
+
+Estomatitis aftosa: la biología computacional sugiere que están involucrados un estímulo biótico externo y una muerte celular inmunogénica.
+
+63 -  Direct Cardiac Reprogramming in the Age of Computational Biology.
+
+Reprogramación cardíaca directa en la era de la biología computacional.
+
+64 -  Computational Biology in the Discovery of Biomarkers in the Diagnosis, Treatment and Management of Cardiovascular Diseases.
+
+Biología Computacional en el Descubrimiento de Biomarcadores en el Diagnóstico, Tratamiento y Manejo de Enfermedades Cardiovasculares.
+
+65 -  ECCB2024: The 23rd European Conference on Computational Biology.
+
+ECCB2024: 23ª Conferencia Europea sobre Biología Computacional.
+
+66 -  Editorial: Big data and artificial intelligence for genomics and therapeutics - Proceedings of the 19th Annual Meeting of the MidSouth Computational Biology and Bioinformatics Society (MCBIOS).
+
+Editorial: Big data e inteligencia artificial para genómica y terapéutica - Actas de la 19ª Reunión Anual de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS).
+
+67 -  Integrating network pharmacology and computational biology to propose Yiqi Sanjie formula's mechanisms in treating NSCLC: molecular docking, ADMET, and molecular dynamics simulation.
+
+Integrando la farmacología en red y la biología computacional para proponer los mecanismos de la fórmula de Yiqi Sanjie en el tratamiento del NSCLC: acoplamiento molecular, ADMET y simulación de dinámica molecular.
+
+68 -  Applying interpretable machine learning in computational biology-pitfalls, recommendations and opportunities for new developments.
+
+Aplicación del aprendizaje automático interpretable en biología computacional: obstáculos, recomendaciones y oportunidades para nuevos desarrollos.
+
+69 -  Design of multi-epitope vaccine against porcine rotavirus using computational biology and molecular dynamics simulation approaches.
+
+Diseño de una vacuna multiepítopo contra rotavirus porcino utilizando métodos de simulación de dinámica molecular y biología computacional.
+
+70 -  Vaccine design and development: Exploring the interface with computational biology and AI.
+
+Diseño y desarrollo de vacunas: exploración de la interfaz con la biología computacional y la inteligencia artificial.
+
+71 -  Advances in Computational Biology for Diagnosing Neurodegenerative Diseases: A Comprehensive Review.
+
+Avances en biología computacional para el diagnóstico de enfermedades neurodegenerativas: una revisión completa.
+
+72 -  Closing the computational biology 'knowledge gap': Spanish Wikipedia as a case study.
+
+Cerrando la 'brecha de conocimiento' de la biología computacional: Wikipedia en español como estudio de caso.
+
+73 -  Computational biology approaches for drug repurposing.
+
+Enfoques de biología computacional para la reutilización de fármacos.
+
+74 -  Molecular mechanisms of Tetrastigma hemsleyanum Diels&Gilg against lung squamous cell carcinoma: From computational biology and experimental validation.
+
+Mecanismos moleculares de Tetrastigma hemsleyanum Diels&Gilg contra el carcinoma de células escamosas de pulmón: desde la biología computacional y la validación experimental.
+
+75 -  A special issue of Essays in Biochemistry on computational biology.
+
+Un número especial de Essays in Biochemistry sobre biología computacional.
+
+76 -  Artificial Intelligence and Computational Biology in Gene Therapy: A Review.
+
+Inteligencia artificial y biología computacional en terapia génica: una revisión.
+
+77 -  Identification of a robust biomarker LAPTM4A for glioma based on comprehensive computational biology and experimental verification.
+
+Identificación de un biomarcador robusto LAPTM4A para glioma basado en biología computacional integral y verificación experimental.
+
+78 -  Diffusion models in bioinformatics and computational biology.
+
+Modelos de difusión en bioinformática y biología computacional.
+
+79 -  A novel professional-use synergistic peel technology to reduce visible hyperpigmentation on face: Clinical evidence and mechanistic understanding by computational biology and optical biopsy.
+
+Una novedosa tecnología de exfoliación sinérgica de uso profesional para reducir la hiperpigmentación visible en la cara: evidencia clínica y comprensión mecanicista mediante biología computacional y biopsia óptica.
+
+80 -  Network pharmacology, computational biology integrated surface plasmon resonance technology reveals the mechanism of ellagic acid against rotavirus.
+
+La farmacología en red y la biología computacional integran la tecnología de resonancia de plasmones de superficie revelan el mecanismo del ácido elágico contra el rotavirus.
+
+81 -  Prediction of the antigenic regions in eight RhD variants identified by computational biology.
+
+Predicción de las regiones antigénicas en ocho variantes de RhD identificadas mediante biología computacional.
+
+82 -  Molecular mechanisms of quetiapine bidirectional regulation of bipolar depression and mania based on network pharmacology and molecular docking: Evidence from computational biology.
+
+Mecanismos moleculares de la regulación bidireccional de la quetiapina de la depresión y la manía bipolar basados ​​en la farmacología de redes y el acoplamiento molecular: evidencia de la biología computacional.
+
+83 -  Editorial: Multi-omics and computational biology in horticultural plants: from genotype to phenotype, volume II.
+
+Editorial: Multiómica y biología computacional en plantas hortícolas: del genotipo al fenotipo, volumen II.
+
+84 -  2022 IEEE conference on computational intelligence in bioinformatics and computational biology (IEEE CIBCB, 2022).
+
+Conferencia IEEE 2022 sobre inteligencia computacional en bioinformática y biología computacional (IEEE CIBCB, 2022).
+
+85 -  Advancements in bioinformatics and computational biology: 15th annual Polish Bioinformatic Society Symposium.
+
+Avances en bioinformática y biología computacional: 15º Simposio anual de la Sociedad Polaca de Bioinformática.
+
+86 -  Retracted: Computational Biology Predicts the Efficacy of Tumor Immune Checkpoint Blockade.
+
+Retractado: La biología computacional predice la eficacia del bloqueo de los puntos de control inmunitarios tumorales.
+
+87 -  Prognostic significance and expression pattern of glucose related genes in breast cancer: A comprehensive computational biology approach.
+
+Importancia pronóstica y patrón de expresión de genes relacionados con la glucosa en el cáncer de mama: un enfoque integral de biología computacional.
+
+88 -  Ten simple rules for writing a PLOS Computational Biology quick tips article.
+
+Diez reglas simples para escribir un artículo de consejos rápidos sobre biología computacional de PLOS.
+
+89 -  AKR1C1 and hormone metabolism in lipedema pathogenesis: a computational biology approach.
+
+AKR1C1 y el metabolismo hormonal en la patogénesis del lipedema: un enfoque de biología computacional.
+
+90 -  Understanding the structural basis of the binding specificity of c-di-AMP to 
+
+Comprender la base estructural de la especificidad de unión de c-di-AMP a
+
+91 -  An integrated computational biology approach defines the crucial role of TRIP13 in pancreatic cancer.
+
+Un enfoque integrado de biología computacional define el papel crucial de TRIP13 en el cáncer de páncreas.
+
+92 -  Computational biology of antibody epitope, tunnels and pores analysis of protein glutathione S-transferase P, and quantum mechanics.
+
+Biología computacional del epítopo de anticuerpos, análisis de túneles y poros de la proteína glutatión S-transferasa P y mecánica cuántica.
+
+93 -  Lupenone, a wonder chemical obtained from Euphorbia segetalis to boost affinity for the transcriptional factor escalating drought-tolerance in Solanum Lycopersicum: A cutting-edge computational biology approach.
+
+Lupenona, una sustancia química maravillosa obtenida de Euphorbia segetalis para aumentar la afinidad por el factor transcripcional que aumenta la tolerancia a la sequía en Solanum Lycopersicum: un enfoque de biología computacional de vanguardia.
+
+94 -  Investigating the Molecular Interactions of Quinoline Derivatives for Antibacterial Activity Against Bacillus subtilis: Computational Biology and In Vitro Study Interpretations.
+
+Investigación de las interacciones moleculares de los derivados de quinolina para la actividad antibacteriana contra Bacillus subtilis: biología computacional e interpretaciones de estudios in vitro.
+
+95 -  Repurposing FDA approved drug molecules against A B C classes of β-lactamases: a computational biology and molecular dynamics simulations study.
+
+Reutilización de moléculas de fármacos aprobadas por la FDA contra clases A B C de β-lactamasas: un estudio de simulaciones de dinámica molecular y biología computacional.
+
+96 -  Exploring the Molecular Mechanism of Niuxi-Mugua Formula in Treating Coronavirus Disease 2019 
+
+Exploración del mecanismo molecular de la fórmula Niuxi-Migua en el tratamiento de la enfermedad por coronavirus 2019
+
+97 -  A computational biology approach to identify potential protein biomarkers and drug targets for sporadic amyotrophic lateral sclerosis.
+
+Un enfoque de biología computacional para identificar posibles biomarcadores proteicos y objetivos farmacológicos para la esclerosis lateral amiotrófica esporádica.
+
+98 -  Big Data Analysis in Computational Biology and Bioinformatics.
+
+Análisis de Big Data en Biología Computacional y Bioinformática.
+
+99 -  Big Data in Bioinformatics and Computational Biology: Basic Insights.
+
+Big Data en bioinformática y biología computacional: conocimientos básicos.
+
+100 -  Emerging Trends in Big Data Analysis in Computational Biology and Bioinformatics in Health Informatics: A Case Study on Epilepsy and Seizures.
+
+Tendencias emergentes en el análisis de Big Data en biología computacional y bioinformática en informática de la salud: un estudio de caso sobre epilepsia y convulsiones.
+
+101 -  Embracing the command line: my unexpected career in computational biology.
+
+Adoptar la línea de comando: mi inesperada carrera en biología computacional.
+
+102 -  Correction to: Quantum Computing in the Next-Generation Computational Biology Landscape: from Protein Folding to Molecular Dynamics.
+
+Corrección a: Computación cuántica en el panorama de la biología computacional de próxima generación: del plegamiento de proteínas a la dinámica molecular.
+
+103 -  Monitoring environmental microbiomes: Alignment of microbiology and computational biology competencies within a culturally integrated curriculum and research framework.
+
+Monitoreo de microbiomas ambientales: alineación de las competencias de microbiología y biología computacional dentro de un plan de estudios y un marco de investigación culturalmente integrados.
+
+104 -  Computational biology and in vitro studies for anticipating cancer-related molecular targets of sweet wormwood (Artemisia annua).
+
+Biología computacional y estudios in vitro para anticipar objetivos moleculares del ajenjo dulce (Artemisia annua) relacionados con el cáncer.
+
+105 -  Identification of natural lead molecules as potential 
+
+Identificación de moléculas de plomo naturales como potenciales.
+
+106 -  Omics data integration in computational biology viewed through the prism of machine learning paradigms.
+
+Integración de datos ómicos en biología computacional vista a través del prisma de los paradigmas del aprendizaje automático.
+
+107 -  The blossoming of methods and software in computational biology.
+
+El florecimiento de métodos y software en biología computacional.
+
+108 -  Ten quick tips for harnessing the power of ChatGPT in computational biology.
+
+Diez consejos rápidos para aprovechar el poder de ChatGPT en biología computacional.
+
+109 -  Use of computational biology to compare the theoretical tertiary structures of the most common forms of RhCE and RhD.
+
+Uso de la biología computacional para comparar las estructuras terciarias teóricas de las formas más comunes de RhCE y RhD.
+
+110 -  Computational biology-based study of the molecular mechanism of spermidine amelioration of acute pancreatitis.
+
+Estudio basado en biología computacional del mecanismo molecular de la mejora de la pancreatitis aguda con espermidina.
+
+111 -  FDA Modernization Act 2.0 Paves the Way to Computational Biology and Clinical Trials in a Dish.
+
+La Ley de Modernización 2.0 de la FDA allana el camino hacia la biología computacional y los ensayos clínicos en un plato.
+
+112 -  GPCRome-wide analysis of G-protein-coupling diversity using a computational biology approach.
+
+GPCAnálisis en toda Roma de la diversidad de acoplamiento de la proteína G utilizando un enfoque de biología computacional.
+
+113 -  Quantum Entanglement and State-Transference in Fenna-Matthews-Olson Complexes: A Post-Experimental Simulation Analysis in the Computational Biology Domain.
+
+Entrelazamiento cuántico y transferencia de estado en complejos de Fenna-Matthews-Olson: un análisis de simulación postexperimental en el dominio de la biología computacional.
+
+114 -  A systems and computational biology perspective on advancing CAR therapy.
+
+Una perspectiva de biología computacional y de sistemas sobre el avance de la terapia CAR.
+
+115 -  Quantum Computing in the Next-Generation Computational Biology Landscape: From Protein Folding to Molecular Dynamics.
+
+Computación cuántica en el panorama de la biología computacional de próxima generación: del plegamiento de proteínas a la dinámica molecular.
+
+116 -  LPCAT1 enhances the invasion and migration in gastric cancer: Based on computational biology methods and in vitro experiments.
+
+LPCAT1 mejora la invasión y migración en el cáncer gástrico: basado en métodos de biología computacional y experimentos in vitro.
+
+117 -  Novel computational biology modeling system can accurately forecast response to neoadjuvant therapy in early breast cancer.
+
+Un nuevo sistema de modelado de biología computacional puede pronosticar con precisión la respuesta a la terapia neoadyuvante en el cáncer de mama temprano.
+
+118 -  Computational Biology Helps Understand How Polyploid Giant Cancer Cells Drive Tumor Success.
+
+La biología computacional ayuda a comprender cómo las células cancerosas gigantes poliploides impulsan el éxito de los tumores.
+
+119 -  A Computational Biology Study on the Structure and Dynamics Determinants of Thermal Stability of the Chitosanase from 
+
+Un estudio de biología computacional sobre la estructura y los determinantes dinámicos de la estabilidad térmica de la quitosanasa de
+
+120 -  Correction to: Quantum computing algorithms: getting closer to critical problems in computational biology.
+
+Corrección a: Algoritmos de computación cuántica: acercándonos a problemas críticos en biología computacional.
+
+121 -  MERS virus spike protein HTL-epitopes selection and multi-epitope vaccine design using computational biology.
+
+Selección de epítopos HTL de la proteína de pico del virus MERS y diseño de vacunas multiepítopos mediante biología computacional.
+
+122 -  Immunogenic multi-epitope-based vaccine development to combat cyclosporiasis of immunocompromised patients applying computational biology method.
+
+Desarrollo de una vacuna inmunogénica basada en múltiples epítopos para combatir la ciclosporiasis de pacientes inmunodeprimidos aplicando el método de biología computacional.
+
+123 -  Identification of Novel Core Genes Involved in Malignant Transformation of Inflamed Colon Tissue Using a Computational Biology Approach and Verification in Murine Models.
+
+Identificación de nuevos genes centrales implicados en la transformación maligna del tejido del colon inflamado mediante un enfoque de biología computacional y verificación en modelos murinos.
+
+124 -  Computational biology: Role and scope in taming antimicrobial resistance.
+
+Biología computacional: papel y alcance en el control de la resistencia a los antimicrobianos.
+
+125 -  Regulatory Role of Fatty Acid Metabolism-Related Long Noncoding RNA in Prostate Cancer: A Computational Biology Study Analysis.
+
+Papel regulador del ARN largo no codificante relacionado con el metabolismo de los ácidos grasos en el cáncer de próstata: análisis de un estudio de biología computacional.
+
+126 -  Latent tuberculosis and computational biology: A less-talked affair.
+
+Tuberculosis latente y biología computacional: un asunto del que menos se habla.
+
+127 -  Deciphering the interaction mechanism of natural actives against larval proteins of 
+
+Descifrando el mecanismo de interacción de activos naturales contra proteínas larvarias de
+
+128 -  GPCR Allostery: A View from Computational Biology.
+
+Alosterio GPCR: una visión desde la biología computacional.
+
+129 -  Ten simple rules for defining a computational biology project.
+
+Diez reglas simples para definir un proyecto de biología computacional.
+
+130 -  Editorial: Multi-omics and computational biology in horticultural plants: From genotype to phenotype.
+
+Editorial: Multiómica y biología computacional en plantas hortícolas: Del genotipo al fenotipo.
+
+131 -  Computational Biology Dynamics of Mps1 Kinase Molecular Interactions with Isoflavones Reveals a Chemical Scaffold with Potential to Develop New Therapeutics for the Treatment of Cancer.
+
+La dinámica de la biología computacional de las interacciones moleculares de la quinasa Mps1 con isoflavonas revela un andamiaje químico con potencial para desarrollar nuevas terapias para el tratamiento del cáncer.
+
+132 -  Multiple sclerosis and computational biology (Review).
+
+Esclerosis múltiple y biología computacional (Revisión).
+
+133 -  Application of Computational Biology and Artificial Intelligence in Drug Design.
+
+Aplicación de la Biología Computacional y la Inteligencia Artificial en el Diseño de Fármacos.
+
+134 -  Ten simple rules for creating a global network in computational biology.
+
+Diez reglas simples para crear una red global en biología computacional.
+
+135 -  Quantum computing algorithms: getting closer to critical problems in computational biology.
+
+Algoritmos de computación cuántica: acercándonos a problemas críticos en biología computacional.
+
+136 -  Computational Biology Predicts the Efficacy of Tumor Immune Checkpoint Blockade.
+
+La biología computacional predice la eficacia del bloqueo de los puntos de control inmunitarios tumorales.
+
+137 -  Computational intelligence and machine learning in bioinformatics and computational biology.
+
+Inteligencia computacional y aprendizaje automático en bioinformática y biología computacional.
+
+138 -  ECCB2022: the 21st European Conference on Computational Biology.
+
+ECCB2022: la 21ª Conferencia Europea sobre Biología Computacional.
+
+139 -  Hardware-Algorithm Codesign for Fast and Energy Efficient Approximate String Matching on FPGA for Computational Biology.
+
+Codiseño de algoritmo de hardware para una coincidencia de cadenas aproximada rápida y energéticamente eficiente en FPGA para biología computacional.
+
+140 -  Editorial: Recent advances in computational biology.
+
+Editorial: Avances recientes en biología computacional.
+
+141 -  Computational Biology of BRCA2 in Male Breast Cancer, through Prediction of Probable nsSNPs, and Hit Identification.
+
+Biología computacional de BRCA2 en cáncer de mama masculino, mediante predicción de nsSNP probables e identificación de aciertos.
+
+142 -  Computational biology insights into genotype-clinical phenotype-protein phenotype relationships between novel SLC26A2 variants identified in inherited skeletal dysplasias.
+
+Conocimientos de biología computacional sobre las relaciones genotipo-fenotipo clínico-fenotipo proteína entre nuevas variantes de SLC26A2 identificadas en displasias esqueléticas hereditarias.
+
+143 -  Progress in and Opportunities for Applying Information Theory to Computational Biology and Bioinformatics.
+
+Avances y oportunidades para la aplicación de la teoría de la información a la biología computacional y la bioinformática.
+
+144 -  Oleuropein as a Potent Compound against Neurological Complications Linked with COVID-19: A Computational Biology Approach.
+
+La oleuropeína como compuesto potente contra las complicaciones neurológicas relacionadas con la COVID-19: un enfoque de biología computacional.
+
+145 -  RGS1 and related genes as potential targets for immunotherapy in cervical cancer: computational biology and experimental validation.
+
+RGS1 y genes relacionados como objetivos potenciales para la inmunoterapia en el cáncer de cuello uterino: biología computacional y validación experimental.
+
+146 -  Investigation of the Defective Growth Pattern and Multidrug Resistance in a Clinical Isolate of Candida glabrata Using Whole-Genome Sequencing and Computational Biology Applications.
+
+Investigación del patrón de crecimiento defectuoso y la resistencia a múltiples fármacos en un aislado clínico de Candida glabrata mediante secuenciación del genoma completo y aplicaciones de biología computacional.
+
+147 -  Prognostic MicroRNA Panel for HCV-Associated HCC: Integrating Computational Biology and Clinical Validation.
+
+Panel de microARN de pronóstico para el CHC asociado al VHC: integración de la biología computacional y la validación clínica.
+
+148 -  Calculation of the Biological Efficiency of the Proton Component from 14.8 MeV Neutron Irradiation in Computational Biology with Help of Video Cards.
+
+Cálculo de la eficiencia biológica del componente protónico a partir de irradiación de neutrones de 14,8 MeV en biología computacional con ayuda de tarjetas de vídeo.
+
+149 -  Michael Waterman's Contributions to Computational Biology and Bioinformatics.
+
+Contribuciones de Michael Waterman a la biología computacional y la bioinformática.
+
+150 -  Advancing code sharing in the computational biology community.
+
+Avanzando en el intercambio de código en la comunidad de biología computacional.
+
+151 -  A survey on protein-DNA-binding sites in computational biology.
+
+Un estudio sobre los sitios de unión de proteínas y ADN en biología computacional.
+
+152 -  Bruins-in-Genomics: Evaluation of the impact of a UCLA undergraduate summer program in computational biology on participating students.
+
+Bruins-in-Genomics: Evaluación del impacto de un programa de verano de pregrado de UCLA en biología computacional en los estudiantes participantes.
+
+153 -  Origin of novel coronavirus causing COVID-19: A computational biology study using artificial intelligence.
+
+Origen del nuevo coronavirus que causa COVID-19: un estudio de biología computacional que utiliza inteligencia artificial.
+
+154 -  M5C-Related lncRNA Predicts Lung Adenocarcinoma and Tumor Microenvironment Remodeling: Computational Biology and Basic Science.
+
+El lncRNA relacionado con M5C predice el adenocarcinoma de pulmón y la remodelación del microambiente tumoral: biología computacional y ciencia básica.
+
+155 -  Evaluation of pH change effects on the HSA folding and its drug binding characteristics, a computational biology investigation.
+
+Evaluación de los efectos del cambio de pH en el plegamiento de HSA y sus características de unión al fármaco, una investigación de biología computacional.
+
+156 -  Editorial: 2020 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (IEEE CIBCB 2020).
+
+Editorial: Conferencia IEEE 2020 sobre Inteligencia Computacional en Bioinformática y Biología Computacional (IEEE CIBCB 2020).
+
+157 -  A Pyroptosis-Related Gene Signature Predicts Prognosis and Immune Microenvironment for Breast Cancer Based on Computational Biology Techniques.
+
+Una firma genética relacionada con la piroptosis predice el pronóstico y el microambiente inmunológico del cáncer de mama basándose en técnicas de biología computacional.
+
+158 -  Translational organoid technology - the convergence of chemical, mechanical, and computational biology.
+
+Tecnología de organoides traslacional: la convergencia de la biología química, mecánica y computacional.
+
+159 -  Is Immune Suppression Involved in the Ischemic Stroke? A Study Based on Computational Biology.
+
+¿Está implicada la inmunosupresión en el accidente cerebrovascular isquémico? Un estudio basado en biología computacional.
+
+160 -  Lessons from a ten-year-long journey: building a student-driven computational biology society across Turkey.
+
+Lecciones de un viaje de diez años: construcción de una sociedad de biología computacional impulsada por estudiantes en toda Turquía.
+
+161 -  Vivarium: an interface and engine for integrative multiscale modeling in computational biology.
+
+Vivarium: una interfaz y motor para el modelado multiescala integrador en biología computacional.
+
+162 -  Model Integration in Computational Biology: The Role of Reproducibility, Credibility and Utility.
+
+Integración de modelos en biología computacional: el papel de la reproducibilidad, la credibilidad y la utilidad.
+
+163 -  Recent advances in plastic degradation - From microbial consortia-based methods to data sciences and computational biology driven approaches.
+
+Avances recientes en la degradación del plástico: desde métodos basados ​​en consorcios microbianos hasta ciencias de datos y enfoques impulsados ​​por la biología computacional.
+
+164 -  Targeting CK2 mediated signaling to impair/tackle SARS-CoV-2 infection: a computational biology approach.
+
+Dirigirse a la señalización mediada por CK2 para perjudicar/abordar la infección por SARS-CoV-2: un enfoque de biología computacional.
+
+165 -  Current and Emerging Tools of Computational Biology To Improve the Detoxification of Mycotoxins.
+
+Herramientas actuales y emergentes de la biología computacional para mejorar la desintoxicación de micotoxinas.
+
+166 -  Lung Cancer Computational Biology and Resources.
+
+Biología y recursos computacionales del cáncer de pulmón.
+
+167 -  Positive-unlabeled learning in bioinformatics and computational biology: a brief review.
+
+Aprendizaje positivo sin etiquetar en bioinformática y biología computacional: una breve revisión.
+
+168 -  A field guide to cultivating computational biology.
+
+Una guía de campo para cultivar la biología computacional.
+
+169 -  PLoS Computational Biology Issue Image | Vol. 1(9) October 2021.
+
+Imagen de la edición de biología computacional de PLoS | vol. 1(9) de octubre de 2021.
+
+170 -  Wnt pathway-related three-mRNA clinical outcome signature in bladder urothelial carcinoma: computational biology and experimental analyses.
+
+Firma de resultados clínicos de tres ARNm relacionados con la vía Wnt en el carcinoma urotelial de vejiga: biología computacional y análisis experimentales.
+
+171 -  Development of Explicit Schemes for Diffusive SEAIR COVID-19 Epidemic Spreading Model: An Application to Computational Biology.
+
+Desarrollo de esquemas explícitos para el modelo difusivo de propagación epidémica SEAIR COVID-19: una aplicación a la biología computacional.
+
+172 -  Computational biology approaches for mapping transcriptional regulatory networks.
+
+Enfoques de biología computacional para mapear redes reguladoras transcripcionales.
+
+173 -  Computational biology: Turing's lessons in simplicity.
+
+Biología computacional: las lecciones de simplicidad de Turing.
+
+174 -  Trace Reconstruction Problems in Computational Biology.
+
+Problemas de reconstrucción de trazas en biología computacional.
+
+175 -  Genome instability-related long non-coding RNA in clear renal cell carcinoma determined using computational biology.
+
+ARN largo no codificante relacionado con la inestabilidad del genoma en el carcinoma de células renales claro determinado mediante biología computacional.
+
+176 -  Highlights from the 16th International Society for Computational Biology Student Council Symposium 2020.
+
+Aspectos destacados del 16º Simposio del Consejo Estudiantil de la Sociedad Internacional de Biología Computacional 2020.
+
+177 -  Computational Viromics: Applications of the Computational Biology in Viromics Studies.
+
+Virómica Computacional: Aplicaciones de la Biología Computacional en Estudios de Virómica.
+
+178 -  Computational Biology and Machine Learning Approaches to Understand Mechanistic Microbiome-Host Interactions.
+
+Enfoques de biología computacional y aprendizaje automático para comprender las interacciones mecanicistas entre el microbioma y el huésped.
+
+179 -  Analysis of natural compounds against the activity of SARS-CoV-2 NSP15 protein towards an effective treatment against COVID-19: a theoretical and computational biology approach.
+
+Análisis de compuestos naturales contra la actividad de la proteína NSP15 del SARS-CoV-2 hacia un tratamiento eficaz contra el COVID-19: una aproximación teórica y de biología computacional.
+
+180 -  Computational Biology: A New Frontier in Applied Biology.
+
+Biología computacional: una nueva frontera en biología aplicada.
+
+181 -  Secretome Profiling and Computational Biology of Human Leiomyoma Samples Unravel Molecular Signatures with Potential for Diagnostic and Therapeutic Interventions.
+
+El perfil del secretoma y la biología computacional de muestras de leiomioma humano revelan firmas moleculares con potencial para intervenciones diagnósticas y terapéuticas.
+
+182 -  Understanding the molecular evolution of tiger diversity through DNA barcoding marker ND4 and NADH dehydrogenase complex using computational biology.
+
+Comprender la evolución molecular de la diversidad de tigres a través del marcador de código de barras de ADN ND4 y el complejo NADH deshidrogenasa utilizando biología computacional.
+
+183 -  Developing intuitive and explainable algorithms through inspiration from human physiology and computational biology.
+
+Desarrollar algoritmos intuitivos y explicables inspirándose en la fisiología humana y la biología computacional.
+
+184 -  Human OMICs and Computational Biology Research in Africa: Current Challenges and Prospects.
+
+OMIC humanas e investigación en biología computacional en África: desafíos y perspectivas actuales.
+
+185 -  Molecular strategies to enhance stability and catalysis of extremophile-derived α-amylase using computational biology.
+
+Estrategias moleculares para mejorar la estabilidad y la catálisis de la α-amilasa derivada de extremófilos mediante biología computacional.
+
+186 -  Making Tools that People Will Use: User-Centered Design in Computational Biology Research.
+
+Creación de herramientas que la gente utilizará: diseño centrado en el usuario en la investigación en biología computacional.
+
+187 -  COBRE for Computational Biology of Human Disease at Brown University: Progress and Prospects.
+
+COBRE para Biología Computacional de Enfermedades Humanas en la Universidad de Brown: Progresos y Perspectivas.
+
+188 -  Computational biology and chemistry Special section editorial: Computational analyses for miRNA.
+
+Biología y química computacional Editorial sección especial: Análisis computacionales para miARN.
+
+189 -  On the open-source landscape of PLOS Computational Biology.
+
+Sobre el panorama del código abierto de la biología computacional PLOS.
+
+190 -  Towards practical applications in quantum computational biology.
+
+Hacia aplicaciones prácticas en biología computacional cuántica.
+
+191 -  Electroosmotically driven flow of micropolar bingham viscoplastic fluid in a wavy microchannel: application of computational biology stomach anatomy.
+
+Flujo impulsado electroosmóticamente de fluido viscoplástico de Bingham micropolar en un microcanal ondulado: aplicación de la biología computacional de la anatomía del estómago.
+
+192 -  Computational Biology Analysis of COVID-19 Receptor-Binding Domains: A Target Site for Indocyanine Green Through Antimicrobial Photodynamic Therapy.
+
+Análisis de biología computacional de los dominios de unión al receptor de COVID-19: un sitio objetivo para el verde de indocianina mediante terapia fotodinámica antimicrobiana.
+
+193 -  Connecting Black women in computational biology.
+
+Conectando a mujeres negras en biología computacional.
+
+194 -  ECCB2020: the 19th European Conference on Computational Biology.
+
+ECCB2020: la 19ª Conferencia Europea sobre Biología Computacional.
+
+195 -  Effect of ligand conjugation site on the micellization of Bio-Targeted PLGA-Based nanohybrids: A computational biology approach.
+
+Efecto del sitio de conjugación del ligando en la micelización de nanohíbridos basados ​​en PLGA biodirigidos: un enfoque de biología computacional.
+
+196 -  Information Theory in Computational Biology: Where We Stand Today.
+
+Teoría de la información en biología computacional: nuestra situación actual.
+
+197 -  Computational Biology and 
+
+Biología Computacional y
+
+198 -  Tracing the footsteps of autophagy in computational biology.
+
+Siguiendo los pasos de la autofagia en biología computacional.
+
+199 -  Gene Regulatory Networks of 
+
+Redes reguladoras de genes de
+
+200 -  Genomics, Computational Biology and Drug Discovery for Mycobacterial Infections: Fighting the Emergence of Resistance.
+
+Genómica, biología computacional y descubrimiento de fármacos para infecciones por micobacterias: lucha contra la aparición de resistencias.
+
+201 -  Online laboratory exercise on computational biology: Phylogenetic analyses and protein modeling based on SARS-CoV-2 data during COVID-19 remote instruction.
+
+Ejercicio de laboratorio en línea sobre biología computacional: análisis filogenéticos y modelado de proteínas basado en datos del SARS-CoV-2 durante la instrucción remota de COVID-19.
+
+202 -  Genome-wide circadian regulation: A unique system for computational biology.
+
+Regulación circadiana de todo el genoma: un sistema único para la biología computacional.
+
+203 -  Proceedings of the 2019 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2019.
+
+204 -  Exploring the genomic and proteomic variations of SARS-CoV-2 spike glycoprotein: A computational biology approach.
+
+Explorando las variaciones genómicas y proteómicas de la glicoproteína de pico del SARS-CoV-2: un enfoque de biología computacional.
+
+205 -  10 simple rules for teaching wet-lab experimentation to computational biology students, i.e., turning computer mice into lab rats.
+
+Diez reglas simples para enseñar experimentación en laboratorio húmedo a estudiantes de biología computacional, es decir, convertir ratones de computadora en ratas de laboratorio.
+
+206 -  Validation of Modeling and Simulation Methods in Computational Biology.
+
+Validación de métodos de modelado y simulación en biología computacional.
+
+207 -  What Is the Role for Algorithmics and Computational Biology in Responding to the COVID-19 Pandemic?
+
+¿Cuál es el papel de la algorítmica y la biología computacional en la respuesta a la pandemia de COVID-19?
+
+208 -  Improving reproducibility in computational biology research.
+
+Mejora de la reproducibilidad en la investigación de biología computacional.
+
+209 -  Prediction of Outcomes with a Computational Biology Model in Newly Diagnosed Glioblastoma Patients Treated with Radiation Therapy and Temozolomide.
+
+Predicción de resultados con un modelo de biología computacional en pacientes con glioblastoma recién diagnosticado y tratados con radioterapia y temozolomida.
+
+210 -  Ten simple rules for designing learning experiences that involve enhancing computational biology Wikipedia articles.
+
+Diez reglas simples para diseñar experiencias de aprendizaje que impliquen mejorar los artículos de Wikipedia sobre biología computacional.
+
+211 -  Innovating Computational Biology and Intelligent Medicine: ICIBM 2019 Special Issue.
+
+Biología computacional innovadora y medicina inteligente: número especial de ICIBM 2019.
+
+212 -  Setup of a scientific computing environment for computational biology: Simulation of a genome-scale metabolic model of Escherichia coli as an example.
+
+Configuración de un entorno informático científico para biología computacional: simulación de un modelo metabólico a escala genómica de Escherichia coli como ejemplo.
+
+213 -  Extensive immunoinformatics study for the prediction of novel peptide-based epitope vaccine with docking confirmation against envelope protein of Chikungunya virus: a computational biology approach.
+
+Amplio estudio inmunoinformático para la predicción de una nueva vacuna de epítopo basada en péptidos con confirmación de acoplamiento contra la proteína de la envoltura del virus Chikungunya: un enfoque de biología computacional.
+
+214 -  Foreword: Special Issue for the 2019 International Conference on Bioinformatics and Computational Biology (BICOB-2019).
+
+Prólogo: Número especial de la Conferencia Internacional sobre Bioinformática y Biología Computacional de 2019 (BICOB-2019).
+
+215 -  An examination of citation-based impact of the computational biology conferences.
+
+Un examen del impacto basado en citas de las conferencias de biología computacional.
+
+216 -  Application of Computational Biology and Artificial Intelligence Technologies in Cancer Precision Drug Discovery.
+
+Aplicación de tecnologías de biología computacional e inteligencia artificial en el descubrimiento de fármacos de precisión contra el cáncer.
+
+217 -  Establishment of computational biology in Greece and Cyprus: Past, present, and future.
+
+Establecimiento de la biología computacional en Grecia y Chipre: pasado, presente y futuro.
+
+218 -  2019 International Conference and Exhibition on Computational Biology and Bioinformatics (ICECBB 2019), December 1-2, 2019, Taipei, Taiwan.
+
+Conferencia y exposición internacional de 2019 sobre biología computacional y bioinformática (ICECBB 2019), 1 y 2 de diciembre de 2019, Taipei, Taiwán.
+
+219 -  Exploring cardiac form and function: A length-scale computational biology approach.
+
+Exploración de la forma y función cardíaca: un enfoque de biología computacional a escala de longitud.
+
+220 -  Soft Set Theory for Decision Making in Computational Biology under Incomplete Information.
+
+Teoría de conjuntos blandos para la toma de decisiones en biología computacional con información incompleta.
+
+221 -  Identification of key candidate genes and molecular pathways in white fat browning: an anti-obesity drug discovery based on computational biology.
+
+Identificación de genes candidatos clave y vías moleculares en el pardeamiento de la grasa blanca: un descubrimiento de fármaco contra la obesidad basado en biología computacional.
+
+222 -  Computational Biology: Toward Early Detection of Pancreatic Cancer.
+
+Biología computacional: hacia la detección temprana del cáncer de páncreas.
+
+223 -  Application of Computational Biology to Decode Brain Transcriptomes.
+
+Aplicación de la biología computacional para decodificar transcriptomas cerebrales.
+
+224 -  Advancing computational biology and bioinformatics research through open innovation competitions.
+
+Impulsar la investigación en biología computacional y bioinformática a través de concursos de innovación abierta.
+
+225 -  Global network of computational biology communities: ISCB's Regional Student Groups breaking barriers.
+
+Red global de comunidades de biología computacional: los grupos regionales de estudiantes de ISCB rompen barreras.
+
+226 -  WITHDRAWN: Two kinds of metrics for computational biology.
+
+RETIRADO: Dos tipos de métricas para la biología computacional.
+
+227 -  Computational Biology Solutions to Identify Enhancers-target Gene Pairs.
+
+Soluciones de biología computacional para identificar pares de genes potenciadores-objetivo.
+
+228 -  Association of A-197G polymorphism in interleukin-17 gene with chronic periodontitis: Evidence from six case-control studies with a computational biology approach.
+
+Asociación del polimorfismo A-197G en el gen de la interleucina-17 con periodontitis crónica: evidencia de seis estudios de casos y controles con un enfoque de biología computacional.
+
+229 -  A genomics-informed computational biology platform prospectively predicts treatment responses in AML and MDS patients.
+
+Una plataforma de biología computacional basada en la genómica predice prospectivamente las respuestas al tratamiento en pacientes con leucemia mieloide aguda y síndrome mielodisplásico (MDS).
+
+230 -  Selected Papers from the Workshop on Computational Biology: Joint with the International Joint Conference on Artificial Intelligence and the International Conference on Machine Learning, 2018.
+
+Artículos seleccionados del taller sobre biología computacional: conjunto con la conferencia internacional conjunta sobre inteligencia artificial y la conferencia internacional sobre aprendizaje automático, 2018.
+
+231 -  Object Weighting: A New Clustering Approach to Deal with Outliers and Cluster Overlap in Computational Biology.
+
+Ponderación de objetos: un nuevo enfoque de agrupación para abordar los valores atípicos y la superposición de agrupaciones en biología computacional.
+
+232 -  A practical guide to methods controlling false discoveries in computational biology.
+
+Una guía práctica sobre métodos que controlan los falsos descubrimientos en biología computacional.
+
+233 -  Establishing a computational biology flipped classroom.
+
+Establecimiento de un aula invertida de biología computacional.
+
+234 -  Wisdom of crowds in computational biology.
+
+Sabiduría de multitudes en biología computacional.
+
+235 -  To Embed or Not: Network Embedding as a Paradigm in Computational Biology.
+
+Integrar o no: integración de redes como paradigma en biología computacional.
+
+236 -  Exascale Computing: A New Dawn for Computational Biology.
+
+Computación a exaescala: un nuevo amanecer para la biología computacional.
+
+237 -  Recent Advances of Deep Learning in Bioinformatics and Computational Biology.
+
+Avances recientes del aprendizaje profundo en bioinformática y biología computacional.
+
+238 -  Proceedings of the 2018 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference.
+
+Actas de la conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2018.
+
+239 -  Precision Medicine on Chronic Disease Incorporating Experimental and Computational Biology.
+
+Medicina de precisión en enfermedades crónicas incorporando biología experimental y computacional.
+
+240 -  Functional data analysis for computational biology.
+
+Análisis de datos funcionales para biología computacional.
+
+241 -  Overall Introduction and Rationale, with View from Computational Biology.
+
+Introducción general y justificación, con una visión desde la biología computacional.
+
+242 -  Developing computational biology at meridian 23° E, and a little eastwards.
+
+Desarrollando biología computacional en el meridiano 23° E, y un poco hacia el este.
+
+243 -  ECCB 2018: The 17th European Conference on Computational Biology.
+
+ECCB 2018: 17ª Conferencia Europea sobre Biología Computacional.
+
+244 -  Putting benchmarks in their rightful place: The heart of computational biology.
+
+Poner los puntos de referencia en el lugar que les corresponde: el corazón de la biología computacional.
+
+245 -  Biotite: a unifying open source computational biology framework in Python.
+
+Biotite: un marco unificador de biología computacional de código abierto en Python.
+
+246 -  bioSyntax: syntax highlighting for computational biology.
+
+bioSyntax: resaltado de sintaxis para biología computacional.
+
+247 -  Computational Biology
+
+Biología Computacional
+
+248 -  Preface to the Special Issue: Parallel Computing in Computational Biology: A Technological Point of View.
+
+Prefacio al número especial: Computación paralela en biología computacional: un punto de vista tecnológico.
+
+249 -  Recent patents in computational biology.
+
+Patentes recientes en biología computacional.
+
+250 -  Toward predictive R-loop computational biology: genome-scale prediction of R-loops reveals their association with complex promoter structures, G-quadruplexes and transcriptionally active enhancers.
+
+Hacia la biología computacional predictiva de bucles R: la predicción a escala genómica de bucles R revela su asociación con estructuras promotoras complejas, cuádruplex G y potenciadores transcripcionalmente activos.
+
+251 -  ParaCells: A GPU Architecture for Cell-Centered Models in Computational Biology.
+
+ParaCells: una arquitectura de GPU para modelos centrados en células en biología computacional.
+
+252 -  Synaptopathy, circuitopathy and the computational biology of Huntington's disease.
+
+Sinaptopatía, circuitopatía y biología computacional de la enfermedad de Huntington.
+
+253 -  Toward predictive R-loop computational biology: genome-scale prediction of R-loops reveals their association with complex promoter structures, G-quadruplexes and transcriptionally active enhancers.
+
+Hacia la biología computacional predictiva de bucles R: la predicción a escala genómica de bucles R revela su asociación con estructuras promotoras complejas, cuádruplex G y potenciadores transcripcionalmente activos.
+
+254 -  Nano-particle mediated inhibition of Parkinson's disease using computational biology approach.
+
+Inhibición de la enfermedad de Parkinson mediada por nanopartículas mediante un enfoque de biología computacional.
+
+255 -  Integrated computational biology analysis to evaluate target genes for chronic myelogenous leukemia.
+
+Análisis integrado de biología computacional para evaluar genes diana para la leucemia mielógena crónica.
+
+256 -  Submit a Topic Page to PLOS Computational Biology and Wikipedia.
+
+Envíe una página temática a PLOS Computational Biology y Wikipedia.
+
+257 -  HCC Specific Protein Network Involving Interactions of EGFR with A-Raf and Transthyretin: Experimental Analysis and Computational Biology Correlates.
+
+Red de proteínas específicas de HCC que involucra interacciones de EGFR con A-Raf y transtiretina: análisis experimental y correlaciones de biología computacional.
+
+258 -  Quantum annealing versus classical machine learning applied to a simplified computational biology problem.
+
+Recocido cuántico versus aprendizaje automático clásico aplicado a un problema de biología computacional simplificado.
+
+259 -  A computational biology approach of a genome-wide screen connected miRNAs to obesity and type 2 diabetes.
+
+Un enfoque de biología computacional de una pantalla de todo el genoma conectó los miARN con la obesidad y la diabetes tipo 2.
+
+260 -  Biological data processing based on bio-processor unit (BPU), a new concept for next generation computational biology.
+
+Procesamiento de datos biológicos basado en unidad de bioprocesador (BPU), un nuevo concepto para la biología computacional de próxima generación.
+
+261 -  Discovery of novel bacterial toxins by genomics and computational biology.
+
+Descubrimiento de nuevas toxinas bacterianas mediante genómica y biología computacional.
+
+262 -  The ISCB Student Council Internship Program: Expanding computational biology capacity worldwide.
+
+El programa de pasantías del Consejo Estudiantil de ISCB: Ampliando la capacidad de biología computacional en todo el mundo.
+
+263 -  Proceedings of the 2017 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2017.
+
+264 -  Ten quick tips for machine learning in computational biology.
+
+Diez consejos rápidos para el aprendizaje automático en biología computacional.
+
+265 -  Computational biology: deep learning.
+
+Biología computacional: aprendizaje profundo.
+
+266 -  Integrating the whole from the sum of the parts: vignettes in computational biology.
+
+Integrando el todo a partir de la suma de las partes: viñetas en biología computacional.
+
+267 -  Women are underrepresented in computational biology: An analysis of the scholarly literature in biology, computer science and computational biology.
+
+Las mujeres están subrepresentadas en biología computacional: un análisis de la literatura académica en biología, informática y biología computacional.
+
+268 -  Editorial:Impacts of Computational Biology to Medicinal Chemistry.
+
+Editorial: Impactos de la biología computacional en la química medicinal.
+
+269 -  Direct in silico visualization of ligands channelling through proteins: The next-generation frontier of computational biology: Comment on 'Ligand diffusion via enhanced sampling molecular dynamics' by Jakub Rydzewski and Wieslaw Nowak.
+
+Visualización directa in silico de ligandos que se canalizan a través de proteínas: la frontera de próxima generación de la biología computacional: comentario sobre la 'difusión de ligandos mediante dinámica molecular de muestreo mejorada' por Jakub Rydzewski y Wieslaw Nowak.
+
+270 -  Computational biology: future challenges for the patenting of repurposed drugs.
+
+Biología computacional: desafíos futuros para el patentamiento de medicamentos reutilizados.
+
+271 -  A parallel metaheuristic for large mixed-integer dynamic optimization problems, with applications in computational biology.
+
+Una metaheurística paralela para grandes problemas de optimización dinámica de enteros mixtos, con aplicaciones en biología computacional.
+
+272 -  The International Society for Computational Biology and WikiProject Computational Biology: celebrating 10 years of collaboration towards open access.
+
+La Sociedad Internacional de Biología Computacional y WikiProject Computational Biology: celebrando 10 años de colaboración hacia el acceso abierto.
+
+273 -  Introduction to selected papers from the 8th International Conference on Bioinformatics and Computational Biology (BICOB 2016).
+
+Introducción a artículos seleccionados de la 8ª Conferencia Internacional sobre Bioinformática y Biología Computacional (BICOB 2016).
+
+274 -  Machine learning in computational biology to accelerate high-throughput protein expression.
+
+Aprendizaje automático en biología computacional para acelerar la expresión de proteínas de alto rendimiento.
+
+275 -  Multiple-Swarm Ensembles: Improving the Predictive Power and Robustness of Predictive Models and Its Use in Computational Biology.
+
+Conjuntos de enjambres múltiples: mejora del poder predictivo y la robustez de los modelos predictivos y su uso en biología computacional.
+
+276 -  Scalable Data Mining Algorithms in Computational Biology and Biomedicine.
+
+Algoritmos de minería de datos escalables en biología computacional y biomedicina.
+
+277 -  All biology is computational biology.
+
+Toda biología es biología computacional.
+
+278 -  Computational Biology and Chemistry in MTi: Emphasis on the Prediction of Some ADMET Properties.
+
+Biología y química computacional en MTi: énfasis en la predicción de algunas propiedades de ADMET.
+
+279 -  Chemohormonal therapy in metastatic hormone-sensitive prostate cancer. Sweeney CJ, Chen YH, Carducci M, Liu G, Jarrard DF, Eisenberger M, Wong YN, Hahn N, Kohli M, Cooney MM, Dreicer R, Vogelzang NJ, Picus J, Shevrin D, Hussain M, Garcia JA, DiPaola RS. Department of Medicine; Department of Biostatistics and Computational Biology; Dana-Farber Cancer Institute, Boston; Harvard Medical School, Boston; Johns Hopkins University, Baltimore; University of Wisconsin Carbone Cancer Center; School of Medicine and Public Health; Madison; Fox Chase Cancer Center, Temple University Health System, Philadelphia; Indiana University Melvin and Bren Simon Cancer Center, Indianapolis; Mayo Clinic, Rochester, MN; University Hospitals Case Medical Center, Seidman Cancer Center; Cleveland Clinic Taussig Cancer Institute; Both in Cleveland; University of Virginia Cancer Center, Charlottesville; Comprehensive Cancer Centers of Nevada, Las Vegas; Siteman Cancer Center, Washington University School of Medicine, St. Louis; NorthShore University Health System, Evanston, IL; University of Michigan Comprehensive Cancer Center, Ann Arbor; Rutgers Cancer Institute of New Jersey, New Brunswick.N Engl J Med. 2015 Aug 20;373(8):737-46. [Epub 2015 Aug 5]. doi: 10.1056/NEJMoa1503747.
+
+Terapia quimiohormonal en el cáncer de próstata metastásico sensible a hormonas. Sweeney CJ, Chen YH, Carducci M, Liu G, Jarrard DF, Eisenberger M, Wong YN, Hahn N, Kohli M, Cooney MM, Dreicer R, Vogelzang NJ, Picus J, Shevrin D, Hussain M, García JA, DiPaola RS. Departamento de Medicina; Departamento de Bioestadística y Biología Computacional; Instituto del Cáncer Dana-Farber, Boston; Escuela de Medicina de Harvard, Boston; Universidad Johns Hopkins, Baltimore; Centro Oncológico Carbone de la Universidad de Wisconsin; Facultad de Medicina y Salud Pública; Madison; Centro Oncológico Fox Chase, Sistema de Salud de la Universidad de Temple, Filadelfia; Centro Oncológico Melvin y Bren Simon de la Universidad de Indiana, Indianápolis; Clínica Mayo, Rochester, Minnesota; Centro Médico Case de los Hospitales Universitarios, Centro Oncológico Seidman; Instituto del Cáncer Taussig de la Clínica Cleveland; Ambos en Cleveland; Centro Oncológico de la Universidad de Virginia, Charlottesville; Centros Integrales de Cáncer de Nevada, Las Vegas; Siteman Cancer Center, Facultad de Medicina de la Universidad de Washington, St. Louis; Sistema de Salud de la Universidad NorthShore, Evanston, IL; Centro Oncológico Integral de la Universidad de Michigan, Ann Arbor; Instituto del Cáncer Rutgers de Nueva Jersey, Nuevo Brunswick.N Engl J Med. 20 de agosto de 2015; 373 (8): 737-46. [Publicación electrónica del 5 de agosto de 2015]. doi: 10.1056/NEJMoa1503747.
+
+280 -  Preface: Selected Articles of the Second International Conference on Algorithms for Computational Biology (AlCoB 2015).
+
+Prefacio: Artículos seleccionados de la Segunda Conferencia Internacional sobre Algoritmos para Biología Computacional (AlCoB 2015).
+
+281 -  Ten Simple Rules for Developing Usable Software in Computational Biology.
+
+Diez reglas simples para desarrollar software utilizable en biología computacional.
+
+282 -  Identification of potential drug targets based on a computational biology algorithm for venous thromboembolism.
+
+Identificación de posibles dianas farmacológicas basadas en un algoritmo de biología computacional para el tromboembolismo venoso.
+
+283 -  Convolutional Deep Belief Networks for Single-Cell/Object Tracking in Computational Biology and Computer Vision.
+
+Redes convolucionales de creencias profundas para el seguimiento de objetos/células individuales en biología computacional y visión por computadora.
+
+284 -  Big data and computational biology strategy for personalized prognosis.
+
+Estrategia de big data y biología computacional para un pronóstico personalizado.
+
+285 -  Proceedings of the 2016 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2016.
+
+286 -  ECCB 2016: The 15th European Conference on Computational Biology.
+
+ECCB 2016: 15ª Conferencia Europea sobre Biología Computacional.
+
+287 -  The maturation of murine spermatozoa membranes within the epididymis, a computational biology perspective.
+
+La maduración de las membranas de los espermatozoides murinos dentro del epidídimo, una perspectiva de la biología computacional.
+
+288 -  Computational Biology in the 21st Century: Scaling with Compressive Algorithms.
+
+Biología computacional en el siglo XXI: escalamiento con algoritmos de compresión.
+
+289 -  Deep learning for computational biology.
+
+Aprendizaje profundo para la biología computacional.
+
+290 -  India's Computational Biology Growth and Challenges.
+
+El crecimiento y los desafíos de la biología computacional de la India.
+
+291 -  Where next for the reproducibility agenda in computational biology?
+
+¿Hacia dónde sigue la agenda de reproducibilidad en biología computacional?
+
+292 -  Graphics processing units in bioinformatics, computational biology and systems biology.
+
+Unidades de procesamiento gráfico en bioinformática, biología computacional y biología de sistemas.
+
+293 -  Omics of Brucella: Species-Specific sRNA-Mediated Gene Ontology Regulatory Networks Identified by Computational Biology.
+
+Ómicas de Brucella: redes reguladoras de ontologías genéticas mediadas por ARNs específicas de especies identificadas por biología computacional.
+
+294 -  INTERACTION PATTERN OF FULLERENES (C20-C180) AND CARBON NANOTUBES WITH DIFFERENT FORMS OF DNA: A COMPUTATIONAL BIOLOGY APPROACH.
+
+PATRÓN DE INTERACCIÓN DE FULLERENOS (C20-C180) Y NANOTUBOS DE CARBONO CON DIFERENTES FORMAS DE ADN: UN ENFOQUE DE BIOLOGÍA COMPUTACIONAL.
+
+295 -  Computational biology analysis of platelet signaling reveals roles of feedbacks through phospholipase C and inositol 1,4,5-trisphosphate 3-kinase in controlling amplitude and duration of calcium oscillations.
+
+El análisis de biología computacional de la señalización plaquetaria revela el papel de la retroalimentación a través de la fosfolipasa C y el inositol 1,4,5-trifosfato 3-quinasa en el control de la amplitud y la duración de las oscilaciones del calcio.
+
+296 -  Oxygen Modulates the Effectiveness of Granuloma Mediated Host Response to Mycobacterium tuberculosis: A Multiscale Computational Biology Approach.
+
+El oxígeno modula la eficacia de la respuesta del huésped mediada por granuloma a Mycobacterium tuberculosis: un enfoque de biología computacional multiescala.
+
+297 -  The Development of Computational Biology in South Africa: Successes Achieved and Lessons Learnt.
+
+El desarrollo de la biología computacional en Sudáfrica: éxitos logrados y lecciones aprendidas.
+
+298 -  Capacitation-Related Lipid Remodeling of Mammalian Spermatozoa Membrane Determines the Final Fate of Male Gametes: A Computational Biology Study.
+
+La remodelación lipídica relacionada con la capacitación de la membrana de espermatozoides de mamíferos determina el destino final de los gametos masculinos: un estudio de biología computacional.
+
+299 -  Structural and Computational Biology in the Design of Immunogenic Vaccine Antigens.
+
+Biología estructural y computacional en el diseño de antígenos de vacunas inmunogénicas.
+
+300 -  Report from the 2nd Summer School in Computational Biology organized by the Queen's University of Belfast.
+
+Informe de la 2ª Escuela de Verano en Biología Computacional organizada por la Queen's University de Belfast.
+
+301 -  Proceedings of the 2015 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2015.
+
+302 -  Harnessing Computational Biology for Exact Linear B-Cell Epitope Prediction: A Novel Amino Acid Composition-Based Feature Descriptor.
+
+Aprovechamiento de la biología computacional para la predicción lineal exacta del epítopo de células B: un nuevo descriptor de características basado en la composición de aminoácidos.
+
+303 -  How to Grow a Computational Biology Lab.
+
+Cómo hacer crecer un laboratorio de biología computacional.
+
+304 -  Serum Albumin Domain Structures in Human Blood Serum by Mass Spectrometry and Computational Biology.
+
+Estructuras del dominio de albúmina sérica en suero sanguíneo humano mediante espectrometría de masas y biología computacional.
+
+305 -  Computational biology: How to catch rare cell types.
+
+Biología computacional: cómo detectar tipos de células raras.
+
+306 -  Computational Biology: Modeling Chronic Renal Allograft Injury.
+
+Biología computacional: modelado de la lesión crónica del injerto renal.
+
+307 -  Computational Biology Methods for Characterization of Pluripotent Cells.
+
+Métodos de biología computacional para la caracterización de células pluripotentes.
+
+308 -  From "What Is?" to "What Isn't?" Computational Biology.
+
+De "¿Qué es?" a "¿Qué no lo es?" Biología Computacional.
+
+309 -  Computational Biology: Moving into the Future One Click at a Time.
+
+Biología computacional: avanzando hacia el futuro, un clic a la vez.
+
+310 -  Ten Years of PLoS Computational Biology: A Decade of Appreciation and Innovation.
+
+Diez años de biología computacional PLoS: una década de reconocimiento e innovación.
+
+311 -  ISCB Ebola Award for Important Future Research on the Computational Biology of Ebola Virus.
+
+Premio ISCB Ébola a la importante investigación futura sobre la biología computacional del virus del Ébola.
+
+312 -  Computational Biology Tools for Identifying Specific Ligand Binding Residues for Novel Agrochemical and Drug Design.
+
+Herramientas de biología computacional para identificar residuos de unión de ligandos específicos para el diseño de nuevos fármacos y agroquímicos.
+
+313 -  Computational Biology in microRNA.
+
+Biología Computacional en microARN.
+
+314 -  Titanium dioxide nanoparticles provide protection against polycyclic aromatic hydrocarbon BaP and chrysene-induced perturbation of DNA repair machinery: A computational biology approach.
+
+Las nanopartículas de dióxido de titanio brindan protección contra el hidrocarburo aromático policíclico BaP y la perturbación de la maquinaria de reparación del ADN inducida por criseno: un enfoque de biología computacional.
+
+315 -  Biomaterial science meets computational biology.
+
+La ciencia de los biomateriales se encuentra con la biología computacional.
+
+316 -  Highlights from the Third International Society for Computational Biology (ISCB) European Student Council Symposium 2014.
+
+Aspectos destacados del Tercer Simposio del Consejo Estudiantil Europeo 2014 de la Sociedad Internacional de Biología Computacional (ISCB).
+
+317 -  OpenCOR: a modular and interoperable approach to computational biology.
+
+OpenCOR: un enfoque modular e interoperable para la biología computacional.
+
+318 -  Message from the ISCB: ISCB Ebola award for important future research on the computational biology of Ebola virus.
+
+Mensaje del ISCB: Premio ISCB Ébola a importantes investigaciones futuras sobre la biología computacional del virus del Ébola.
+
+319 -  Proceedings of the 13th European Conference on Computational Biology (ECCB’14), September 7-10, 2014, Strasbourg, France.
+
+Actas de la 13ª Conferencia Europea sobre Biología Computacional (ECCB'14), 7 al 10 de septiembre de 2014, Estrasburgo, Francia.
+
+320 -  Advancements and challenges in computational biology.
+
+Avances y desafíos en biología computacional.
+
+321 -  Erratum: Machine learning methods in the computational biology of cancer.
+
+Errata: métodos de aprendizaje automático en la biología computacional del cáncer.
+
+322 -  Community-driven development for computational biology at Sprints, Hackathons and Codefests.
+
+Desarrollo impulsado por la comunidad para biología computacional en Sprints, Hackathons y Codefests.
+
+323 -  Exploring the Genomic Roadmap and Molecular Phylogenetics Associated with MODY Cascades Using Computational Biology.
+
+Exploración de la hoja de ruta genómica y la filogenética molecular asociada con las cascadas MODY mediante biología computacional.
+
+324 -  Foreword to the special issue on selected papers from the 6th International Conference on Bioinformatics and Computational Biology (BICoB 2014).
+
+Prólogo al número especial sobre artículos seleccionados de la VI Conferencia Internacional sobre Bioinformática y Biología Computacional (BICoB 2014).
+
+325 -  Proceedings of the 2014 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2014.
+
+326 -  Limits of computational biology.
+
+Límites de la biología computacional.
+
+327 -  Accelerating precision biology and medicine with computational biology and bioinformatics.
+
+Acelerar la biología y la medicina de precisión con la biología computacional y la bioinformática.
+
+328 -  Function and dynamics of macromolecular complexes explored by integrative structural and computational biology.
+
+Función y dinámica de complejos macromoleculares explorados por la biología estructural y computacional integrativa.
+
+329 -  ECCB 2014: The 13th European Conference on Computational Biology.
+
+ECCB 2014: 13ª Conferencia Europea sobre Biología Computacional.
+
+330 -  Abstracts from the Ninth International Society for Computational Biology (ISCB) Student Council Symposium 2013, July 19, 2014, Berlin, Germany.
+
+Resúmenes del Noveno Simposio del Consejo Estudiantil de la Sociedad Internacional de Biología Computacional (ISCB) 2013, 19 de julio de 2014, Berlín, Alemania.
+
+331 -  Machine learning methods in the computational biology of cancer.
+
+Métodos de aprendizaje automático en la biología computacional del cáncer.
+
+332 -  10 years for the Journal of Bioinformatics and Computational Biology (2003-2013) -- a retrospective.
+
+Diez años para el Journal of Bioinformatics and Computational Biology (2003-2013): una retrospectiva.
+
+333 -  International Society for Computational Biology Honors Dana Pe'er with Top Bioinformatics/Computational Biology Award for 2014.
+
+La Sociedad Internacional de Biología Computacional honra a Dana Pe'er con el premio Top Bioinformatics/Computational Biology de 2014.
+
+334 -  Computational biology and bioinformatics.
+
+Biología computacional y bioinformática.
+
+335 -  A new online computational biology curriculum.
+
+Un nuevo plan de estudios de biología computacional en línea.
+
+336 -  Understanding sequence similarity and framework analysis between centromere proteins using computational biology.
+
+Comprensión de la similitud de secuencia y el análisis del marco entre proteínas centrómero mediante biología computacional.
+
+337 -  Editorial: Alignment-free methods in computational biology.
+
+Editorial: Métodos libres de alineación en biología computacional.
+
+338 -  Paving the way towards a successful and fulfilling career in computational biology.
+
+Allanando el camino hacia una carrera exitosa y satisfactoria en biología computacional.
+
+339 -  Computational biology and bioinformatics in Nigeria.
+
+Biología computacional y bioinformática en Nigeria.
+
+340 -  Computational biology approach to uncover hepatitis C virus helicase operation.
+
+Enfoque de biología computacional para descubrir la operación de la helicasa del virus de la hepatitis C.
+
+341 -  Biomedical informatics and computational biology for high-throughput data analysis.
+
+Informática biomédica y biología computacional para análisis de datos de alto rendimiento.
+
+342 -  Identification of Marker Genes for Cancer Based on Microarrays Using a Computational Biology Approach.
+
+Identificación de genes marcadores de cáncer basada en microarrays mediante un enfoque de biología computacional.
+
+343 -  Biomarkers, genomics, telemetry, computational biology, and zebrafish: will one of these solve the problems of post-myocardial infarction heart failure?
+
+Biomarcadores, genómica, telemetría, biología computacional y pez cebra: ¿alguno de ellos resolverá los problemas de la insuficiencia cardíaca posinfarto de miocardio?
+
+344 -  Understanding the conservation patterns and molecular phylogenetics of human death receptors family through computational biology.
+
+Comprender los patrones de conservación y la filogenética molecular de la familia de receptores de muerte humanos a través de la biología computacional.
+
+345 -  IEEE/ACM Transactions on Computational Biology and Bioinformatics. Editorial from the Editor-in-Chief.
+
+Transacciones IEEE/ACM sobre biología computacional y bioinformática. Editorial del Editor Jefe.
+
+346 -  ISCB: past-present perspective for the International Society for Computational Biology.
+
+ISCB: perspectiva pasado-presente para la Sociedad Internacional de Biología Computacional.
+
+347 -  Education in computational biology today and tomorrow.
+
+Educación en biología computacional hoy y mañana.
+
+348 -  Quantifying reproducibility in computational biology: the case of the tuberculosis drugome.
+
+Cuantificación de la reproducibilidad en biología computacional: el caso del fármaco de la tuberculosis.
+
+349 -  Proceedings of the 2013 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2013.
+
+350 -  ISCB: past-present perspective for the International Society for Computational Biology.
+
+ISCB: perspectiva pasado-presente para la Sociedad Internacional de Biología Computacional.
+
+351 -  Foreword to the special issue on selected papers from the 5th International Conference on Bioinformatics and Computational Biology (BICoB 2013).
+
+Prólogo al número especial sobre artículos seleccionados de la Quinta Conferencia Internacional sobre Bioinformática y Biología Computacional (BICoB 2013).
+
+352 -  The anatomy of successful computational biology software.
+
+La anatomía del software de biología computacional exitoso.
+
+353 -  How Can PLoS Computational Biology help the biological sciences?
+
+¿Cómo puede la biología computacional PLoS ayudar a las ciencias biológicas?
+
+354 -  Designing integrated computational biology pipelines visually.
+
+Diseñar visualmente tuberías integradas de biología computacional.
+
+355 -  ISCB computational biology Wikipedia competition.
+
+Concurso de Wikipedia de biología computacional ISCB.
+
+356 -  Identification of potential synthetic lethal genes to p53 using a computational biology approach.
+
+Identificación de posibles genes letales sintéticos para p53 mediante un enfoque de biología computacional.
+
+357 -  Computational biology: A recipe for ligand-binding proteins.
+
+Biología computacional: una receta para proteínas de unión a ligandos.
+
+358 -  HIV-1 integrase binding to its cellular partners: a perspective from computational biology.
+
+Unión de la integrasa del VIH-1 a sus socios celulares: una perspectiva desde la biología computacional.
+
+359 -  International Society for Computational Biology welcomes its newest class of fellows.
+
+La Sociedad Internacional de Biología Computacional da la bienvenida a su nueva generación de becarios.
+
+360 -  Mapping the structural topology of IRS family cascades through computational biology.
+
+Mapeo de la topología estructural de las cascadas de la familia IRS mediante biología computacional.
+
+361 -  Topology mapping of insulin-regulated glucose transporter GLUT4 using computational biology.
+
+Mapeo de topología del transportador de glucosa regulado por insulina GLUT4 mediante biología computacional.
+
+362 -  Proceedings of the 11th European Conference on Computational Biology, ECCB 2012, September 9-12, 2012, Basal, Switzerland.
+
+Actas de la 11ª Conferencia Europea sobre Biología Computacional, ECCB 2012, 9 al 12 de septiembre de 2012, Basal, Suiza.
+
+363 -  International Society for Computational Biology honors Goncalo Abecasis with top bioinformatics/computational biology award for 2013.
+
+La Sociedad Internacional de Biología Computacional honra a Gonçalo Abecasis con el máximo premio en bioinformática/biología computacional de 2013.
+
+364 -  Bioinformatics and computational biology in Poland.
+
+Bioinformática y biología computacional en Polonia.
+
+365 -  Computational Biology and Chemistry. Editorial.
+
+Biología y Química Computacional. Editorial.
+
+366 -  ChemoPy: freely available python package for computational biology and chemoinformatics.
+
+ChemoPy: paquete Python disponible gratuitamente para biología computacional y quimioinformática.
+
+367 -  Coarse-graining methods for computational biology.
+
+Métodos de grano grueso para biología computacional.
+
+368 -  Computational biology in the cloud: methods and new insights from computing at scale.
+
+Biología computacional en la nube: métodos y nuevos conocimientos de la informática a escala.
+
+369 -  Prize-based contests can provide solutions to computational biology problems.
+
+Los concursos basados ​​en premios pueden proporcionar soluciones a problemas de biología computacional.
+
+370 -  Does computational biology help us to understand the molecular phylogenetics and evolution of cluster of differentiation (CD) proteins?
+
+¿Nos ayuda la biología computacional a comprender la filogenética molecular y la evolución de las proteínas del grupo de diferenciación (CD)?
+
+371 -  Abstracts of the Eighth International Society for Computational Biology (ISCB) Student Council Symposium 2012. Long Beach, California, USA. July 13-14, 2012.
+
+Resúmenes del Octavo Simposio del Consejo Estudiantil de la Sociedad Internacional de Biología Computacional (ISCB) 2012. Long Beach, California, EE. UU. 13 y 14 de julio de 2012.
+
+372 -  Meeting report: the seventh conference of the hellenic society for computational biology and bioinformatics.
+
+Informe de la reunión: la séptima conferencia de la sociedad helénica de biología computacional y bioinformática.
+
+373 -  Proceedings of the 2013 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference, April 5-6, 2013, Columbia, Missouri.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2013, 5 y 6 de abril de 2013, Columbia, Missouri.
+
+374 -  Computational biology of RNA interactions.
+
+Biología computacional de las interacciones de ARN.
+
+375 -  Proceedings of the 2012 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference. Introduction.
+
+Actas de la conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2012. Introducción.
+
+376 -  MACBenAbim: A Multi-platform Mobile Application for searching keyterms in Computational Biology and Bioinformatics.
+
+MACBenAbim: Aplicación móvil multiplataforma para buscar términos clave en Biología Computacional y Bioinformática.
+
+377 -  Frontiers and challenges of biophysical methods: from computational biology to X-ray free electron laser.
+
+Fronteras y desafíos de los métodos biofísicos: de la biología computacional al láser de electrones libres de rayos X.
+
+378 -  Perspectives on an education in computational biology and medicine.
+
+Perspectivas sobre la educación en biología y medicina computacional.
+
+379 -  Developing an online programme in computational biology.
+
+Desarrollar un programa en línea en biología computacional.
+
+380 -  ECCB 2012: The 11th European Conference on Computational Biology.
+
+ECCB 2012: 11ª Conferencia Europea sobre Biología Computacional.
+
+381 -  Microarray analysis of ageing-related signatures and their expression in tumors based on a computational biology approach.
+
+Análisis de microarrays de firmas relacionadas con el envejecimiento y su expresión en tumores basado en un enfoque de biología computacional.
+
+382 -  Reduction of dynamical biochemical reactions networks in computational biology.
+
+Reducción de redes de reacciones bioquímicas dinámicas en biología computacional.
+
+383 -  An Integrated Bioinformatics and Computational Biology Approach Identifies New BH3-Only Protein Candidates.
+
+Un enfoque integrado de bioinformática y biología computacional identifica nuevas proteínas candidatas exclusivas de BH3.
+
+384 -  Integrative computational biology.
+
+Biología computacional integrativa.
+
+385 -  In this special issue of the Journal of Computational Biology, we take great pleasure in celebrating the landmark birthdays of two leaders in our field.
+
+En este número especial de la Revista de Biología Computacional, tenemos el gran placer de celebrar los cumpleaños emblemáticos de dos líderes en nuestro campo.
+
+386 -  Computational biology. Virtual hot spots.
+
+Biología computacional. Puntos calientes virtuales.
+
+387 -  Computational biology. Does it compute? Introduction.
+
+Biología computacional. ¿Se computa? Introducción.
+
+388 -  Topic pages: PLoS Computational Biology meets Wikipedia.
+
+Páginas temáticas: La biología computacional PLoS se encuentra con Wikipedia.
+
+389 -  SED-ED, a workflow editor for computational biology experiments written in SED-ML.
+
+SED-ED, un editor de flujo de trabajo para experimentos de biología computacional escritos en SED-ML.
+
+390 -  Grand challenges in bioinformatics and computational biology.
+
+Grandes desafíos en bioinformática y biología computacional.
+
+391 -  In the spotlight: bioinformatics, computational biology and systems biology.
+
+En el punto de mira: bioinformática, biología computacional y biología de sistemas.
+
+392 -  Can computational biology improve the phylogenetic analysis of insulin?
+
+¿Puede la biología computacional mejorar el análisis filogenético de la insulina?
+
+393 -  SVS: data and knowledge integration in computational biology.
+
+SVS: integración de datos y conocimientos en biología computacional.
+
+394 -  Abstracts of the Seventh International Society for Computational Biology (ISCB) Student Council Symposium 2011. Vienna, Austria. July 15, 2011.
+
+Resúmenes del Séptimo Simposio del Consejo de Estudiantes de la Sociedad Internacional de Biología Computacional (ISCB) 2011. Viena, Austria. 15 de julio de 2011.
+
+395 -  Proceedings of the 2011 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference. Introduction.
+
+Actas de la conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2011. Introducción.
+
+396 -  Reproducible computational biology experiments with SED-ML--the Simulation Experiment Description Markup Language.
+
+Experimentos de biología computacional reproducibles con SED-ML, el lenguaje de marcado de descripción de experimentos de simulación.
+
+397 -  PLoS Computational Biology Conference Postcards from ISMB/ECCB 2011.
+
+Postales de la conferencia de biología computacional PLoS de ISMB/ECCB 2011.
+
+398 -  Editorial: What biomedical engineers can do to impact multiscale modeling (TBME Letters special issue on multiscale modeling and analysis in computational biology and medicine: part-2).
+
+Editorial: Qué pueden hacer los ingenieros biomédicos para impactar el modelado multiescala (número especial de TBME Letters sobre modelado y análisis multiescala en biología y medicina computacional: parte 2).
+
+399 -  Editorial: TBME Letters special issue on multiscale modeling and analysis in computational biology and medicine--part-2.
+
+Editorial: Número especial de TBME Letters sobre modelado y análisis multiescala en biología y medicina computacionales - parte 2.
+
+400 -  The Center for Computational Biology: resources, achievements, and challenges.
+
+El Centro de Biología Computacional: recursos, logros y desafíos.
+
+401 -  A first attempt to bring computational biology into advanced high school biology classrooms.
+
+Un primer intento de llevar la biología computacional a las aulas de biología avanzada de la escuela secundaria.
+
+402 -  Persistence and availability of Web services in computational biology.
+
+Persistencia y disponibilidad de servicios web en biología computacional.
+
+403 -  Editorial: Special issue on multiscale modeling and analysis in computational biology and medicine--part-1.
+
+Editorial: Número especial sobre modelado y análisis multiescala en biología y medicina computacionales - parte 1.
+
+404 -  Computational biology: plus c'est la même chose, plus ça change.
+
+Biología computacional: plus c'est la même chose, plus ça change.
+
+405 -  The development of computational biology in Pakistan: still a long way to go.
+
+El desarrollo de la biología computacional en Pakistán: aún queda un largo camino por recorrer.
+
+406 -  Integrative computational biology for cancer research.
+
+Biología computacional integradora para la investigación del cáncer.
+
+407 -  This special issue comprises the papers accepted for presentationat the 19th Annual International Conference on Intelligent Systemsfor Molecular Biology, joint with the 10th European Conference onComputational Biology, an official conference of the InternationalSociety for Computational Biology.
+
+Este número especial comprende los artículos aceptados para su presentación en la 19.ª Conferencia Internacional Anual sobre Sistemas Inteligentes para Biología Molecular, junto con la 10.ª Conferencia Europea sobre Biología Computacional, una conferencia oficial de la Sociedad Internacional de Biología Computacional.
+
+408 -  Cancer computational biology.
+
+Biología computacional del cáncer.
+
+409 -  PLoS Computational Biology conference postcard from PSB 2011.
+
+Postal de la conferencia PLoS Computational Biology de PSB 2011.
+
+410 -  Advanced computational biology methods identify molecular switches for malignancy in an EGF mouse model of liver cancer.
+
+Los métodos avanzados de biología computacional identifican interruptores moleculares de malignidad en un modelo de cáncer de hígado en ratones EGF.
+
+411 -  Exploring the evolutionary relationship of insulin receptor substrate family using computational biology.
+
+Explorando la relación evolutiva de la familia de sustratos del receptor de insulina utilizando biología computacional.
+
+412 -  Proceedings of the 2010 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference, February 19-20, 2010, Jonesboro, AR, USA.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2010, 19 y 20 de febrero de 2010, Jonesboro, AR, EE. UU.
+
+413 -  A Review of 2010 for PLoS Computational Biology.
+
+Una revisión de 2010 para PLoS Computational Biology.
+
+414 -  Computational biology approaches for selecting host-pathogen drug targets.
+
+Enfoques de biología computacional para seleccionar objetivos farmacológicos huésped-patógeno.
+
+415 -  Community-driven computational biology with Debian Linux.
+
+Biología computacional impulsada por la comunidad con Debian Linux.
+
+416 -  Trends in computational biology—2010.
+
+Tendencias en biología computacional—2010.
+
+417 -  Proceedings of the 2010 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference, April 1-2, 2011, College Station, Texas.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2010, 1 y 2 de abril de 2011, College Station, Texas.
+
+418 -  Computational biology for ageing.
+
+Biología computacional para el envejecimiento.
+
+419 -  PLoS Computational Biology conference postcards from ISMB 2010.
+
+Postales de la conferencia PLoS Computational Biology de ISMB 2010.
+
+420 -  ECCB10. Proceedings of the 9th European Conference on Computational Biology, September 26-29, 2010, Ghent, Belgium.
+
+ECCB10. Actas de la novena Conferencia europea sobre biología computacional, 26 al 29 de septiembre de 2010, Gante, Bélgica.
+
+421 -  Proceedings of the 2010 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference.
+
+Actas de la conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2010.
+
+422 -  Computational biology. Custom-built supercomputer brings protein folding into view.
+
+Biología computacional. Una supercomputadora hecha a medida muestra el plegamiento de proteínas.
+
+423 -  Ranked retrieval of Computational Biology models.
+
+Recuperación clasificada de modelos de biología computacional.
+
+424 -  Computational biology approaches to plant metabolism and photosynthesis: applications for corals in times of climate change and environmental stress.
+
+Enfoques de biología computacional para el metabolismo y la fotosíntesis de las plantas: aplicaciones para los corales en tiempos de cambio climático y estrés ambiental.
+
+425 -  Exploiting graphics processing units for computational biology and bioinformatics.
+
+Explotación de unidades de procesamiento gráfico para biología computacional y bioinformática.
+
+426 -  PLoS Computational Biology conference postcards from PSB 2010.
+
+Postales de la conferencia PLoS Computational Biology de PSB 2010.
+
+427 -  Novel opportunities for computational biology and sociology in drug discovery.
+
+Nuevas oportunidades para la biología y la sociología computacionales en el descubrimiento de fármacos.
+
+428 -  Parameter estimation and model selection in computational biology.
+
+Estimación de parámetros y selección de modelos en biología computacional.
+
+429 -  Will widgets and semantic tagging change computational biology?
+
+¿Los widgets y el etiquetado semántico cambiarán la biología computacional?
+
+430 -  WITHDRAWN: Novel opportunities for computational biology and sociology in drug discovery.
+
+RETIRADO: Nuevas oportunidades para la biología y la sociología computacionales en el descubrimiento de fármacos.
+
+431 -  Improving drug safety using computational biology.
+
+Mejora de la seguridad de los medicamentos mediante biología computacional.
+
+432 -  Live Coverage of Intelligent Systems for Molecular Biology/European Conference on computational biology (ISMB/ECCB) 2009.
+
+Cobertura en vivo de sistemas inteligentes para biología molecular/Conferencia europea sobre biología computacional (ISMB/ECCB) 2009.
+
+433 -  Sixth International Society for Computational Biology (ISCB) Student Council Symposium Boston, MA, USA. 9 July 2010. Abstracts.
+
+Sexto Simposio del Consejo Estudiantil de la Sociedad Internacional de Biología Computacional (ISCB) Boston, MA, EE. UU. 9 de julio de 2010. Resúmenes.
+
+434 -  Analysis of galactosemia-linked mutations of GALT enzyme using a computational biology approach.
+
+Análisis de mutaciones de la enzima GALT ligadas a galactosemia mediante un enfoque de biología computacional.
+
+435 -  Computational biology: Biological logic.
+
+Biología computacional: Lógica biológica.
+
+436 -  Guest Editors' Introduction, Special Issue on High-Performance Computational Biology.
+
+Introducción de los editores invitados, número especial sobre biología computacional de alto rendimiento.
+
+437 -  Computational biology in Colombia.
+
+Biología computacional en Colombia.
+
+438 -  Structural and computational biology of the molecular chaperone Hsp90: from understanding molecular mechanisms to computer-based inhibitor design.
+
+Biología estructural y computacional de la chaperona molecular Hsp90: desde la comprensión de los mecanismos moleculares hasta el diseño de inhibidores por computadora.
+
+439 -  Abstracts from the 5th International Society for Computational Biology Student Council Symposium at the 17th Annual International Conference on Intelligent Systems for Molecular Biology and the 8th European Conference on Computational Biology. June 27, 2009. Stockholm, Sweden.
+
+Resúmenes del 5º Simposio del Consejo de Estudiantes de la Sociedad Internacional de Biología Computacional en la 17ª Conferencia Internacional Anual sobre Sistemas Inteligentes para Biología Molecular y la 8ª Conferencia Europea sobre Biología Computacional. 27 de junio de 2009. Estocolmo, Suecia.
+
+440 -  Highlights from the 5th International Society for Computational Biology Student Council Symposium at the 17th Annual International Conference on Intelligent Systems for Molecular Biology and the 8th European Conference on Computational Biology.
+
+Aspectos destacados del 5º Simposio del Consejo Estudiantil de la Sociedad Internacional de Biología Computacional en la 17ª Conferencia Internacional Anual sobre Sistemas Inteligentes para Biología Molecular y la 8ª Conferencia Europea sobre Biología Computacional.
+
+441 -  Proceedings of the 2009 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) conference. Introduction.
+
+Actas de la conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2009. Introducción.
+
+442 -  A quick guide to teaching R programming to computational biology students.
+
+Una guía rápida para enseñar programación en R a estudiantes de biología computacional.
+
+443 -  Novel opportunities for computational biology and sociology in drug discovery.
+
+Nuevas oportunidades para la biología y la sociología computacionales en el descubrimiento de fármacos.
+
+444 -  A quick guide to organizing computational biology projects.
+
+Una guía rápida para organizar proyectos de biología computacional.
+
+445 -  [Computational biology strategy for identification of complex disease genes].
+
+[Estrategia de biología computacional para la identificación de genes de enfermedades complejas].
+
+446 -  The need for centralization of computational biology resources.
+
+La necesidad de centralización de los recursos de biología computacional.
+
+447 -  A review on data mining and continuous optimization applications in computational biology and medicine.
+
+Una revisión sobre minería de datos y aplicaciones de optimización continua en biología y medicina computacional.
+
+448 -  Computational biology in anti-tuberculosis drug discovery.
+
+Biología computacional en el descubrimiento de fármacos contra la tuberculosis.
+
+449 -  Computational biology methods and their application to the comparative genomics of endocellular symbiotic bacteria of insects.
+
+Métodos de biología computacional y su aplicación a la genómica comparada de bacterias simbióticas endocelulares de insectos.
+
+450 -  Computational biology and structural proteomics.
+
+Biología computacional y proteómica estructural.
+
+451 -  Computational biology and structural proteomics.
+
+Biología computacional y proteómica estructural.
+
+452 -  Webb Miller and Trey Ideker to receive top international bioinformatics awards for 2009 from the International Society for Computational Biology.
+
+Webb Miller y Trey Ideker recibirán los principales premios internacionales de bioinformática de 2009 de la Sociedad Internacional de Biología Computacional.
+
+453 -  Computational biology for cardiovascular biomarker discovery.
+
+Biología computacional para el descubrimiento de biomarcadores cardiovasculares.
+
+454 -  Textual data compression in computational biology: a synopsis.
+
+Compresión de datos textuales en biología computacional: una sinopsis.
+
+455 -  Computational biology - modeling of primary blast effects on the central nervous system.
+
+Biología computacional: modelado de los efectos de las explosiones primarias en el sistema nervioso central.
+
+456 -  Computational biology touches all bases. A report of the 6th Annual Rocky Mountain Bioinformatics Conference, Aspen, USA, 4-7 December 2008.
+
+La biología computacional toca todas las bases. Informe de la sexta Conferencia Anual de Bioinformática de las Montañas Rocosas, Aspen, EE. UU., 4 al 7 de diciembre de 2008.
+
+457 -  Unison: an integrated platform for computational biology discovery.
+
+Unison: una plataforma integrada para el descubrimiento de biología computacional.
+
+458 -  A Review of 2008 for PLoS Computational Biology.
+
+Una revisión de 2008 para PLoS Computational Biology.
+
+459 -  Integrating computational biology and forward genetics in Drosophila.
+
+Integrando biología computacional y genética directa en Drosophila.
+
+460 -  Computational Biology of Olfactory Receptors.
+
+Biología computacional de los receptores olfativos.
+
+461 -  Abstracts of the Fourth International Society for Computational Biology (ISCB) Student Council Symposium. Toronto, Canada. July 18, 2008.
+
+Resúmenes del Cuarto Simposio del Consejo Estudiantil de la Sociedad Internacional de Biología Computacional (ISCB). Toronto, Canadá. 18 de julio de 2008.
+
+462 -  Support vector machines and kernels for computational biology.
+
+Soporte para máquinas vectoriales y kernels para biología computacional.
+
+463 -  Multi-agent systems in epidemiology: a first step for computational biology in the study of vector-borne disease transmission.
+
+Sistemas multiagente en epidemiología: un primer paso para la biología computacional en el estudio de la transmisión de enfermedades transmitidas por vectores.
+
+464 -  Proceedings of the 2008 MidSouth Computational Biology and Bioinformatics Society (MCBIOS) Conference.
+
+Actas de la Conferencia de la Sociedad de Bioinformática y Biología Computacional MidSouth (MCBIOS) de 2008.
+
+465 -  Genome-scale computational biology and bioinformatics in Australia.
+
+Biología computacional y bioinformática a escala genómica en Australia.
+
+466 -  Computational cell biology: second theme issue on "computational biology".
+
+Biología celular computacional: segundo tema temático sobre "biología computacional".
+
+467 -  The aim of the conference is to provide a scientific forum for discussing the issues and advances in computational biology.
+
+El objetivo de la conferencia es proporcionar un foro científico para discutir los problemas y avances en biología computacional.
+
+468 -  Nonnegative matrix factorization: an analytical and interpretive tool in computational biology.
+
+Factorización matricial no negativa: una herramienta analítica e interpretativa en biología computacional.
+
+469 -  Outlook on Thailand's genomics and computational biology research and development.
+
+Perspectivas de la investigación y el desarrollo en genómica y biología computacional de Tailandia.
+
+470 -  Computational biology of genome expression and regulation--a review of microarray bioinformatics.
+
+Biología computacional de la expresión y regulación del genoma: una revisión de la bioinformática de microarrays.
+
+471 -  Computational biology resources lack persistence and usability.
+
+Los recursos de biología computacional carecen de persistencia y usabilidad.
+
+472 -  The European Conference on Computational Biology 2002.
+
+La Conferencia Europea sobre Biología Computacional 2002.
+
+473 -  Chaste: using agile programming techniques to develop computational biology software.
+
+Casto: uso de técnicas de programación ágil para desarrollar software de biología computacional.
+
+474 -  iTools: a framework for classification, categorization and integration of computational biology resources.
+
+iTools: un marco para la clasificación, categorización e integración de recursos de biología computacional.
+
+475 -  Validation and discovery from computational biology models.
+
+Validación y descubrimiento a partir de modelos de biología computacional.
+
+476 -  A quick guide for computer-assisted instruction in computational biology and bioinformatics.
+
+Una guía rápida para la instrucción asistida por computadora en biología computacional y bioinformática.
+
+477 -  Computational biology in Costa Rica: the role of a small country in the global context of bioinformatics.
+
+Biología computacional en Costa Rica: el papel de un país pequeño en el contexto global de la bioinformática.
+
+478 -  Computational frontiers in biomedicine. Proceedings of the Fourth Annual Conference of the MidSouth Computational Biology and Bioinformatics Society. February 1-3, 2007. New Orleans, Louisiana, USA.
+
+Fronteras computacionales en biomedicina. Actas de la Cuarta Conferencia Anual de la Sociedad de Bioinformática y Biología Computacional MidSouth. 1 al 3 de febrero de 2007. Nueva Orleans, Luisiana, Estados Unidos.
+
+479 -  Computational biology in Argentina.
+
+Biología computacional en Argentina.
+
+480 -  Promoting synergistic research and education in computational biology and drug design.
+
+Promoción de la investigación y la educación sinérgicas en biología computacional y diseño de fármacos.
+
+481 -  Abstracts from the 3rd International Society for Computational Biology (ISCB) Student Council Symposium at the 15th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB), Vienna, Austria, 21 July 2007.
+
+Resúmenes del 3.er Simposio del Consejo Estudiantil de la Sociedad Internacional de Biología Computacional (ISCB) en la 15.a Conferencia Internacional Anual sobre Sistemas Inteligentes para Biología Molecular (ISMB), Viena, Austria, 21 de julio de 2007.
+
+482 -  Computational biology in Cuba: an opportunity to promote science in a developing country.
+
+Biología computacional en Cuba: una oportunidad para promover la ciencia en un país en desarrollo.
+
+483 -  Proceedings of the Fourth Annual Conference of the MidSouth Computational Biology and Bioinformatics Society.
+
+Actas de la Cuarta Conferencia Anual de la Sociedad de Bioinformática y Biología Computacional MidSouth.
+
+484 -  Computational biology in Brazil.
+
+Biología computacional en Brasil.
+
+485 -  Computational biology: protein predictions.
+
+Biología computacional: predicciones de proteínas.
+
+486 -  Developing computational biology.
+
+Desarrollando la biología computacional.
+
+487 -  In-silico nanobio-design. A new frontier in computational biology.
+
+Nanobiodiseño in silico. Una nueva frontera en biología computacional.
+
+488 -  A primer on learning in Bayesian networks for computational biology.
+
+Una introducción al aprendizaje en redes bayesianas para biología computacional.
+
+489 -  Computational Biology and Bioinformatics: a tinge of Indian spice.
+
+Biología Computacional y Bioinformática: un toque de especia india.
+
+490 -  One year of PLoS Computational Biology.
+
+Un año de Biología Computacional PLoS.
+
+491 -  Multiobjective optimization in bioinformatics and computational biology.
+
+Optimización multiobjetivo en bioinformática y biología computacional.
+
+492 -  Computational biology of cardiac myocytes: proposed standards for the physiome.
+
+Biología computacional de los miocitos cardíacos: estándares propuestos para el fisioma.
+
+493 -  Bioinformatics, computational biology, and the National Centers for Biomedical Computing.
+
+Bioinformática, biología computacional y los Centros Nacionales de Computación Biomédica.
+
+494 -  From bytes to bedside: data integration and computational biology for translational cancer research.
+
+De los bytes a la cabecera: integración de datos y biología computacional para la investigación traslacional del cáncer.
+
+495 -  Internet Applications for Computational Biology, the CMISS Web Browser Extension and and Use in Education.
+
+Aplicaciones de Internet para biología computacional, la extensión del navegador web CMISS y su uso en educación.
+
+496 -  Open source software infrastructure for computational biology and visualization.
+
+Infraestructura de software de código abierto para biología computacional y visualización.
+
+497 -  Proceedings of the 5th European Conference on Computational Biology, ECCB 2006. January 21-24, 2007. Eilat, Israel.
+
+Actas de la Quinta Conferencia Europea sobre Biología Computacional, ECCB 2006. 21 al 24 de enero de 2007. Eilat, Israel.
+
+498 -  Proceedings of the Third Annual Conference of the MidSouth Computational Biology and Bioinformatics Society. Introduction.
+
+Actas de la Tercera Conferencia Anual de la Sociedad de Bioinformática y Biología Computacional MidSouth. Introducción.
+
+499 -  Structural genomics meets computational biology.
+
+La genómica estructural se encuentra con la biología computacional.
+
+500 -  Computational biology: toward deciphering gene regulatory information in mammalian genomes.
+
+Biología computacional: hacia el desciframiento de la información reguladora de genes en genomas de mamíferos.
+
+501 -  Bioconductor: an open source framework for bioinformatics and computational biology.
+
+Bioconductor: un marco de código abierto para bioinformática y biología computacional.
+
+502 -  Phosphoproteomics toolbox: computational biology, protein chemistry and mass spectrometry.
+
+Caja de herramientas de fosfoproteómica: biología computacional, química de proteínas y espectrometría de masas.
+
+503 -  Computational biology in the study of cardiac ion channels and cell electrophysiology.
+
+Biología computacional en el estudio de los canales iónicos cardíacos y electrofisiología celular.
+
+504 -  An interdepartmental Ph.D. program in computational biology and bioinformatics: the Yale perspective.
+
+Un doctorado interdepartamental. Programa en biología computacional y bioinformática: la perspectiva de Yale.
+
+505 -  Rigorous performance evaluation in protein structure modelling and implications for computational biology.
+
+Evaluación rigurosa del desempeño en el modelado de estructuras de proteínas e implicaciones para la biología computacional.
+
+506 -  Software agents in molecular computational biology.
+
+Agentes software en biología computacional molecular.
+
+507 -  Proceedings of the Third Annual Conference of the MidSouth Computational Biology and Bioinformatics Society. March 2-4, 2006. Baton Rouge, Louisiana, USA.
+
+Actas de la Tercera Conferencia Anual de la Sociedad de Bioinformática y Biología Computacional MidSouth. 2 al 4 de marzo de 2006. Baton Rouge, Luisiana, Estados Unidos.
+
+508 -  From computational quantum chemistry to computational biology: experiments and computations are (full) partners.
+
+De la química cuántica computacional a la biología computacional: los experimentos y los cálculos son socios (plenos).
+
+509 -  Computational biology for visualization of brain structure.
+
+Biología computacional para la visualización de la estructura cerebral.
+
+510 -  Special RECOMB 2004 Issue. Papers presented at the 8th Annual International Conference on Computational Biology, San Diego, California, USA, March 27-31, 2004.
+
+Número especial de RECOMB 2004. Artículos presentados en la 8ª Conferencia Internacional Anual sobre Biología Computacional, San Diego, California, EE. UU., 27 al 31 de marzo de 2004.
+
+511 -  An open forum for computational biology.
+
+Un foro abierto para la biología computacional.
+
+512 -  PLoS Computational Biology: a new community journal.
+
+PLoS Computational Biology: una nueva revista comunitaria.
+
+513 -  Proceedings of the second annual conference of the MidSouth Computational Biology and Bioinformatics Society. 7-9 October 2004, Little Rock, Arkansas, USA.
+
+Actas de la segunda conferencia anual de la Sociedad de Bioinformática y Biología Computacional MidSouth. 7 al 9 de octubre de 2004, Little Rock, Arkansas, Estados Unidos.
+
+514 -  The function of the extracellular regions in opioid receptor binding: insights from computational biology.
+
+La función de las regiones extracelulares en la unión del receptor de opioides: conocimientos de la biología computacional.
+
+515 -  Integration of bioinformatics and computational biology to understand protein-DNA recognition mechanism.
+
+Integración de bioinformática y biología computacional para comprender el mecanismo de reconocimiento de proteína-ADN.
+
+516 -  Proceedings of the First Annual Conference of the MidSouth Computational Biology and Bioinformatics Society. November 13-15, 2003. Little Rock, Arkansas, USA.
+
+Actas de la Primera Conferencia Anual de la Sociedad de Bioinformática y Biología Computacional MidSouth. 13 al 15 de noviembre de 2003. Little Rock, Arkansas, Estados Unidos.
+
+517 -  Recent applications of Hidden Markov Models in computational biology.
+
+Aplicaciones recientes de los modelos ocultos de Markov en biología computacional.
+
+518 -  Bioconductor: open software development for computational biology and bioinformatics.
+
+Bioconductor: desarrollo de software abierto para biología computacional y bioinformática.
+
+519 -  Computational biology: a propagating wave of interest.
+
+Biología computacional: una ola de interés que se propaga.
+
+520 -  From genetics to cellular function using computational biology.
+
+De la genética a la función celular utilizando la biología computacional.
+
+521 -  DNA and the revolutions of molecular evolution, computational biology, and bioinformatics.
+
+El ADN y las revoluciones de la evolución molecular, la biología computacional y la bioinformática.
+
+522 -  Selected dreams and nightmares about computational biology.
+
+Sueños y pesadillas seleccionados sobre biología computacional.
+
+523 -  Computational biology: Biosensor design.
+
+Biología computacional: diseño de biosensores.
+
+524 -  Computational biology. Counting on the neuron.
+
+Biología computacional. Contando con la neurona.
+
+525 -  Applications of bioinformatics and computational biology to influenza surveillance and vaccine strain selection.
+
+Aplicaciones de la bioinformática y la biología computacional a la vigilancia de la influenza y la selección de cepas de vacunas.
+
+526 -  The European conference on computational biology.
+
+La conferencia europea sobre biología computacional.
+
+527 -  Wavelets in bioinformatics and computational biology: state of art and perspectives.
+
+Wavelets en bioinformática y biología computacional: estado del arte y perspectivas.
+
+528 -  Evolution of the TIR, tolls and TLRs: functional inferences from computational biology.
+
+Evolución de los TIR, peajes y TLR: inferencias funcionales desde la biología computacional.
+
+529 -  ECCB 2002. Proceedings of the European Conference on Computational Biology, October 6-9, 2002, Saarbrucken, Germany.
+
+ECCB 2002. Actas de la Conferencia Europea sobre Biología Computacional, 6 al 9 de octubre de 2002, Saarbrucken, Alemania.
+
+530 -  Computational biology.
+
+Biología computacional.
+
+531 -  The rise of computational biology.
+
+El auge de la biología computacional.
+
+532 -  The ERATO Systems Biology Workbench: enabling interaction and exchange between software tools for computational biology.
+
+El banco de trabajo de biología de sistemas ERATO: permite la interacción y el intercambio entre herramientas de software para biología computacional.
+
+533 -  Individuation of monoclonal anti-HPV16 E7 antibody linear peptide epitope by computational biology.
+
+Individualización del epítopo peptídico lineal del anticuerpo monoclonal anti-VPH16 E7 mediante biología computacional.
+
+534 -  Training for bioinformatics and computational biology.
+
+Formación en bioinformática y biología computacional.
+
+535 -  From Jabberwocky to genome: Lewis Carroll and computational biology.
+
+De Jabberwocky al genoma: Lewis Carroll y la biología computacional.
+
+536 -  Computational biology. Beyond the spherical cow.
+
+Biología computacional. Más allá de la vaca esférica.
+
+537 -  Computational biology. Bioinformatics--trying to swim in a sea of data.
+
+Biología computacional. Bioinformática: intentar nadar en un mar de datos.
+
+538 -  A method for parameter optimization in computational biology.
+
+Un método para la optimización de parámetros en biología computacional.
+
+539 -  The emergence of pattern discovery techniques in computational biology.
+
+El surgimiento de técnicas de descubrimiento de patrones en biología computacional.
+
+540 -  From bioinformatics to computational biology.
+
+De la bioinformática a la biología computacional.
+
+541 -  Molecules to maps: tools for visualization and interaction in computational biology.
+
+Moléculas a mapas: herramientas de visualización e interacción en biología computacional.
+
+542 -  The early introduction of dynamic programming into computational biology.
+
+La introducción temprana de la programación dinámica en la biología computacional.
+
+543 -  [Computational biology at the turn of the decade].
+
+[Biología computacional en el cambio de década].
+
+544 -  Trends in computational biology: a summary based on a RECOMB plenary lecture, 1999.
+
+Tendencias en biología computacional: un resumen basado en una conferencia plenaria de RECOMB, 1999.
+
+545 -  Molecules to maps: tools for visualization and interaction in support of computational biology.
+
+Moléculas a mapas: herramientas de visualización e interacción en apoyo de la biología computacional.
+
+546 -  Computational biology of the heart: from structure to function.
+
+Biología computacional del corazón: de la estructura a la función.
+
+547 -  Computational biology instruction at the University of Washington Center for Bioengineering.
+
+Instrucción de biología computacional en el Centro de Bioingeniería de la Universidad de Washington.
+
+548 -  Parameterized complexity analysis in computational biology.
+
+Análisis de complejidad parametrizado en biología computacional.
+
+549 -  Ordering clone libraries in computational biology.
+
+Solicitud de bibliotecas de clones en biología computacional.
+
+550 -  Hidden Markov models in computational biology. Applications to protein modeling.
+
+Modelos ocultos de Markov en biología computacional. Aplicaciones al modelado de proteínas.
+
+551 -  Whither computational biology.
+
+Hacia dónde la biología computacional.
+
+552 -  Computational biology opportunity and challenges for the future.
+
+Oportunidades y desafíos de la biología computacional para el futuro.
+
+553 -  The 3rd Keck Symposium on Computational Biology. Houston, Texas, November 1-3, 1992. Abstracts.
+
+El 3er Simposio Keck sobre Biología Computacional. Houston, Texas, 1 al 3 de noviembre de 1992. Resúmenes.
+
