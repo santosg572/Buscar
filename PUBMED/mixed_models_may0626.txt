@@ -1,0 +1,694 @@
+Title: Null hypothesis significance testing vs. Bayesian inference using generalized linear mixed models with binary outcomes: a case study under practical design constraints.
+Title: Cardiac autonomic regulation across the menstrual cycle is highly individual: Evidence from phase-aligned cyclic generalized additive mixed models.
+Title: The role of social determinants of health in post-diagnosis gestational weight gain trajectories among women with gestational diabetes mellitus: a multicenter cohort using latent class linear mixed models.
+Title: Estimation of Genetic Variance and Breeding Values for Infectious Disease Susceptibility From Simulated Longitudinal Data Using Generalized Linear Mixed Models Based on Transmission Dynamics.
+Title: Characterising Heatwave Responses and Climate Driver Impacts Using Multicollinearity-Controlled Generalised Linear Mixed Models in Urban and Forest Trees (2018-2023).
+Title: Comparing Wastewater-Based and Case-Based 
+Title: Responses to GLP-1RA in White and Black Adults With Obesity: Insights From Generalized Additive Mixed Models of EHR Data.
+Title: Extending t linear mixed models for longitudinal data with non-ignorable dropout applied to AIDS studies.
+Title: Estimating and Interpreting Total eGFR Slope through Mixed Models.
+Title: Normative Data for Learning and Memory Test (TAMV-I) in Latin American and Spanish Children: An item response theory and linear mixed models approach.
+Title: Getting most out of ecotoxicological field data with generalized linear and additive mixed models: a 6-step analysis framework.
+Title: Network analysis of longitudinal electronic health records using linear mixed models.
+Title: plmmr: an R package to fit penalized linear mixed models for genome-wide association data with complex correlation structure.
+Title: Genetic variability and selection of natural populations of Campomanesia adamantium using REML/BLUP mixed models.
+Title: Bayesian Mixed Models Approach to Exploring Resilience: Impact of Stress on Subjective Health and Affects Over Time During the COVID-19 Pandemic.
+Title: When the outcome is compositional: A method for conducting compositional response linear mixed models for physical activity, sedentary behaviour and sleep research.
+Title: Multivariate mixed models accounting for don't know options in ordinal data.
+Title: Non-Linear Mixed Models for the Characterization of Growth Trajectory Measured by Ultrasound of 'San Pedreño' Creole Pig Breed From Colombia.
+Title: A Bayesian Two-Step Multiple Imputation Approach Based on Mixed Models for Missing EMA Data.
+Title: Cervical conization and high risk - HPV status changes in relation to menopause: a retrospective longitudinal study based on generalized additive mixed models.
+Title: Deep Mixture of Linear Mixed Models for Complex Longitudinal Data.
+Title: Analyzing Count Data in Single Case Experimental Designs with Generalized Linear Mixed Models: Does Serial Dependency Matter?
+Title: Is the General Factor of Personality an Entity? Testing Reflective, Formative, and Mixed Models of Polygenic Score Influence Using the English Longitudinal Study of Aging.
+Title: Association between daily variations in the levels of atmospheric O
+Title: Generalized additive mixed models to discern data-driven theoretically informed strategies for public brain, cognitive and mental health.
+Title: Power and sample size for reversible linear mixed models with clustering and longitudinality: GLIMMPSE Version 3.
+Title: Segmental External Load in Linear Running in Elite Futsal Players: A Multifactorial and Individual Variability Analysis Using Linear Mixed Models.
+Title: Dry needling is not superior to sham and/or no intervention for fibromyalgia when the trial is analyzed using the intention-to-treat principle and linear mixed models.
+Title: Monte Carlo approximation of the logarithm of the determinant of large matrices with applications for linear mixed models in quantitative genetics.
+Title: Neighborhood-level heterogeneity in childhood morbidity through generalized linear mixed models.
+Title: Joint variable selection in generalized linear mixed models with random regularized penalized quasi-likelihood technique.
+Title: Genomic Analysis of Reproductive Trait Divergence in Duroc and Yorkshire Pigs: A Comparison of Mixed Models and Selective Sweep Detection.
+Title: LiMMCov: An interactive research tool for efficiently selecting covariance structures in linear mixed models using insights from time series analysis.
+Title: msqrob2TMT: Robust Linear Mixed Models for Inferring Differential Abundant Proteins in Labeled Experiments With Arbitrarily Complex Design.
+Title: Sex-specific progression of Parkinson's disease: A longitudinal mixed-models analysis.
+Title: Improved Pharmacovigilance Signal Detection Using Bayesian Generalized Linear Mixed Models.
+Title: Toward interpretable expected goals modeling using Bayesian mixed models.
+Title: Investigating Stress and Coping Behaviors in African Green Monkeys (
+Title: The R2D2 prior for generalized linear mixed models.
+Title: Inferential procedures for random effects in generalized linear mixed models.
+Title: Vine copula mixed models for meta-analysis of diagnostic accuracy studies without a gold standard.
+Title: Multi-response phylogenetic mixed models: concepts and application.
+Title: Bayesian compositional generalized linear mixed models for disease prediction using microbiome data.
+Title: Accounting for relative age effect in sports performance assessment: Developing age-adjusted performance corridors using mixed models.
+Title: Modeling the relationships among technological properties of sheep individual animal factors, milk composition, and minerals using generalized additive mixed models.
+Title: Modeling spatio-temporal patterns in intensive binary time series eye-tracking data using Generalized Additive Mixed Models.
+Title: Multivariate contaminated normal linear mixed models applied to Alzheimer's disease study with censored and missing data.
+Title: Comparison of linear mixed models for genetic feather score analysis in laying hens kept in recurrent testing facilities.
+Title: Reliable crash analysis: Comparing biases and error rates of empirical Bayes before-after analyses to mixed-models.
+Title: Analyzing Gait Dynamics and Recovery Trajectory in Lower Extremity Fractures Using Linear Mixed Models and Gait Analysis Variables.
+Title: Exploring management and environment effects on edge-of-field phosphorus losses with linear mixed models.
+Title: Choice of Link Functions for Generalized Linear Mixed Models in Meta-Analyses of Proportions.
+Title: Analyzing the Effects of a Repeated Reading Intervention on Reading Fluency With Generalized Linear Mixed Models.
+Title: Using Generalized Linear Mixed Models in the Analysis of Count and Rate Data in Single-case Eperimental Designs: A Step-by-step Tutorial.
+Title: Hierarchical selection of genetic and gene by environment interaction effects in high-dimensional mixed models.
+Title: Unveiling the dynamics of postoperative edema in free flaps: A hyperspectral insight through linear mixed models.
+Title: Climatic determinants of monkeypox transmission: A multi-national analysis using generalized count mixed models.
+Title: Nonlinear mixed models and related approaches in infectious disease modeling: A systematic and critical review.
+Title: Knowledge and Misconceptions About the Causes of Disabilities and Functioning in Children and Preadolescents: Mixed-Models Analyses.
+Title: Incorporating sources of correlation between outcomes: An introduction to mixed models.
+Title: Governance matters: Exploring the impact of governance on routine immunization performance in 54 African countries: A 10-year (2012-2021) analysis using linear mixed models.
+Title: Understanding Learning from EEG Data: Combining Machine Learning and Feature Engineering Based on Hidden Markov Models and Mixed Models.
+Title: Matrix sketching framework for linear mixed models in association studies.
+Title: Pseudobulk with proper offsets has the same statistical properties as generalized linear mixed models in single-cell case-control studies.
+Title: Genetic divergence and truncation and simultaneous selection in inbred families (S
+Title: Theory of mind abilities during the course of bipolar disorder: A longitudinal study using mixed models.
+Title: glmmPen: High Dimensional Penalized Generalized Linear Mixed Models.
+Title: Maintaining the validity of inference from linear mixed models in stepped-wedge cluster randomized trials under misspecified random-effects structures.
+Title: Differential gene expression analysis of spatial transcriptomic experiments using spatial mixed models.
+Title: Application of factor analytic and spatial mixed models for the analysis of multi-environment trials in common bean (Phaseolus vulgaris L.) in Ethiopia.
+Title: Mixed models for repetitive measurements: the basics.
+Title: Flagging unusual clusters based on linear mixed models using weighted and self-calibrated predictors.
+Title: Prediction of Junior High School Students' Problematic Internet Use: The Comparison of Neural Network Models and Linear Mixed Models in Longitudinal Study.
+Title: Pairwise fitting of piecewise mixed models for the joint modeling of multivariate longitudinal outcomes, in a randomized crossover trial.
+Title: Efficient computation of high-dimensional penalized generalized linear mixed models by latent factor modeling of the random effects.
+Title: Multivariate probit linear mixed models for multivariate longitudinal binary data.
+Title: A boosting method to select the random effects in linear mixed models.
+Title: A Modern Approach to Stability Studies via Bayesian Linear Mixed Models Incorporating Auxiliary Effects.
+Title: Bayesian Semiparametric Longitudinal Inverse-Probit Mixed Models for Category Learning.
+Title: Modeling heart rate of individual and team manual handling with one hand using generalized additive mixed models.
+Title: Linear mixed models and latent growth curve models for group comparison studies contaminated by outliers.
+Title: Performance of Linear Mixed Models in Estimating Structural Rates of Glaucoma Progression Using Varied Random Effect Distributions.
+Title: Data aggregation can lead to biased inferences in Bayesian linear mixed models and Bayesian analysis of variance.
+Title: BulkLMM: Real-time genome scans for multiple quantitative traits using linear mixed models.
+Title: Fixed and random effect selections in generalized linear mixed models.
+Title: Insights to HIV-1 coreceptor usage by estimating HLA adaptation with Bayesian generalized linear mixed models.
+Title: Trauma Shaping the Psychopathological Correlates of Patients with Long-COVID: A 6-Months Longitudinal Study with Repeated Measures Mixed Models.
+Title: Evaluating tests for cluster-randomized trials with few clusters under generalized linear mixed models with covariate adjustment: A simulation study.
+Title: nlive: an R package to facilitate the application of the sigmoidal and random changepoint mixed models.
+Title: Regularized multi-trait multi-locus linear mixed models for genome-wide association studies and genomic selection in crops.
+Title: Examining individual learning patterns using generalised linear mixed models.
+Title: BG2: Bayesian variable selection in generalized linear mixed models with nonlocal priors for non-Gaussian GWAS data.
+Title: Classification of longitudinal profiles using semi-parametric nonlinear mixed models with P-Splines and the SAEM algorithm.
+Title: Incorporating Linear Mixed Models into GWAS of Kidney Function Decline.
+Title: Ultra-Fast Approximate Inference Using Variational Functional Mixed Models.
+Title: The use of generalized linear mixed models to investigate postmortem lipids in textiles.
+Title: Federated generalized linear mixed models for collaborative genome-wide association studies.
+Title: Type-I-error rate inflation in mixed models for repeated measures caused by ambiguous or incomplete model specifications.
+Title: Bayesian model selection for generalized linear mixed models.
+Title: On asymptotic distributions of several test statistics for familial relatedness in linear mixed models.
+Title: Genetic analysis of mixed models of fruit sugar-acid fractions in a cross between jujube (
+Title: Exposing the confounding in experimental designs to understand and evaluate them, and formulating linear mixed models for analyzing the data from a designed experiment.
+Title: BGWAS: Bayesian variable selection in linear mixed models with nonlocal priors for genome-wide association studies.
+Title: Stability analysis using mixed models: A critique of tolerance interval methods and a probabilistic solution.
+Title: An adjusted coefficient of determination (R
+Title: Issues with the expected information matrix of linear mixed models provided by popular statistical packages under missingness at random dropout.
+Title: M
+Title: nlive: an R Package to facilitate the application of the sigmoidal and random changepoint mixed models.
+Title: Changes in the length of speeches in the plays of William Shakespeare and his contemporaries: A mixed models approach.
+Title: Inference of differentially expressed genes using generalized linear mixed models in a pairwise fashion.
+Title: Heritability Estimation of Cognitive Phenotypes in the ABCD Study
+Title: Bayesian Analysis of Tweedie Compound Poisson Partial Linear Mixed Models with Nonignorable Missing Response and Covariates.
+Title: Longitudinal Modeling of Age-Dependent Latent Traits with Generalized Additive Latent and Mixed Models.
+Title: Linear mixed models for investigating effect modification in subgroup meta-analysis.
+Title: Using mixed models to examine the factors associated with intimate partner violence among married women in Pakistan.
+Title: Bayes Factors for Mixed Models: Perspective on Responses.
+Title: Streamlined Variational Inference for Linear Mixed Models with Crossed Random Effects.
+Title: Low-Dose Atropine Induces Changes in Ocular Biometrics in Myopic Children: Exploring Temporal Changes by Linear Mixed Models and Contribution to Treatment Effect by Mediation Analyses.
+Title: Understanding Child Wasting in Ethiopia: Cross-sectional Analysis of 2019 Ethiopian Demographic and Health Survey Data Using Generalized Linear Latent and Mixed Models.
+Title: Power for balanced linear mixed models with complex missing data processes.
+Title: Efficient penalized generalized linear mixed models for variable selection and genetic risk prediction in high-dimensional data.
+Title: A privacy-preserving and computation-efficient federated algorithm for generalized linear mixed models to analyze correlated electronic health records data.
+Title: Power and sample size analysis for longitudinal mixed models of health in populations exposed to environmental contaminants: a tutorial.
+Title: Mixed Models in Nonlinear Regression for Description of the Growth of Nelore Cattle.
+Title: Unpacking Habit With Bayesian Mixed Models: Dynamic Approach to Health Behaviors With Interchangeable Elements, Illustrated Through Multiple Sun Protection Behaviors.
+Title: Bayesian semiparametric Markov renewal mixed models for vocalization syntax.
+Title: Wildfire prediction using zero-inflated negative binomial mixed models: Application to Spain.
+Title: Dissecting Complex Traits Using Omics Data: A Review on the Linear Mixed Models and Their Application in GWAS.
+Title: Bayesian learners in gradient boosting for linear mixed models.
+Title: Heterogeneity in Response to MCT and Psychoeducation: A Feasibility Study Using Latent Class Mixed Models in First-Episode Psychosis.
+Title: Beyond ANOVA and MANOVA for repeated measures: Advantages of generalized estimated equations and generalized linear mixed models and its use in neuroscience research.
+Title: BLMM: Parallelised computing for big linear mixed models.
+Title: Modelling the impact of protein-kinase R allelic variant on HIV biomarkers trajectories by means of latent class mixed models.
+Title: A guidance of model selection for genomic prediction based on linear mixed models for complex traits.
+Title: Mixed models: an essential tool for non-independent data analysis.
+Title: Using the gravitational mixed models to analyze the impact of China's foreign direct investment along with The Belt and Road countries on trade flows.
+Title: Comparing mixed models and Random Forest association tests using naturalgwas and a Striped Bass SNP data set.
+Title: The Utility of Mixed Models in Sport Science: A Call for Further Adoption in Longitudinal Data Sets.
+Title: Marginal inference for hierarchical generalized linear mixed models with patterned covariance matrices using the Laplace approximation.
+Title: A Holistic Approach to Evaluating Linear and Non-Linear Mixed Models to Predict Phosphorus Retention in Growing and Finishing Pigs.
+Title: Generalized additive models to analyze nonlinear trends in biomedical longitudinal data using R: Beyond repeated measures ANOVA and linear mixed models.
+Title: Subset selection for linear mixed models.
+Title: Multivariate linear mixed models with censored and nonignorable missing outcomes, with application to AIDS studies.
+Title: Extending multivariate Student's- 
+Title: Analyzing dynamic species abundance distributions using generalized linear mixed models.
+Title: Investigating factors influencing takeout shopping demand under COVID-19: Generalized additive mixed models.
+Title: Bayesian mixed models for longitudinal genetic data: theory, concepts, and simulation studies.
+Title: Linear mixed models to handle missing at random data in trial-based economic evaluations.
+Title: The Importance of Random Slopes in Mixed Models for Bayesian Hypothesis Testing.
+Title: DLMM as a lossless one-shot algorithm for collaborative multi-site distributed linear mixed models.
+Title: Level-specific residuals and diagnostic measures, plots, and tests for random effects selection in multilevel and mixed models.
+Title: Trade-offs of Linear Mixed Models in Genome-Wide Association Studies.
+Title: Extend mixed models to multilayer neural networks for genomic prediction including intermediate omics data.
+Title: Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models.
+Title: Generalizability in mixed models: Lessons from corpus linguistics.
+Title: Rates of Glaucoma Progression Derived from Linear Mixed Models Using Varied Random Effect Distributions.
+Title: PBLMM: Peptide-based linear mixed models for differential expression analysis of shotgun proteomics data.
+Title: Mixed models for optimal saving with labor income risk and interest-rate risk.
+Title: Enhancing Toxicology Achievement by the VARK and the GRSLSS-mixed Models in Team-Based Learning.
+Title: Identifying cow - level factors and farm characteristics associated with locomotion scores in dairy cows using cumulative link mixed models.
+Title: Efficient ReML inference in variance component mixed models using a Min-Max algorithm.
+Title: Efficient integration of aggregate data and individual participant data in one-way mixed models.
+Title: Multiple linear regression and linear mixed models identify novel traits of salinity tolerance in Olea europaea L.
+Title: Protein intake and outcome of critically ill patients: analysis of a large international database using piece-wise exponential additive mixed models.
+Title: Scalable Predictions for Spatial Probit Linear Mixed Models Using Nearest Neighbor Gaussian Processes.
+Title: Gradient boosting for linear mixed models.
+Title: Multivariate generalized linear mixed models for continuous bounded outcomes: Analyzing the body fat percentage data.
+Title: Randomized quantile residuals for diagnosing zero-inflated generalized linear mixed models with applications to microbiome count data.
+Title: Estimation in multivariate 
+Title: Regional Differences in Various Risk Factors for Postpartum Depression: Applying Mixed Models to the PRAMS Dataset.
+Title: Parenting stress in caregiver-mediated interventions for toddlers with autism: An application of quantile regression mixed models.
+Title: Predicting clinical events using Bayesian multivariate linear mixed models with application to scleroderma.
+Title: Fisher Scoring for crossed factor linear mixed models.
+Title: Mixed Models for Repeated Measures Should Include Time-by-Covariate Interactions to Assure Power Gains and Robustness Against Dropout Bias Relative to Complete-Case ANCOVA.
+Title: REHE: Fast variance components estimation for linear mixed models.
+Title: Bayesian Semiparametric Longitudinal Drift-Diffusion Mixed Models for Tone Learning in Adults.
+Title: How temperature variation affects white-rot fungi mycelial growth dynamics: a nonlinear mixed models approach.
+Title: Plant Variety Selection Using Interaction Classes Derived From Factor Analytic Linear Mixed Models: Models With Independent Variety Effects.
+Title: Estimation and selection in linear mixed models with missing data under compound symmetric structure.
+Title: Including Distorted Specimens in Allometric Studies: Linear Mixed Models Account for Deformation.
+Title: Performance of Linear Mixed Models to Assess the Effect of Sustained Loading and Variable Temperature on Concrete Beams Strengthened with NSM-FRP.
+Title: Shrinkage estimation of fixed and random effects in linear quantile mixed models.
+Title: BinomiRare: A robust test for association of a rare genetic variant with a binary outcome for mixed models and any case-control proportion.
+Title: Gene-Based Association Testing of Dichotomous Traits With Generalized Functional Linear Mixed Models Using Extended Pedigrees: Applications to Age-Related Macular Degeneration.
+Title: High performance implementation of the hierarchical likelihood for generalized linear mixed models: an application to estimate the potassium reference range in massive electronic health records datasets.
+Title: MegaLMM: Mega-scale linear mixed models for genomic predictions with thousands of traits.
+Title: Examination of National Basketball Association (NBA) team values based on dynamic linear mixed models.
+Title: partR2: partitioning R
+Title: Bayesian Analysis of ANOVA and Mixed Models on the Log-Transformed Response Variable.
+Title: 
+Title: Penalized linear mixed models for structured genetic data.
+Title: Effects of comprehensive intervention on life quality among the elderly with Alzheimer Disease and their caregivers based on mixed models.
+Title: Report Quality of Generalized Linear Mixed Models in Psychology: A Systematic Review.
+Title: Estimating power in (generalized) linear mixed models: An open introduction and tutorial in R.
+Title: Exploring efficient linear mixed models to detect quantitative trait locus-by-environment interactions.
+Title: Random intercept and linear mixed models including heteroscedasticity in a logarithmic scale: Correction terms and prediction in the original scale.
+Title: Nonparametric machine learning for precision medicine with longitudinal clinical trials and Bayesian additive regression trees with mixed models.
+Title: Using Collaborative Mixed Models to Account for Imputation Uncertainty in Transcriptome-Wide Association Studies.
+Title: Mixed Models as a Tool for Comparing Groups of Time Series in Plant Sciences.
+Title: Nonlinear mixed models for characterization of growth trajectory of New Zealand rabbits raised in tropical climate.
+Title: A Novel Time-Activity Information-Sharing Approach Using Nonlinear Mixed Models for Patient-Specific Dosimetry with Reduced Imaging Time Points: Application in SPECT/CT After 
+Title: Scale mixture of skew-normal linear mixed models with within-subject serial dependence.
+Title: Information content of stepped wedge designs with unequal cluster-period sizes in linear mixed models: Informing incomplete designs.
+Title: Assessing individual and population variability in degenerative joint disease prevalence using generalized linear mixed models.
+Title: %polynova_2way: A SAS macro for implementation of mixed models for metabolomics data.
+Title: Zero-Inflated gaussian mixed models for analyzing longitudinal microbiome data.
+Title: Negative Binomial mixed models estimated with the maximum likelihood method can be used for longitudinal RNAseq data.
+Title: Linear mixed models with endogenous covariates: modeling sequential treatment effects with application to a mobile health study.
+Title: NBZIMM: negative binomial and zero-inflated mixed models, with application to microbiome/metagenomics data analysis.
+Title: Serial correlation structures in latent linear mixed models for analysis of multivariate longitudinal ordinal responses.
+Title: Bayesian variable selection in linear quantile mixed models for longitudinal data with application to macular degeneration.
+Title: A class of generalized linear mixed models adjusted for marginal interpretability.
+Title: Examining the time-varying association of negative affect and covariates with craving during treatment for prescription opioid dependence with two types of mixed models.
+Title: Improvement of mixed predictors in linear mixed models.
+Title: Negative binomial mixed models for analyzing longitudinal CD4 count data.
+Title: Statistical significance in high-dimensional linear mixed models.
+Title: SAIGEgds-an efficient statistical tool for large-scale PheWAS with mixed models.
+Title: CORE GREML for estimating covariance between random effects in linear mixed models for complex trait analyses.
+Title: Validation of the Raw National Aeronautics and Space Administration Task Load Index (NASA-TLX) Questionnaire to Assess Perceived Workload in Patient Monitoring Tasks: Pooled Analysis Study Using Mixed Models.
+Title: Dose-Response Mixed Models for Repeated Measures - a New Method for Assessment of Dose-Response.
+Title: Different approaches to characterize artificial breeding sites of Aedes aegypti using generalized linear mixed models.
+Title: Social Inequalities and Loneliness as Predictors of Ageing Well: A Trend Analysis Using Mixed Models.
+Title: Score-based tests for detecting heterogeneity in linear mixed models.
+Title: Meta-analysis of Proportions Using Generalized Linear Mixed Models.
+Title: Laplace approximation, penalized quasi-likelihood, and adaptive Gauss-Hermite quadrature for generalized linear mixed models: towards meta-analysis of binary outcome with sparse data.
+Title: Confidence, prediction, and tolerance in linear mixed models.
+Title: Beneath the surface: Unearthing within-person variability and mean relations with Bayesian mixed models.
+Title: Bayesian analysis of multivariate linear mixed models with censored and intermittent missing responses.
+Title: Investigating the effect of dependence between conditions with Bayesian Linear Mixed Models for motif activity analysis.
+Title: Estimation of group means in generalized linear mixed models.
+Title: Facial growth changes in a Colombian Mestizo population: An 18-year follow-up longitudinal study using linear mixed models.
+Title: Estimation of group means using Bayesian generalized linear mixed models.
+Title: The Relation between Hearing Loss and Smoking among Workers Exposed to Noise, Using Linear Mixed Models.
+Title: Efficient Estimation and Applications of Cross-Validated Genetic Predictions to Polygenic Risk Scores and Linear Mixed Models.
+Title: Generalized Linear Mixed Models with Gaussian Mixture Random Effects: Inference and Application.
+Title: Power and Sample Size for Fixed-Effects Inference in Reversible Linear Mixed Models.
+Title: Mixed Models Offer No Freedom from Degrees of Freedom.
+Title: LEVEL (Logical Explanations & Visualizations of Estimates in Linear mixed models): recommendations for reporting multilevel data and analyses.
+Title: Statistical modeling with litter as a random effect in mixed models to manage "intralitter likeness".
+Title: Effects of a comprehensive intervention on hypertension control in Chinese employees working in universities based on mixed models.
+Title: When siblings matter: Commentary on Golub and Sobin's 'Statistical modeling of litter as a random effect in mixed models to manage "intralitter likeness"'.
+Title: Litter effects: Comments on Golub and Sobin's "Statistical modeling of litter as a random effect in mixed models to manage "intralitter likeness"".
+Title: Native Language Influence on Brass Instrument Performance: An Application of Generalized Additive Mixed Models (GAMMs) to Midsagittal Ultrasound Images of the Tongue.
+Title: Longitudinal Data and Correlated Measures Bias: The Alternative of Mixed Models.
+Title: Location-scale mixed models and goodness-of-fit assessment applied to insect ecology.
+Title: Modeling perinatal mortality in twins via generalized additive mixed models: a comparison of estimation approaches.
+Title: Disentangling within- and between-patient effects of defensive functioning on psychotherapy outcome using mixed models.
+Title: Confidence, prediction, and tolerance in linear mixed models.
+Title: Bayesian model selection in linear mixed models for longitudinal data.
+Title: Empirical evaluation of the implementation of the EMA guideline on missing data in confirmatory clinical trials: Specification of mixed models for longitudinal data in study protocols.
+Title: Using bivariate linear mixed models to monitor the change in spatial distribution of heavy metals at the site of a historic landfill.
+Title: Multivariate-
+Title: Bayesian Semiparametric Functional Mixed Models for Serially Correlated Functional Data, with Application to Glaucoma Data.
+Title: Analysis of multisite intervention studies using generalized linear mixed models.
+Title: A hypothesis testing procedure for random changepoint mixed models.
+Title: Understanding correlates of child stunting in Ethiopia using generalized linear mixed models.
+Title: Use of nonlinear mixed models for describing testicular volume growth curve in Nellore bulls.
+Title: A coefficient of determination (R
+Title: Refining the Analysis of Mechanism-Outcome Relationships for Anxiety Treatment: A Preliminary Investigation Using Mixed Models.
+Title: Modeling Multiple Item Context Effects With Generalized Linear Mixed Models.
+Title: Correlates of Sexually Transmitted Infections Among South African Women Using Individual- and Community-Level Factors: Results from Generalized Additive Mixed Models.
+Title: Modelling spatio-temporal data of dengue fever using generalized additive mixed models.
+Title: Fast and flexible linear mixed models for genome-wide genetics.
+Title: Mobile road weather sensor calibration by sensor fusion and linear mixed models.
+Title: Genome-wide association multi-locus and multi-variate linear mixed models reveal two linked loci with major effects on partial resistance of apricot to bacterial canker.
+Title: A semi-parametric mixed models for longitudinally measured fasting blood sugar level of adult diabetic patients.
+Title: Population structure in genetic studies: Confounding factors and mixed models.
+Title: One-stage random effects meta-analysis using linear mixed models for aggregate continuous outcome data.
+Title: Linear mixed models for association analysis of quantitative traits with next-generation sequencing data.
+Title: Modeling physiological responses induced by an emotion recognition task using latent class mixed models.
+Title: Analysis Of Nociceptive Evoked Potentials During Multi-Stimulus Experiments Using Linear Mixed Models.
+Title: Flexible longitudinal linear mixed models for multiple censored responses data.
+Title: The effect of sowing time on the growth of chia (Salvia hispanica L.): What do nonlinear mixed models tell us about it?
+Title: Latent trait shared-parameter mixed models for missing ecological momentary assessment data.
+Title: Genome-Wide Expression Quantitative Trait Loci Analysis Using Mixed Models.
+Title: Computationally efficient methods for fitting mixed models to electronic health records data.
+Title: Negative Binomial Mixed Models for Analyzing Longitudinal Microbiome Data.
+Title: Human biomarker interpretation: the importance of intra-class correlation coefficients (ICC) and their calculations based on mixed models, ANOVA, and variance estimates.
+Title: PLmixed: An R Package for Generalized Linear Mixed Models With Factor Structures.
+Title: Heritability estimation and differential analysis of count data with generalized linear mixed models in genomic sequencing studies.
+Title: Hybrid copula mixed models for combining case-control and cohort studies in meta-analysis of diagnostic tests.
+Title: Meta-analysis of binary outcomes via generalized linear mixed models: a simulation study.
+Title: Nonlinear mixed models of growth curves from domestic shorthair cats in a breeding colony, housed in a seasonal facility to predict obesity.
+Title: Associations between maternal psychological distress and salivary cortisol during pregnancy: A mixed-models approach.
+Title: Association of paratuberculosis sero-status with milk production and somatic cell counts across 5 lactations, using multilevel mixed models, in dairy cows.
+Title: A Unified Analysis of Structured Sonar-terrain Data using Bayesian Functional Mixed Models.
+Title: The Evaluation of Bivariate Mixed Models in Meta-analyses of Diagnostic Accuracy Studies with SAS, Stata and R.
+Title: Patient Stratification Using Longitudinal Data - Application of Latent Class Mixed Models.
+Title: A comparison of approaches for simultaneous inference of fixed effects for multiple outcomes using linear mixed models.
+Title: Patient Involvement in Geriatric Care - Results and Experiences from a Mixed Models Design Study within Project INTEGRATE.
+Title: A D-vine copula-based model for repeated measurements extending linear mixed models with homogeneous correlation structure.
+Title: Using empirical Bayes predictors from generalized linear mixed models to test and visualize associations among longitudinal outcomes.
+Title: lme4qtl: linear mixed models with flexible covariance structure for genetic studies of related individuals.
+Title: Group-Level EEG-Processing Pipeline for Flexible Single Trial-Based Analyses Including Linear Mixed Models.
+Title: Multi-level mixed models for evaluating factors affecting the mortality and weaning weight of piglets in large-scale commercial farms in central China.
+Title: Developing constraint in Bayesian mixed models.
+Title: An Estimation of a Nonlinear Dynamic Process Using Latent Class Extended Mixed Models: Affect Profiles After Terrorist Attacks.
+Title: How Well Can Saliency Models Predict Fixation Selection in Scenes Beyond Central Bias? A New Approach to Model Evaluation Using Generalized Linear Mixed Models.
+Title: Adaptive SNP-Set Association Testing in Generalized Linear Mixed Models with Application to Family Studies.
+Title: Circadian rhythms of trematode parasites: applying mixed models to test underlying patterns.
+Title: Cis-SNPs Set Testing and PrediXcan Analysis for Gene Expression Data using Linear Mixed Models.
+Title: Factors increasing the risk for psychosocial stress among Korean adults living in rural areas: using generalized estimating equations and mixed models.
+Title: Quantile regression in linear mixed models: a stochastic approximation EM approach.
+Title: Bayesian imputation of time-varying covariates in linear mixed models.
+Title: Study of the association of atmospheric temperature and relative humidity with bulk tank milk somatic cell count in dairy herds using Generalized additive mixed models.
+Title: Patterns of periodontal disease progression based on linear mixed models of clinical attachment loss.
+Title: Prediction of genetic gains by selection indices using mixed models in elephant grass for energy purposes.
+Title: An Efficient Test for Gene-Environment Interaction in Generalized Linear Mixed Models with Family Data.
+Title: Sample size determination for multilevel hierarchical designs using generalized linear mixed models.
+Title: Of Uberfleas and Krakens: Detecting Trade-offs Using Mixed Models.
+Title: From acute to chronic back pain: Using linear mixed models to explore changes in pain intensity, disability, and depression.
+Title: Analyzing transition from acute back pain to chronic pain with linear mixed models reveals a continuous chronification of acute back pain.
+Title: Genotypic gain with simultaneous selection of production, nutrition, and culinary traits in cowpea crosses and backcrosses using mixed models.
+Title: Bayesian Piecewise Linear Mixed Models With a Random Change Point: An Application to BMI Rebound in Childhood.
+Title: Interpretation of mixed models and marginal models with cohort attrition due to death and drop-out.
+Title: Maize hybrid stability in environments under water restriction using mixed models and factor analysis.
+Title: Statistical Analysis of Zebrafish Locomotor Behaviour by Generalized Linear Mixed Models.
+Title: An attempt at predicting blood β-hydroxybutyrate from Fourier-transform mid-infrared spectra of milk using multivariate mixed models in Polish dairy cattle.
+Title: Selecting elephant grass families and progenies to produce bioenergy through mixed models (REML/BLUP).
+Title: Prediction of gene expression with cis-SNPs using mixed models and regularization methods.
+Title: A note on marginalization of regression parameters from mixed models of binary outcomes.
+Title: Inference on the Genetic Basis of Eye and Skin Color in an Admixed Population via Bayesian Linear Mixed Models.
+Title: Mixed models, linear dependency, and identification in age-period-cohort models.
+Title: Differential expression analysis for RNAseq using Poisson mixed models.
+Title: Multivariate-$t$ nonlinear mixed models with application to censored multi-outcome AIDS studies.
+Title: Fitting milk production curves through nonlinear mixed models.
+Title: A comparison of nonlinear mixed models and response to selection of tick-infestation on lambs.
+Title: A Variational Maximization-Maximization Algorithm for Generalized Linear Mixed Models with Crossed Random Effects.
+Title: A Community Needs Index for Adolescent Pregnancy Prevention Program Planning: Application of Spatial Generalized Linear Mixed Models.
+Title: Log-normal frailty models fitted as Poisson generalized linear mixed models.
+Title: Predicted Residual Error Sum of Squares of Mixed Models: An Application for Genomic Prediction.
+Title: Commentary on "Comparison of Postoperative Complications Associated With Anesthetic Choice for Surgery of the Hand" - Generalized Linear Mixed Models in Studies of Surgical Populations.
+Title: Negative binomial mixed models for analyzing microbiome count data.
+Title: Node-Splitting Generalized Linear Mixed Models for Evaluation of Inconsistency in Network Meta-Analysis.
+Title: Logistic Mixed Models to Investigate Implicit and Explicit Belief Tracking.
+Title: Including Rebinding Reactions in Well-Mixed Models of Distributive Biochemical Reactions.
+Title: A Note on Recurring Misconceptions When Fitting Nonlinear Mixed Models.
+Title: Multivariate Generalized Linear Mixed Models With Random Intercepts To Analyze Cardiovascular Risk Markers in Type-1 Diabetic Patients.
+Title: Selection of common bean genotypes for the Cerrado/Pantanal ecotone via mixed models and multivariate analysis.
+Title: Mixed models identify physic nut genotypes adapted to environments with different phosphorus availability.
+Title: Mixed models for selection of Jatropha progenies with high adaptability and yield stability in Brazilian regions.
+Title: Linked linear mixed models: A joint analysis of fixation locations and fixation durations in natural reading.
+Title: Modelling lactation curve for milk fat to protein ratio in Iranian buffaloes (Bubalus bubalis) using non-linear mixed models.
+Title: General Methods for Evolutionary Quantitative Genetic Inference from Generalized Mixed Models.
+Title: Flexible analysis of digital PCR experiments using generalized linear mixed models.
+Title: Clustering of soybean genotypes via Ward-MLM and ANNs associated with mixed models.
+Title: Predicting Endurance Time in a Repetitive Lift and Carry Task Using Linear Mixed Models.
+Title: Diagnosing misspecification of the random-effects distribution in mixed models.
+Title: Multikernel linear mixed models for complex phenotype prediction.
+Title: An update on modeling dose-response relationships: Accounting for correlated data structure and heterogeneous error variance in linear and nonlinear mixed models.
+Title: Successful by Chance? The Power of Mixed Models and Neutral Simulations for the Detection of Individual Fixed Heterogeneity in Fitness Components.
+Title: Modeling the oxygen uptake kinetics during exercise testing of patients with chronic obstructive pulmonary diseases using nonlinear mixed models.
+Title: Assessment of genetic divergence among coffee genotypes by Ward-MLM procedure in association with mixed models.
+Title: Simultaneous selection for cowpea (Vigna unguiculata L.) genotypes with adaptability and yield stability using mixed models.
+Title: Sigmoidal mixed models for longitudinal data.
+Title: Generalized Additive Mixed-Models for Pharmacology Using Integrated Discrete Multiple Organ Co-Culture.
+Title: Identifying genetically driven clinical phenotypes using linear mixed models.
+Title: Multiple testing correction in linear mixed models.
+Title: Modeling Learning in Doubly Multilevel Binary Longitudinal Data Using Generalized Linear Mixed Models: An Application to Measuring and Explaining Word Learning.
+Title: Control for Population Structure and Relatedness for Binary Traits in Genetic Association Studies via Logistic Mixed Models.
+Title: Delta method and bootstrap in linear mixed models to estimate a proportion when no event is observed: application to intralesional resection in bone tumor surgery.
+Title: A menu-driven software package of Bayesian nonparametric (and parametric) mixed models for regression analysis and density estimation.
+Title: Accounting for Population Structure in Gene-by-Environment Interactions in Genome-Wide Association Studies Using Mixed Models.
+Title: Factors Associated With Serum Albumin in Diabetes Mellitus Type 2 With Microalbuminuria Using Non-Normal Mixed Models: A Prospective Cohort Study.
+Title: Mitigating Bias in Generalized Linear Mixed Models: The Case for Bayesian Nonparametrics.
+Title: Application of linear mixed models to study genetic stability of height and body mass index across countries and time.
+Title: Analyzing Repeated Measurements Using Mixed Models.
+Title: Predicting energy expenditure from photo-plethysmographic measurements of heart rate under beta blocker therapy: Data driven personalization strategies based on mixed models.
+Title: Semiparametric Mixed Models for Nested Repeated Measures Applied to Ambulatory Blood Pressure Monitoring Data.
+Title: Using Generalized Linear Mixed Models to Evaluate Inconsistency within a Network Meta-Analysis.
+Title: Extending multivariate- t linear mixed models for multiple longitudinal data with censored responses and heavy tails.
+Title: Bayesian inference for generalized linear mixed models with predictors subject to detection limits: an approach that leverages information from auxiliary variables.
+Title: Effect of Smoothing in Generalized Linear Mixed Models on the Estimation of Covariance Parameters for Longitudinal Data.
+Title: The use of multiphase nonlinear mixed models to define and quantify long-term changes in serum prostate-specific antigen: data from the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial.
+Title: Multivariate test power approximations for balanced linear mixed models in studies with missing data.
+Title: Factor analysis using mixed models of multi-environment trials with different levels of unbalancing.
+Title: Identification of differentially methylated loci using wavelet-based functional mixed models.
+Title: Using generalized additive mixed models to assess spatial, temporal, and hydrologic controls on bacteria and nitrate in a vulnerable agricultural aquifer.
+Title: Functional Additive Mixed Models.
+Title: QUANTILE REGRESSION FOR MIXED MODELS WITH AN APPLICATION TO EXAMINE BLOOD PRESSURE TRENDS IN CHINA.
+Title: To transform or not to transform: using generalized linear mixed models to analyse reaction time data.
+Title: Estimating a graphical intra-class correlation coefficient (GICC) using multivariate probit-linear mixed models.
+Title: Approximate testing in two-stage nonlinear mixed models.
+Title: Mixed models approaches for joint modeling of different types of responses.
+Title: Analysis of multivariate longitudinal kidney function outcomes using generalized linear mixed models.
+Title: Identifying molecular features associated with psychoneurological symptoms in women with breast cancer using multivariate mixed models.
+Title: Risk Adjustment for Lumbar Dysfunction: Comparison of Linear Mixed Models With and Without Inclusion of Between-Clinic Variation as a Random Effect.
+Title: Multi-disease analysis of maternal antibody decay using non-linear mixed models accounting for censoring.
+Title: Power analysis for generalized linear mixed models in ecology and evolution.
+Title: A re-formulation of generalized linear mixed models to fit family data in genetic association studies.
+Title: Generalized linear mixed models for multi-reader multi-case studies of diagnostic tests.
+Title: Rubber yield prediction by meteorological conditions using mixed models and multi-model inference techniques.
+Title: Modeling forest fire occurrences using count-data mixed models in Qiannan autonomous prefecture of Guizhou province in China.
+Title: Prediction of forest fires occurrences with area-level Poisson mixed models.
+Title: Enhancing the interpretation of statistical P values in toxicology studies: implementation of linear mixed models (LMMs) and standardized effect sizes (SESs).
+Title: High-Performance Mixed Models Based Genome-Wide Association Analysis with omicABEL software.
+Title: Automatic quantitative analysis of ultrasound tongue contours via wavelet-based functional mixed models.
+Title: On estimating and testing associations between random coefficients from multivariate generalized linear mixed models of longitudinal outcomes.
+Title: Semiparametric Mixed Models for Medical Monitoring Data: An Overview.
+Title: A goodness-of-fit test for the random-effects distribution in mixed models.
+Title: Analysis of baseline, average, and longitudinally measured blood pressure data using linear mixed models.
+Title: Single-marker and multi-marker mixed models for polygenic score analysis in family-based data.
+Title: Selection of sugar cane full-sib families using mixed models and ISSR markers.
+Title: Detection of genomic loci associated with environmental variables using generalized linear mixed models.
+Title: Augmented mixed models for clustered proportion data.
+Title: Estimate of influenza cases using generalized linear, additive and mixed models.
+Title: Methodological quality and reporting of generalized linear mixed models in clinical medicine (2000-2012): a systematic review.
+Title: Further improvements to linear mixed models for genome-wide association studies.
+Title: Factor analytic mixed models for the provision of grower information from national crop variety testing programs.
+Title: Effective genetic-risk prediction using mixed models.
+Title: Variable selection in Bayesian generalized linear-mixed models: an illustration using candidate gene case-control association studies.
+Title: Use of generalized linear mixed models for network meta-analysis.
+Title: Semiparametric estimation in generalized linear mixed models with auxiliary covariates: a pairwise likelihood approach.
+Title: Warped linear mixed models for the genetic analysis of transformed phenotypes.
+Title: Goodness of Fit Tests for Linear Mixed Models.
+Title: Efficiency of circulant diallels via mixed models in the selection of papaya genotypes resistant to foliar fungal diseases.
+Title: Effects of time-invariant covariates on the estimation of longitudinal trends for transition mixed models.
+Title: Short communication: alteration of priors for random effects in Gaussian linear mixed models.
+Title: Using the theory of added-variable plot for linear mixed models to decompose genetic effects in family data.
+Title: Testing hypotheses in ecoimmunology using mixed models: disentangling hierarchical correlations.
+Title: Use of robust multivariate linear mixed models for estimation of genetic parameters for carcass traits in beef cattle.
+Title: Genetic parameters for feather pecking and aggressive behavior in a large F2-cross of laying hens using generalized linear mixed models.
+Title: SNP_NLMM: A SAS Macro to Implement a Flexible Random Effects Density for Generalized Linear and Nonlinear Mixed Models.
+Title: Bayesian inferences for beta semiparametric-mixed models to analyze longitudinal neuroimaging data.
+Title: Detecting the violation of variance homogeneity in mixed models.
+Title: Using generalized additive (mixed) models to analyze single case designs.
+Title: Estimating marginal properties of quantitative real-time PCR data using nonlinear mixed models.
+Title: Generalized linear mixed models for binary data: are matching results from penalized quasi-likelihood and numerical integration less biased?
+Title: Linear mixed models for multiple outcomes using extended multivariate skew-t distributions.
+Title: Genetic analysis of resistance to Pseudomonas syringae pv. actinidiae (Psa) in a kiwifruit progeny test: an application of generalised linear mixed models (GLMMs).
+Title: Spatial generalised linear mixed models based on distances.
+Title: Linear score tests for variance components in linear mixed models and applications to genetic association studies.
+Title: Quality control of Platinum Spike dataset by probe-level mixed models.
+Title: Composite interval mapping and mixed models reveal QTL associated with performance and carcass traits on chicken chromosomes 1, 3, and 4.
+Title: Clustering in linear-mixed models with a group fused lasso penalty.
+Title: Modeling continuous self-report measures of perceived emotion using generalized additive mixed models.
+Title: A corrected formulation for marginal inference derived from two-part mixed models for longitudinal semi-continuous data.
+Title: Application of zero-inflated poisson mixed models in prognostic factors of hepatitis C.
+Title: The multivariate egg: quantifying within- and among-clutch correlations between maternally derived yolk immunoglobulins and yolk androgens using multivariate mixed models.
+Title: Assessing intervention efficacy on high-risk drinkers using generalized linear mixed models with a new class of link functions.
+Title: Generalized additive mixed models for disentangling long-term trends, local anomalies, and seasonality in fruit tree phenology.
+Title: Should we rely on the Kenward-Roger approximation when using linear mixed models if the groups have different distributions?
+Title: A Study of Mexican Free-Tailed Bat Chirp Syllables: Bayesian Functional Mixed Models for Nonstationary Acoustic Time Series.
+Title: Generalized linear mixed models can detect unimodal species-environment relationships.
+Title: An assessment of estimation methods for generalized linear mixed models with binary outcomes.
+Title: Estimating preferential flow in karstic aquifers using statistical mixed models.
+Title: Multivariate t linear mixed models for irregularly observed multiple repeated measures with missing outcomes.
+Title: The benefits of selecting phenotype-specific variants for applications of mixed models in genomics.
+Title: Bayesian analysis of multivariate mixed models for a prospective cohort study using skew-elliptical distributions.
+Title: Bayesian inference of mixed models in quantitative genetics of crop species.
+Title: Testing for associations between loci and environmental gradients using latent factor mixed models.
+Title: JAWAMix5: an out-of-core HDF5-based java implementation of whole-genome association studies using mixed models.
+Title: Completeness and satisfaction with the education and information received by patients immediately after kidney transplant: a mixed-models study.
+Title: Joint modeling of multiple longitudinal cost outcomes using multivariate generalized linear mixed models.
+Title: Patterns of daily duration and frequency of breastfeeding among exclusively breastfed infants in Shiraz, Iran, a 6-month follow-up study using Bayesian generalized linear mixed models.
+Title: Mixed models can correct for population structure for genomic regions under selection.
+Title: Polygenic modeling with bayesian sparse linear mixed models.
+Title: The gradient function as an exploratory goodness-of-fit assessment of the random-effects distribution in mixed models.
+Title: The effect of skewness and kurtosis on the robustness of linear mixed models.
+Title: Resources allocation in healthcare for cancer: a case study using generalised additive mixed models.
+Title: Estimation of covariate effects in generalized linear mixed models with a misspecified distribution of random intercepts and slopes.
+Title: MOMENT-BASED METHOD FOR RANDOM EFFECTS SELECTION IN LINEAR MIXED MODELS.
+Title: Misspecification of the covariance structure in generalized linear mixed models.
+Title: Adjusting for confounding by neighborhood using generalized linear mixed models and complex survey data.
+Title: Using skew-symmetric mixed models for investigating the effect of different diabetic macular edema treatments by analyzing central macular thickness and visual acuity responses.
+Title: The use of two-way linear mixed models in multitreatment meta-analysis.
+Title: Penalized likelihood estimation for semiparametric mixed models, with application to alcohol treatment research.
+Title: Generalized Linear and Mixed Models for Label-Free Shotgun Proteomics.
+Title: Conditional Akaike information under generalized linear and proportional hazards mixed models.
+Title: Simulation of longitudinal exposure data with variance-covariance structures based on mixed models.
+Title: A new analytical approach to landscape genetic modelling: least-cost transect analysis and linear mixed models.
+Title: Ancestral haplotype-based association mapping with generalized linear mixed models accounting for stratification.
+Title: Skew-normal/independent linear mixed models for censored responses with applications to HIV viral loads.
+Title: Robust classification of functional and quantitative image data using functional mixed models.
+Title: Improved linear mixed models for genome-wide association studies.
+Title: An introduction to mixed models and joint modeling: analysis of valve function over time.
+Title: Estimating covariation between vital rates: a simulation study of connected vs. separate generalized linear mixed models (GLMMs).
+Title: Generalized linear mixed models for mapping multiple quantitative trait loci.
+Title: Regularization for generalized additive mixed models by likelihood-based boosting.
+Title: Longitudinal structural mixed models for the analysis of surgical trials with noncompliance.
+Title: Non-linear mixed models in the analysis of mediated longitudinal data with binary outcomes.
+Title: An Overview of Current Software Procedures for Fitting Linear Mixed Models.
+Title: Testing the effectiveness of community-based dengue vector control interventions using semiparametric mixed models.
+Title: Statistical Analysis of Patient-Specific Pathway Activities via Mixed Models.
+Title: Age- and region-specific hepatitis B prevalence in Turkey estimated using generalized linear mixed models: a systematic review.
+Title: Solutions for Determining the Significance Region Using the Johnson-Neyman Type Procedure in Generalized Linear (Mixed) Models.
+Title: Simple estimation and test procedures in capture-mark-recapture mixed models.
+Title: Permutation tests for random effects in linear mixed models.
+Title: FaST linear mixed models for genome-wide association studies.
+Title: Twice random, once mixed: applying mixed models to simultaneously analyze random effects of language and participants.
+Title: Use of Maximum Likelihood-Mixed Models to select stable reference genes: a case of heat stress response in sheep.
+Title: The use of semiparametric mixed models to analyze PamChip(R) peptide array data: an application to an oncology experiment.
+Title: Sparse Variational Analysis of Linear Mixed Models for Large Data Sets.
+Title: A note on type II error under random effects misspecification in generalized linear mixed models.
+Title: The use of mixed models for the analysis of mediated data with time-dependent predictors.
+Title: Mixed models for data from thorough QT studies: part 1. assessment of marginal QT prolongation.
+Title: Estimation of covariate effects in generalized linear mixed models with informative cluster sizes.
+Title: Statistical inference in mixed models and analysis of twin and family data.
+Title: Longitudinal data analyses using linear mixed models in SPSS: concepts, procedures and illustrations.
+Title: A Life Course Perspective on Health Trajectories and Transitions
+Title: AUTOMATED ANALYSIS OF QUANTITATIVE IMAGE DATA USING ISOMORPHIC FUNCTIONAL MIXED MODELS, WITH APPLICATION TO PROTEOMICS DATA.
+Title: Increased power of mixed models facilitates association mapping of 10 loci for metabolic traits in an isolated population.
+Title: Analysis of yield and oil from a series of canola breeding trials. Part I. Fitting factor analytic mixed models with pedigree information.
+Title: Mixed models for data from thorough QT studies: part 2. One-step assessment of conditional QT prolongation.
+Title: [Application of nonlinear mixed models in Logistic regression with random effect in clinical trials].
+Title: Linear mixed models for skew-normal/independent bivariate responses with an application to periodontal disease.
+Title: Robust linear mixed models using the skew t distribution with application to schizophrenia data.
+Title: Multi-environment QTL mapping in blackcurrant (Ribes nigrum L.) using mixed models.
+Title: Use of linear mixed models for genetic evaluation of gestation length and birth weight allowing for heavy-tailed residual effects.
+Title: Extended Bayesian model averaging in generalized linear mixed models applied to schizophrenia family data.
+Title: Modeling continuous auxiliary covariate data in generalized linear mixed models using the kernel smoother.
+Title: Individual heterogeneity in studies on marked animals using numerical integration: capture-recapture mixed models.
+Title: Testing for misspecification in generalized linear mixed models.
+Title: Searching for recursive causal structures in multivariate quantitative genetics mixed models.
+Title: To GEE or not to GEE: comparing population average and mixed models for estimating the associations between neighborhood risk factors and health.
+Title: Wavelet-based functional linear mixed models: an application to measurement error-corrected distributed lag models.
+Title: Modeling relationships between calving traits: a comparison between standard and recursive mixed models.
+Title: Spatial Linear Mixed Models with Covariate Measurement Errors.
+Title: Experimental Effects and Individual Differences in Linear Mixed Models: Estimating the Relationship between Spatial, Object, and Attraction Effects in Visual Attention.
+Title: Pattern-mixture zero-inflated mixed models for longitudinal unbalanced count data with excessive zeros.
+Title: Different models and single-nucleotide polymorphisms signal the simulated weak gene-gene interaction for a quantitative trait using haplotype-based and mixed models testing.
+Title: Bayesian inference for generalized linear mixed models.
+Title: Bivariate random effects meta-analysis of diagnostic studies using generalized linear mixed models.
+Title: Markov and semi-Markov switching linear mixed models used to identify forest tree growth components.
+Title: Bayesian analysis of growth curves using mixed models defined by stochastic differential equations.
+Title: Flexibility of Bayesian generalized linear mixed models for oral health research.
+Title: Categorical Data Analysis: Away from ANOVAs (transformation or not) and towards Logit Mixed Models.
+Title: Technical note: an R package for fitting generalized linear mixed models in animal breeding.
+Title: A generalized concordance correlation coefficient based on the variance components generalized linear mixed models for overdispersed count data.
+Title: Linear mixed models for replication data to efficiently allow for covariate measurement error.
+Title: Analyzing longitudinal data with the linear mixed models procedure in SPSS.
+Title: Assessing heterogeneity in the relationship between wheat yield and Fusarium head blight intensity using random-coefficient mixed models.
+Title: Last observation carried forward versus mixed models in the analysis of psychiatric clinical trials.
+Title: Varying cluster sizes in trials with clusters in one treatment arm: sample size adjustments when testing treatment effects with linear mixed models.
+Title: Conclusions beyond support: overconfident estimates in mixed models.
+Title: Nonlinear mixed models to study metabolizable energy utilization in broiler breeder hens.
+Title: Bayesian inference in semiparametric mixed models for longitudinal data.
+Title: Variable selection for semiparametric mixed models in longitudinal studies.
+Title: USING PROFILE LIKELIHOOD FOR SEMIPARAMETRIC MODEL SELECTION WITH APPLICATION TO PROPORTIONAL HAZARDS MIXED MODELS.
+Title: Generalized linear mixed models: a practical guide for ecology and evolution.
+Title: Bias in 2-part mixed models for longitudinal semicontinuous data.
+Title: Mixed models showed no need for initial response monitoring after starting antihypertensive therapy.
+Title: Optimal designs for one- and two-color microarrays using mixed models: a comparative evaluation of their efficiencies.
+Title: Potential of maize single-cross hybrids for extraction of inbred lines using the mean components and mixed models with microsatellite marker information.
+Title: Optimal designs for empirical bayes estimators of individual linear and quadratic growth curves in linear mixed models.
+Title: Application of semiparametric mixed models and simultaneous confidence bands in a cardiovascular safety experiment with longitudinal data.
+Title: An integrated approach for the analysis of biological pathways using mixed models.
+Title: Improving 2D-DIGE protein expression analysis by two-stage linear mixed models: assessing experimental effects in a melanoma cell study.
+Title: Meta-analysis of the relative efficiency of methionine-hydroxy-analogue-free-acid compared with DL-methionine in broilers using nonlinear mixed models.
+Title: Diagnosis of random-effect model misspecification in generalized linear mixed models for binary response.
+Title: Multi-environment QTL mixed models for drought stress adaptation in wheat.
+Title: Analysis of cross-over designs with serial correlation within periods using semi-parametric mixed models.
+Title: Generalizability in nongaussian longitudinal clinical trial data based on generalized linear mixed models.
+Title: Extension of the SAEM algorithm for nonlinear mixed models with 2 levels of random effects.
+Title: Estimation and testing for the effect of a genetic pathway on a disease outcome using logistic kernel machine regression via logistic mixed models.
+Title: Modeling of salivary production recovery after radiotherapy using mixed models: determination of optimal dose constraint for IMRT planning and construction of convenient tools to predict salivary function.
+Title: Bayes factor between Student t and Gaussian mixed models within an animal breeding context.
+Title: Cluster detection based on spatial associations and iterated residuals in generalized linear mixed models.
+Title: Genome-wide association mapping using mixed-models: application to GAW15 Problem 3.
+Title: Rheumatoid arthritis, item response theory, Blom transformation, and mixed models.
+Title: Sample size and power calculations based on generalized linear mixed models with correlated binary outcomes.
+Title: Deliberate practice predicts performance over time in adolescent chess players and drop-outs: a linear mixed models analysis.
+Title: Assessing influence for pharmaceutical data in zero-inflated generalized Poisson mixed models.
+Title: Linear mixed models for longitudinal shape data with applications to facial modeling.
+Title: Mitochondrial sequence data and Dipsacales phylogeny: mixed models, partitioned Bayesian analyses, and model selection.
+Title: Mixed models for ordinal data: a pharmacokinetic study on the effectiveness of drug for the reduction of epileptic seizures.
+Title: Testing polynomial covariate effects in linear and generalized linear mixed models.
+Title: Estimation using penalized quasilikelihood and quasi-pseudo-likelihood in Poisson mixed models.
+Title: Semiparametric regression of multidimensional genetic pathway data: least-squares kernel machines and linear mixed models.
+Title: The impact of a misspecified random-effects distribution on the estimation and the performance of inferential procedures in generalized linear mixed models.
+Title: Generalized linear mixed models: a review and some extensions.
+Title: Conditional mixed models with crossed random effects.
+Title: The effect of dropout on the efficiency of D-optimal designs of linear mixed models.
+Title: Bayesian analysis of mass spectrometry proteomic data using wavelet-based functional mixed models.
+Title: Spectral measures and mixed models as valuable tools for investigating controls on land surface phenology in high arctic Greenland.
+Title: Estimation and prediction in linear mixed models with skew-normal random effects for longitudinal data.
+Title: Two-stage functional mixed models for evaluating the effect of longitudinal covariate profiles on a scalar outcome.
+Title: Using linear mixed models for normalization of cDNA microarrays.
+Title: Residual analysis for linear mixed models.
+Title: Streamlined variance calculations for semiparametric mixed models.
+Title: Efficient estimation for patient-specific rates of disease progression using nonnormal linear mixed models.
+Title: Type I and Type II error under random-effects misspecification in generalized linear mixed models.
+Title: Bayesian generalized monotonic functional mixed models for the effects of radiation dose histograms on normal tissue complications.
+Title: A note on permutation tests for variance components in multilevel generalized linear mixed models.
+Title: Use of generalized linear mixed models to examine the association between air pollution and health outcomes.
+Title: Statistical tests with accurate size and power for balanced linear mixed models.
+Title: The effect of miss-specified baseline characteristics on inference for longitudinal trends in linear mixed models.
+Title: Internal pilots for a class of linear mixed models with Gaussian and compound symmetric data.
+Title: Low-rank scale-invariant tensor product smooths for generalized additive mixed models.
+Title: Using Wavelet-Based Functional Mixed Models to Characterize Population Heterogeneity in Accelerometer Profiles: A Case Study.
+Title: A boosting approach to flexible semiparametric mixed models.
+Title: The statistical performance of an MCF-7 cell culture assay evaluated using generalized linear mixed models and a score test.
+Title: Statistical inference in generalized linear mixed models: a review.
+Title: Technical note: estimating statistical power of mixed models used in dairy nutrition experiments.
+Title: RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models.
+Title: Bayesian covariance selection in generalized linear mixed models.
+Title: Pairwise fitting of mixed models for the joint modeling of multivariate longitudinal profiles.
+Title: QTL methodology for response curves on the basis of non-linear mixed models, with an illustration to senescence in potato.
+Title: Prediction of missing values in microarray and use of mixed models to evaluate the predictors.
+Title: Wavelet-based functional mixed models.
+Title: Flexible modeling via a hybrid estimation scheme in generalized mixed models for longitudinal data.
+Title: Bayesian mixed models and the phylogeny of pitvipers (Viperidae: Serpentes).
+Title: Mixed models and empirical bayes estimation for retrospective exposure assessment of dust exposures in Canadian sawmills.
+Title: On analyzing circadian rhythms data using nonlinear mixed models with harmonic terms.
+Title: Goodness-of-fit methods for generalized linear mixed models.
+Title: Model comparison of generalized linear mixed models.
+Title: A robust approach to t linear mixed models applied to multiple sclerosis data.
+Title: Tutorial in biostatistics: spline smoothing with linear mixed models.
+Title: Mixed models incorporating intra-familial correlation through spatial autoregression.
+Title: Analyzing multi-environment variety trials using randomization-derived mixed models.
+Title: Estimation of linear mixed models with a mixture of distribution for the random effects.
+Title: Conditional likelihood score functions for mixed models in linkage analysis.
+Title: Mixed models applied to the study of variation of grower-finisher mortality and culling rates of a large swine production system.
+Title: Comment on: Assessing surrogates as trial endpoints using mixed models.
+Title: Analysis of oligonucleotide array experiments with repeated measures using mixed models.
+Title: The use of linear mixed models to estimate variance components from data on twin pairs by maximum likelihood.
+Title: Evaluation of community-intervention trials via generalized linear mixed models.
+Title: A general approach to mixed effects modeling of residual variances in generalized linear mixed models.
+Title: Joint analysis of multiple cDNA microarray studies via multivariate mixed models applied to genetic improvement of beef cattle.
+Title: Assessing surrogates as trial endpoints using mixed models.
+Title: Conditional mixed models adjusting for non-ignorable drop-out with administrative censoring in longitudinal studies.
+Title: Mixed models for the analysis of replicated spatial point patterns.
+Title: Biostatistics 301A. Repeated measurement analysis (mixed models).
+Title: Mixed models for longitudinal left-censored repeated measures.
+Title: Generalized linear mixed models with varying coefficients for longitudinal data.
+Title: Comparison of Li-Wong and loglinear mixed models for the statistical analysis of oligonucleotide arrays.
+Title: Applying linear mixed models to estimate reliability in clinical trial data with repeated measurements.
+Title: Analysis of gene x environment interactions in sibships using mixed models.
+Title: Random effects selection in linear mixed models.
+Title: A generalized linear mixed models approach for detecting incident clusters of disease in small areas, with an application to biological terrorism.
+Title: EM-REML estimation of covariance parameters in Gaussian mixed models for longitudinal data analysis.
+Title: A Monte Carlo EM algorithm for generalized linear mixed models with flexible random effects distribution.
+Title: Linkage and association studies of QTL for nuclear families by mixed models.
+Title: Hypothesis testing in semiparametric additive mixed models.
+Title: MrBayes 3: Bayesian phylogenetic inference under mixed models.
+Title: Mixed models: getting the best use of parasitological data.
+Title: Mixed models for assessing correlation in the presence of replication.
+Title: A note on genetic variance components in mixed models.
+Title: Uising WinBUGS to fit nonlinear mixed models with an application to pharmacokinetic modelling of insulin response to glucose challenge in sheep exposed antenatally to glucocorticoids.
+Title: Association studies of QTL for multi-allele markers by mixed models.
+Title: An evaluation of the U.S. Department of Agriculture food security measure with generalized linear mixed models.
+Title: Rank-based tests for non-inferiority and equivalence hypotheses in multi-centre clinical trials using mixed models.
+Title: Correcting for nonrandom ascertainment in generalized linear mixed models (GLMMs), fitted using Gibbs sampling.
+Title: Analysis of whole-genome microarray replicates using mixed models.
+Title: Marginally specified generalized linear mixed models: a robust approach.
+Title: Bivariate linear mixed models using SAS proc MIXED.
+Title: Physiological response curve analysis using nonlinear mixed models.
+Title: Strip-plot designs, mixed models, and comparisons between linear and non-linear models for microtitre plate bioassays.
+Title: Bayesian prediction of spatial count data using generalized linear mixed models.
+Title: Spatial modeling using mixed models: an ecologic study of visceral leishmaniasis in Teresina, Piauí State, Brazil.
+Title: Dynamic conditionally linear mixed models for longitudinal data.
+Title: On estimation and prediction for spatial generalized linear mixed models.
+Title: Evaluation of Generalized Linear Mixed Models for Analyzing Disease Incidence Data Obtained in Designed Experiments.
+Title: Discovering subpopulation structure with latent class mixed models.
+Title: Local influence to detect influential data structures for generalized linear mixed models.
+Title: Analyzing variety by environment data using multiplicative mixed models and adjustments for spatial field trend.
+Title: Assessing gene significance from cDNA microarray expression data via mixed models.
+Title: Statistical measures of foetal growth using linear mixed models applied to the foetal origins hypothesis.
+Title: Linear mixed models with flexible distributions of random effects for longitudinal data.
+Title: Meta-analysis using linear mixed models.
+Title: Use of generalized linear mixed models in the spatial analysis of small-area malaria incidence rates in Kwazulu Natal, South Africa.
+Title: Fitting a regression model for genotype-by-environment data on heading dates in grasses by methods for nonlinear mixed models.
+Title: Use of linear mixed models to detect irregular fetal growth.
+Title: Mixed models and multiple comparisons in analysis of human neurochemical maps.
+Title: Variance components analysis for pedigree-based censored survival data using generalized linear mixed models (GLMMs) and Gibbs sampling in BUGS.
+Title: Application of mixed models to assess exposures monitored by construction workers during hot processes.
+Title: Genetic analysis of fertility in dairy cattle using negative binomial mixed models.
+Title: Multivariate linear mixed models for multiple outcomes.
+Title: [Inheritance of quantitative traits in hybrid pedigrees: mixed models].
+Title: Genetic variance components analysis for binary phenotypes using generalized linear mixed models (GLMMs) and Gibbs sampling.
+Title: A discriminant analysis extension to mixed models.
+Title: Generalised linear mixed models analysis of risk factors for contamination of Danish broiler flocks with Salmonella typhimurium.
+Title: Generalized linear mixed models for meta-analysis.
+Title: Problematic formulations of SAS PROC.MIXED models for repeated measurements.
+Title: A semi-parametric Bayesian approach to generalized linear mixed models.
+Title: The detection of residual serial correlation in linear mixed models.
+Title: Local influence in linear mixed models.
+Title: Generalized linear mixed models in dairy cattle breeding.
+Title: Use of generalized linear mixed models in analyzing mutant frequency data from the transgenic mouse assay.
+Title: An example of using mixed models and PROC MIXED for longitudinal data.
+Title: Linear mixed models with heterogeneous within-cluster variances.
+Title: Mixed models for bivariate response repeated measures data using Gibbs sampling.
+Title: A modified EM algorithm for estimation in generalized mixed models.
+Title: Monte Carlo estimation of mixed models for large complex pedigrees.
+Title: A comparison of normal and nonnormal mixed models for number of lambs born in Norwegian sheep.
+Title: The application of large Gaussian mixed models to the analysis of 24 hour ambulatory blood pressure monitoring data in clinical trials.
+Title: Technical note: computing tests of fixed effects in a restricted class of mixed models.
+Title: Extended pedigree patterned covariance matrix mixed models for quantitative phenotype analysis.
+Title: Efficient computation of patterned covariance matrix mixed models in quantitative segregation analysis.
+Title: Restricted Maximum Likelihood to estimate variance components for mixed models with two random factors.
+Title: Effects of culling on sire evaluations by mixed models.
+Title: Maximum likelihood estimation by counting methods under polygenic and mixed models in human pedigrees.
+Title: Mixed models of alcoholism. Definitions, etiology, treatment and prognosis in health education textbooks.
+Title: Computer simulation of directional selection in large populations. II. The additive x additive and mixed models.

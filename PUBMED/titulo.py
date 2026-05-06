@@ -1,8 +1,12 @@
+import sys
 from pymed import PubMed
+
+palabra = sys.argv[1]
 
 # Initialize the PubMed client
 # Note: You must provide a valid tool name and email for the PubMed API
 pubmed = PubMed(tool="MyPubMedSearcher", email="my@email.address")
+
 
 # Perform a query
 #results = pubmed.query("parkinson[Title]", max_results=5000)
@@ -16,7 +20,9 @@ pubmed = PubMed(tool="MyPubMedSearcher", email="my@email.address")
 #results = pubmed.query("computational biology[Title]", max_results=5000)
 #results = pubmed.query("built environments[Title]", max_results=5000)
 #results = pubmed.query("sleep quality[Title]", max_results=5000)
-results = pubmed.query("mixed models[Title]", max_results=5000)  
+
+palabra = palabra+"[Title]"
+results = pubmed.query(palabra, max_results=5000)  
 
 
 # Loop through the results

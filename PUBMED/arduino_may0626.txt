@@ -1,0 +1,117 @@
+Title: Dynamical analysis and linear augmentation control of a loaded NSAG-PMSM: influence of stator reference voltage and Arduino-based validation.
+Title: Proposal for a Protocol and a Handmade Arduino-Based and Open Source Device for Measuring the Residual Charge of Alkaline Batteries in View of an Attempt to Recharge Them.
+Title: DIY Arduino calorimeter: Converting commercial thermally insulated coffee-cups into precision isobaric calorimeters.
+Title: Design and Validation of an Arduino-Based, Cost-Effective Heated Anesthesia Induction Chamber for Mice.
+Title: A frugal arduino-based spirometer for low-resource settings: design, development and validation of a preliminary prototype.
+Title: Empirical Evaluation of Unoptimized Sorting Algorithms on 8-Bit AVR Arduino Microcontrollers.
+Title: Environmental Measurement and Control System for Animal Health Research Using Arduino.
+Title: Development and Validation of a Low-Cost Arduino-Based Lee Disc System for Thermal Conductivity Analysis of Sustainable Roofing Materials.
+Title: Proof-of-Concept Development of a Bioelectric Biosensor Using Arduino for Monitoring Dopaminergic Response in Neuroblastoma Cells.
+Title: Arduino-Based Volatile Delivery System for Evaluating Honeybee Learning.
+Title: Project-based learning with arduino robots: impact on undergraduate students' achievement and task persistence in robotics programming.
+Title: Arduino-based fine particulate matter STEM program: enhancing problem-solving and collaboration in a post-pandemic blended high school setting.
+Title: Optimizing thermal diffusivity measurements for fluids with accessible 3D printing and Arduino-based temperature control.
+Title: Silicon Spike: An Arduino-based low-cost and open-access triggerbox to precisely control TMS devices.
+Title: Wearable Arduino-Based Electronic Interactive Tattoo: A New Type of High-Tech Humanized Emotional Expression for Electronic Skin.
+Title: Arduino allows development of a low-cost, high-resolution metabolic and behavioral phenotyping system for birds.
+Title: Microscale Flow Control and Droplet Generation Using Arduino-Based Pneumatically-Controlled Microfluidic Device.
+Title: Chromogenic Chemosensor for Simultaneous Detection of PO
+Title: Synergistic integration of a rhodamine-labelled tripeptide into AIE-active fluorogenic probe: Enabling nanomolar detection of Al
+Title: Cost-effective, open-source light shutters with Arduino control.
+Title: An Arduino-Powered Device for the Study of White Perception beyond the Visual Chromatic Critical Flicker Fusion Frequency.
+Title: Description of a 'plankton filtration bias' in sequencing-based bacterial community analysis and of an Arduino microcontroller-based flowmeter device that can help to resolve it.
+Title: Portable Arduino-Based Multi-Sensor Device (SBEDAD): Measuring the Built Environment in Street Cycling Spaces.
+Title: Arduino-Based Readout Electronics for Nuclear and Particle Physics.
+Title: Automated H
+Title: Low-Cost Approach to an Instream Water Depth Sensor Construction Using Differential Pressure Sensors and Arduino Microcontrollers.
+Title: Computational thinking and programming with Arduino in education: A systematic review for secondary education.
+Title: Low-Cost Arduino Reverse Transcriptase Loop-Mediated Isothermal Amplification (RT-LAMP) for Sensitive Nucleic Acid Detection.
+Title: An upgrade of the primary length standard of Republic of Serbia where digital stabilization is performed by Arduino Due board.
+Title: Developing and testing an Arduino-based microcurrent stimulator to mimic marine electric pollution on benthos.
+Title: MATLAB Tool Allowing Wireless Control of Arduino Robot for Early Introduction of Robotics into Curriculum.
+Title: An ICT-based highly fluorescent isoquinoline scaffold for selective Hg(II) detection in real-water samples: Development of a smart, low-cost RGB-Arduino electronic platform.
+Title: Interfacing Arduino Boards with Optical Sensor Arrays: Overview and Realization of an Accurate Solar Compass.
+Title: A Low-Cost Lightweight Deflectometer with an Arduino-Based Signal Interpretation Kit to Evaluate Soil Modulus.
+Title: Development of an Arduino-based, open-control interface for hardware in the loop applications.
+Title: GO/CuO Nanohybrid-Based Carbon Dioxide Gas Sensors with an Arduino Detection Unit.
+Title: Reliability Testing of a Low-Cost, Multi-Purpose Arduino-Based Data Logger Deployed in Several Applications Such as Outdoor Air Quality, Human Activity, Motion, and Exhaust Gas Monitoring.
+Title: Autotitrator based on an Arduino Open Source Pump.
+Title: Enerduino-pro: Smart meter led probe using Arduino.
+Title: Development and Evaluation of a Low-Cost Triglyceride Quantification Enzymatic Biosensor Using an Arduino-Based Microfluidic System.
+Title: Low-cost and open-source neonatal incubator operated by an Arduino microcontroller.
+Title: Automation of an atomic force microscope via Arduino.
+Title: Arduino-Based Low-Cost Device for the Measurement of Detonation Times in Blasting Caps.
+Title: SALAD: Syringe-based Arduino-operated Low-cost Antibody Dispenser.
+Title: Arduino based intra-cerebral microinjector device for neuroscience research.
+Title: A simple computerized Arduino-based control system for insect rotary flight mills.
+Title: Robust Arduino controlled spin coater using a novel and simple gravity chuck design.
+Title: An interactive and realistic phantom for cricothyroidotomy simulation of a patient with obesity through a reusable design using 3D-printing and Arduino.
+Title: Security Evaluation of Arduino Projects Developed by Hobbyist IoT Programmers.
+Title: Creation and Analysis of a Respiratory Sensor Using the Screen-Printing Method and the Arduino Platform.
+Title: Emulating clinical pressure waveforms in cell culture using an Arduino-controlled millifluidic 3D-printed platform for 96-well plates.
+Title: Ötz-T: 3D-printed open-source turbidity sensor with Arduino shield for suspended sediment monitoring.
+Title: Arduino Automated Microwave Oven for Tissue Decalcification.
+Title: Solar panel surface dirt detection and removal based on arduino color recognition.
+Title: Operational and Analytical Modal Analysis of a Bridge Using Low-Cost Wireless Arduino-Based Accelerometers.
+Title: Low-cost Arduino controlled dual-polarity high voltage power supply.
+Title: Portuino-A Novel Portable Low-Cost Arduino-Based Photo- and Fluorimeter.
+Title: Laser beam steering automation with an Arduino-based CNC shield for standoff femtosecond filament-induced breakdown spectroscopic studies.
+Title: Fluorometer Control and Readout Using an Arduino Nano 33 BLE Sense Board.
+Title: MADV-DAQ: Multi-channel Arduino-based differential voltage data acquisition system for remote strain measurement applications.
+Title: SnapFib: An easy build Arduino based tabletop prototype for thin film deposition by Successive Ionic Layer Adsorption and Reaction method.
+Title: Arduino-based, low-cost imaging incubator for extended live cell imaging.
+Title: A Portable Continuous-Flow Polymerase Chain Reaction Chip Device Integrated with Arduino Boards for Detecting 
+Title: Point-of-care system for rapid real-time detection of SARS-CoV-2 virus based on commercially available Arduino platforms.
+Title: High altitude balloon testing of Arduino and environmental sensors for CubeSat prototype.
+Title: Automatically Controlled Dust Generation System Using Arduino.
+Title: A low-cost, accessible, and high-performing Arduino-based seawater pH control system for biological applications.
+Title: The e-RFIDuino: An Arduino-based RFID environmental station to monitor mobile tags.
+Title: Illicit discharge detection in stormwater drains using an Arduino-based low-cost sensor network.
+Title: An original Arduino-controlled anaerobic bioreactor packed with biochar as a porous filter media.
+Title: Portable and Label-Free Quantitative Loop-Mediated Isothermal Amplification (LF-qLamp) for Reliable COVID-19 Diagnostics in Three Minutes of Reaction Time: Arduino-Based Detection System Assisted by a pH Microelectrode.
+Title: Ammonia Generation System for Poultry Health Research Using Arduino.
+Title: Reactor control system in bacterial co-culture based on fluorescent proteins using an Arduino-based home-made device.
+Title: High-throughput and versatile design for multi-layer coating deposition using lab automation through Arduino-controlled devices.
+Title: [Control of High Voltage Pulse Generator Based on Arduino and Its Peripheral Sensors for Cell Irreversible Electroporation Test].
+Title: Non-enzymatic and rapid detection of glucose on PVA-CuO thin film using ARDUINO UNO based capacitance measurement unit.
+Title: A New Application in Biology Education: Development and Implementation of Arduino-Supported STEM Activities.
+Title: A Fully Integrated Arduino-Based System for the Application of Stretching Stimuli to Living Cells and Their Time-Lapse Observation: A Do-It-Yourself Biology Approach.
+Title: High-resolution Arduino-based data acquisition devices for microscale separation systems.
+Title: An Arduino-based constant pressure fluid pump.
+Title: Low-cost smartphone-controlled potentiostat based on Arduino for teaching electrochemistry fundamentals and applications.
+Title: Teaching Chemistry with Arduino Experiments in a Mixed Virtual-Physical Learning Environment.
+Title: Arduino-Based Myoelectric Control: Towards Longitudinal Study of Prosthesis Use.
+Title: A Working Prototype Using DS18B20 Temperature Sensor and Arduino for Health Monitoring.
+Title: An experimental control system for electron spectrometers using Arduino and LabVIEW interfaces.
+Title: Interactions of construal levels on programming ability and learning satisfaction: A case study of an Arduino course for junior high school students.
+Title: Design and Development of a Low-Cost Arduino-Based Electrical BioImpedance Spectrometer.
+Title: Do-it-yourself methodology for calorimeter construction based in Arduino data acquisition device for introductory chemical laboratories.
+Title: Quantification of melamine in infant formula using a handheld Raman spectrometer - Performance boost with customized Arduino-controlled rotation setup.
+Title: ARduino-pH Tracker and screening platform for characterization of recombinant carbonic anhydrase in Escherichia coli.
+Title: An Automation System for Controlling Streetlights and Monitoring Objects Using Arduino.
+Title: Design and Development of a 5-Channel Arduino-Based Data Acquisition System (ABDAS) for Experimental Aerodynamics Research.
+Title: Arduino-Based Novel Hardware Design for Liquid Helium Level Measurement.
+Title: Cave Pearl Data Logger: A Flexible Arduino-Based Logging Platform for Long-Term Monitoring in Harsh Environments.
+Title: Loop-mediated isothermal amplification (LAMP) shield for Arduino DNA detection.
+Title: ArControl: An Arduino-Based Comprehensive Behavioral Platform with Real-Time Performance.
+Title: Arduino control of a pulsatile flow rig.
+Title: An Open-Source Automated Peptide Synthesizer Based on Arduino and Python.
+Title: Characterizing Graphene-modified Electrodes for Interfacing with Arduino®-based Devices.
+Title: Arduino-based noise robust online heart-rate detection.
+Title: Tribute to Arduino Verdecchia.
+Title: An Inexpensive, Open-Source USB Arduino Data Acquisition Device for Chemical Instrumentation.
+Title: Arduino Due based tool to facilitate in vivo two-photon excitation microscopy.
+Title: Low cost venom extractor based on Arduino(®) board for electrical venom extraction from arthropods and other small animals.
+Title: Development of a Low-Cost Arduino-Based Sonde for Coastal Applications.
+Title: Tap Arduino: An Arduino microcontroller for low-latency auditory feedback in sensorimotor synchronization experiments.
+Title: An Experimental Realization of a Chaos-Based Secure Communication Using Arduino Microcontrollers.
+Title: Arduino-based automation of a DNA extraction system.
+Title: An Arduino-Based Resonant Cradle Design with Infant Cries Recognition.
+Title: ROBucket: A low cost operant chamber based on the Arduino microcontroller.
+Title: Low-cost USB interface for operant research using Arduino and Visual Basic.
+Title: StimDuino: an Arduino-based electrophysiological stimulus isolator.
+Title: A low-cost real color picker based on Arduino.
+Title: ArduiPod Box: a low-cost and open-source Skinner box using an iPod Touch and an Arduino microcontroller.
+Title: Using Arduino microcontroller boards to measure response latencies.
+Title: An inexpensive Arduino-based LED stimulator system for vision research.
+Title: Arduino: a low-cost multipurpose lab equipment.

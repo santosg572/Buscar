@@ -1,0 +1,32 @@
+art001
+======
+
+**Teaching Chemistry with Arduino Experiments in a Mixed Virtual‑Physical Learning Environment - 2021**
+
+A study with K-9 Greek students was conducted in order to evaluate how the declarative knowledge acquisition was 
+affected by incorporating Arduino experiments in secondary Chemistry Education. A Digital Application (DA) that blends 
+the use of the Arduino sensors’ experiments with digital educational material, including Virtual Labs (VLs), was 
+constructed from scratch to be used through the Interactive Board (IB) as a learning tool by three different student 
+groups (N = 154). In the first stage of the learning process, all groups used only the digital material of the DA. In 
+the second stage, the three groups used different learning tools of the DA. Through the IB, the first group used 
+Arduino experiments, the second one the VLs, and the third only static visualizations. A pre- to post-test statistical 
+analysis demonstrated that the first two groups were equivalent in regard to achievement in declarative knowledge tests 
+and of a higher level than the third group. Therefore, it can be concluded that conducting Arduino experiments in a 
+mixed virtual-physical environment results in equivalent learning gains in declarative knowledge as those attained by 
+using VL experimentation through the IB.
+
+Se realizó un estudio con estudiantes griegos de primaria (de K-9) para evaluar cómo la incorporación de experimentos 
+con Arduino en la enseñanza de la química en la educación secundaria afectaba la adquisición de conocimiento 
+declarativo. Se construyó desde cero una aplicación digital (AD) que combina el uso de experimentos con sensores 
+Arduino con material educativo digital, incluyendo laboratorios virtuales (LV), para ser utilizada a través de la 
+pizarra interactiva (PI) como herramienta de aprendizaje por tres grupos de estudiantes diferentes (N = 154). En la 
+primera etapa del proceso de aprendizaje, todos los grupos utilizaron únicamente el material digital de la AD. En la 
+segunda etapa, los tres grupos utilizaron diferentes herramientas de aprendizaje de la AD. A través de la PI, el primer 
+grupo utilizó experimentos con Arduino, el segundo los LV y el tercero solo visualizaciones estáticas. Un análisis 
+estadístico pre y post-prueba demostró que los dos primeros grupos obtuvieron resultados equivalentes en las pruebas de 
+conocimiento declarativo y de un nivel superior al del tercer grupo. Por lo tanto, se puede concluir que la realización 
+de experimentos con Arduino en un entorno mixto virtual-físico produce ganancias de aprendizaje en conocimiento 
+declarativo equivalentes a las obtenidas mediante la experimentación con LV a través de la PI.
+
+
+

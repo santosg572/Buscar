@@ -1,6 +1,35 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 from deep_translator import GoogleTranslator
 
-file = 'sleep_quality_may0626.txt'
+file = 'built_environments_may0626.txt'
 
 fil = open(file,'r')
 
