@@ -1,7 +1,9 @@
 import sys
 from pymed import PubMed
 
-palabra = sys.argv[1]
+#palabra = sys.argv[1]
+
+palabra = "chaos"
 
 # Initialize the PubMed client
 # Note: You must provide a valid tool name and email for the PubMed API
@@ -24,13 +26,19 @@ pubmed = PubMed(tool="MyPubMedSearcher", email="my@email.address")
 palabra = palabra+"[Title]"
 results = pubmed.query(palabra, max_results=5000)  
 
+file = "chaos_may1126.txt"
+
+filon = open(file, 'w')
 
 # Loop through the results
+k = 1
 for article in results:
     print(f"Title: {article.title}")
+    filon.write(str(k)+'.- '+article.title+'\n')
 #    print(f"Authors: {article.authors}")
 #    print(f"Publication Date: {article.publication_date}")
 #    print(f"Summary: {article.abstract}")
 #    print("-" * 40)
-
+    k = k+1
+filon.close()
 
