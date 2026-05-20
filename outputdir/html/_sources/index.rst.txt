@@ -17,4 +17,5 @@ documentation for details.
 
    articulos/art001
    PUBMED/sleep_quality_may0626_traducido
+   PUBMED/gifted_title_traducido
 
