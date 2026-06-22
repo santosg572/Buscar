@@ -6,4 +6,7 @@ discapacidad
 levodopa/carbidopa,
 demencia
 deterioro cognitivo
+encontrar los url de cierta palabra con python
+buscar todas las paginas web con python
+
 
